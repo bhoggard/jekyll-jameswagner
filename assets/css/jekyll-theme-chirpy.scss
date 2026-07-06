@@ -1,0 +1,62 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+$sans-font: verdana, arial, helvetica, sans-serif;
+
+/* Site-wide font, matching the old jameswagner.com site. Headings set their
+   own font-family (don't inherit from body), so they need an explicit
+   override too. */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $sans-font;
+}
+
+/* Old site's body text color and size. Chirpy sizes everything else (headings,
+   .content, etc.) in rem off the :root font-size (16px, untouched here), so
+   this only affects the base/inherited size rather than cascading through the
+   theme's rem-based spacing and type scale. */
+body {
+  color: #333333;
+  font-size: 13px;
+}
+
+/* Old site was a simple 2-column layout (nav sidebar + single content column,
+   no third column). Chirpy's right-hand widget panel ("Recently Updated" /
+   "Trending Tags") has no equivalent on the old site, so hide it entirely.
+
+   Chirpy's own _sass/layout/_panel.scss already hides #panel-wrapper below
+   the xl breakpoint (`@include bp.lt(bp.get(xl)) { display: none; }`), so it
+   is only ever visible at >= 1200px viewports today. This rule just needs to
+   also cover that remaining >= xl case; it's harmless (and left unconditional
+   rather than wrapped in the same media query) for the narrower breakpoints
+   where it's already hidden. */
+#panel-wrapper {
+  display: none;
+}
+
+/* ...and reclaim the width it leaves behind. At >= xl, main is `col-xl-9`
+   (75%); with the panel gone we want it to take the full row instead of
+   leaving a quarter of the page blank. `main.col-xl-9` (element + class) is
+   more specific than Bootstrap's own `.col-xl-9` rule, so this wins without
+   needing `!important`. */
+@media (min-width: 1200px) {
+  main.col-xl-9 {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 100%;
+  }
+}

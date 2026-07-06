@@ -214,6 +214,7 @@ slug_link_count = 0
 old_site_fallback_count = 0
 protocol_relative_count = 0
 bare_domain_href_count = 0
+mailto_scheme_typo_count = 0
 written = 0
 seen_filenames = {}
 
@@ -389,6 +390,22 @@ entries.each do |row|
     %(href="http://#{$1}")
   end
 
+  # --- Stray "mailto:" immediately in front of an http(s) URL ---
+  # Two entries have `href="mailto:http://..."` / `href="mailto:https://..."`
+  # -- a typo where the author (or some copy/paste path) left a "mailto:"
+  # prefix in front of what is unambiguously a real web link, not an email
+  # address. This is a certain, non-guessing fix rather than an "accepted
+  # exception": "mailto:" immediately followed by another URL scheme is never
+  # valid syntax (a mailto URI's scheme-specific part is an email address, not
+  # another URI), so stripping the prefix can't misinterpret intent the way
+  # e.g. the bare-domain fix above could. Ordinary `mailto:someone@example.com`
+  # addresses elsewhere in the corpus are untouched since they aren't followed
+  # by "http://"/"https://".
+  html = html.gsub(%r{href="mailto:(https?://[^"]*)"}) do
+    mailto_scheme_typo_count += 1
+    %(href="#{$1}")
+  end
+
   date_str = authored.strftime('%Y-%m-%d')
   offset = offset_str(authored)
   ym = authored.strftime('%Y/%m')
@@ -422,6 +439,7 @@ puts "Cross-post links resolved via date/basename match: #{slug_link_count}"
 puts "Old-site resource links normalized to absolute legacy URL (unresolved): #{old_site_fallback_count}"
 puts "Protocol-relative links (//host) rewritten to https://: #{protocol_relative_count}"
 puts "Bare domain hrefs missing a URL scheme, prefixed with http://: #{bare_domain_href_count}"
+puts "Stray 'mailto:' prefixes immediately before an http(s) URL, stripped: #{mailto_scheme_typo_count}"
 puts "Duplicate filenames: #{seen_filenames.size < written ? 'SEE WARNINGS ABOVE' : 0}"
 puts "Image map written to #{IMAGE_MAP_OUTPUT} - download these into the repo at their listed paths."
 

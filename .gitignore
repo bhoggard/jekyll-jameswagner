@@ -11,6 +11,10 @@ _site
 # RubyGems
 *.gem
 
+# Python cache (tools/scan-mojibake.py)
+__pycache__/
+*.pyc
+
 # NPM dependencies
 node_modules
 package-lock.json

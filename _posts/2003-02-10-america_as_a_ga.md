@@ -1,0 +1,30 @@
+---
+title: "\"America as a gated community won't work\""
+date: 2003-02-10 16:18:23 -05:00
+categories: [Politics]
+permalink: /2003/02/america_as_a_ga.html
+---
+
+<p><a href="http://www.time.com/time/europe/magazine/printout/0,13155,901030120-407288,00.html">A piece in <u>TIME</u></a> on January 20 by Brian Eno [yeah, <a href="http://www.amazon.com/exec/obidos/tg/stores/artist/glance/-/16236/ref=m_art_dp/104-7878892-6394367">Brian Eno</a>] represents the argument of a reasonable European who understands and admires America but is very concerned about what's going on here.  I won't excerpt it, but will copy it whole.  It's not long, and it's argument is compellingly, beautifully written.</p>
+
+<blockquote>
+<p>THE U.S. NEEDS TO OPEN UP TO THE WORLD</p>
+
+<p><i>To this European, America is trapped in a fortress of arrogance and ignorance</i></p>
+
+<p>BY BRIAN ENO</p>
+
+<p>Europeans have always looked at America with a mixture of fascination and puzzlement, and now, increasingly, disbelief. How is it that a country that prides itself on its economic success could have so many very poor people? How is it that a country so insistent on the rule of law should seek to exempt itself from international agreements? And how is it that the world's beacon of democracy can have elections dominated by wealthy special interest groups? For me, the question has become: "How can a country that has produced so much cultural and economic wealth act so dumb?"</p>
+
+<p>I could fill this page with the names of Americans who have influenced, entertained and educated me. They represent what I admire about America: a vigorous originality of thought, and a confidence that things can be changed for the better. That was the America I lived in and enjoyed from 1978 until 1983. That America was an act of faith Â— the faith that "otherness" was not threatening but nourishing, the faith that there could be a country big enough in spirit to welcome and nurture all the diversity the world could throw at it. But since Sept. 11, that vision has been eclipsed by a suspicious, introverted America, a country-sized version of that peculiarly American form of ghetto: the gated community. A gated community is defensive. Designed to keep the "others" out, it dissolves the rich web of society into a random clustering of disconnected individuals. It turns paranoia and isolation into a lifestyle.</p>
+
+<p>Surely this isn't the America that anyone dreamed of; it's a last resort, nobody's choice. It's especially ironic since so much of the best new thinking about society, economics, politics and philosophy in the last century came from America. Unhampered by the snobbery and exclusivity of much European thought, American thinkers vaulted forward Â— courageous, innovative and determined to talk in a public language. But, unfortunately, over the same period, the mass media vaulted backward, thriving on increasingly simple stories and trivializing news into something indistinguishable from entertainment. As a result, a wealth of original and subtle thought Â— America's real wealth Â— is squandered.</p>
+
+<p>This narrowing of the American mind is exacerbated by the withdrawal of the left from active politics. Virtually ignored by the media, the left has further marginalized itself by a retreat into introspective cultural criticism. It seems content to do yoga and gender studies, leaving the fundamentalist Christian right and the multinationals to do the politics. The separation of church and state seems to be breaking down too. Political discourse is now dominated by moralizing, like George W. Bush's promotion of American "family values" abroad, and dissent is unpatriotic. "You're either with us or against us" is the kind of cant you'd expect from a zealous mullah, not an American President.</p>
+
+<p>When Europeans make such criticisms, Americans assume we're envious. "They want what we've got," the thinking goes, "and if they can't get it, they're going to stop us from having it." But does everyone want what America has? Well, we like some of it but could do without the rest: among the highest rates of violent crime, economic inequality, functional illiteracy, incarceration and drug use in the developed world. President Bush recently declared that the U.S. was "the single surviving model of human progress." Maybe some Americans think this self-evident, but the rest of us see it as a clumsy arrogance born of ignorance.</p>
+
+<p>Europeans tend to regard free national health services, unemployment benefits, social housing and so on as pretty good models of human progress. We think it's important Â— civilized, in fact Â— to help people who fall through society's cracks. This isn't just altruism, but an understanding that having too many losers in society hurts everyone. It's better for everybody to have a stake in society than to have a resentful underclass bent on wrecking things. To many Americans, this sounds like socialism, big government, the nanny state. But so what? The result is: Europe has less gun crime and homicide, less poverty and arguably a higher quality of life than the U.S., which makes a lot of us wonder why America doesn't want some of what we've got.</p>
+
+<p>Too often, the U.S. presents the "American way" as the only way, insisting on its kind of free-market Darwinism as the only acceptable "model of human progress." But isn't civilization what happens when people stop behaving as if they're trapped in a ruthless Darwinian struggle and start thinking about communities and shared futures? America as a gated community won't work, because not even the world's sole superpower can build walls high enough to shield itself from the intertwined realities of the 21st century. There's a better form of security: reconnect with the rest of the world, don't shut it out; stop making enemies and start making friends. Perhaps it's asking a lot to expect America to act differently from all the other empires in history, but wasn't that the original idea?</p>
+</blockquote>

@@ -97,13 +97,26 @@ end
 # boundaries exactly and still converts single newlines to <br /> inside
 # quoted blocks (matching MT's actual behavior for e.g. Steve's multi-
 # paragraph field report quoted inside a single <blockquote> in entry 2795).
-BLOCK_TAGS = %w[blockquote ul ol table div form pre].freeze
+#
+# Not every block-level container should recurse into paragraph/<br />
+# conversion, though: <table>/<pre>/<ul>/<ol> in this corpus are hand-authored
+# structural HTML (<tr>/<td>/<li> markup, single-line, no blank-line prose
+# paragraphs -- verified against every entry using these tags), not quoted
+# prose. Wrapping their contents in <p> produces invalid nesting (<p> is not
+# a valid child of <table>/<ul>/<ol>, and browsers foster-parent that content
+# right out of the container, breaking the layout). PROSE_BLOCK_TAGS get the
+# recursive paragraph treatment (blockquote/div/form commonly wrap multi-
+# paragraph text); ATOMIC_BLOCK_TAGS are passed through completely unchanged.
+PROSE_BLOCK_TAGS = %w[blockquote div form].freeze
+ATOMIC_BLOCK_TAGS = %w[table ul ol pre].freeze
+BLOCK_TAGS = (PROSE_BLOCK_TAGS + ATOMIC_BLOCK_TAGS).freeze
 BLOCK_TAG_RE = /<(\/?)(#{BLOCK_TAGS.join('|')})\b[^>]*>/i
 
 def split_blocks(text)
   segments = []
   depth = 0
   block_start = nil
+  block_tag = nil
   last_pos = 0
   text.to_enum(:scan, BLOCK_TAG_RE).each do
     m = Regexp.last_match
@@ -111,13 +124,14 @@ def split_blocks(text)
     if closing
       depth -= 1 if depth.positive?
       if depth.zero?
-        segments << { type: :block, content: text[block_start...m.end(0)] }
+        segments << { type: :block, tag: block_tag, content: text[block_start...m.end(0)] }
         last_pos = m.end(0)
       end
     else
       if depth.zero?
         segments << { type: :text, content: text[last_pos...m.begin(0)] }
         block_start = m.begin(0)
+        block_tag = m[2].downcase
       end
       depth += 1
     end
@@ -140,6 +154,10 @@ def convert_breaks(text)
     if seg[:type] == :text
       html = paragraphs_to_html(seg[:content])
       html.empty? ? nil : html
+    elsif ATOMIC_BLOCK_TAGS.include?(seg[:tag])
+      # Hand-authored structural markup (table/list/preformatted) -- pass
+      # through completely unchanged, no paragraph wrapping.
+      seg[:content]
     else
       content = seg[:content]
       m = content.match(/\A(<[^>]+>)(.*)(<\/[a-zA-Z]+>)\z/m)

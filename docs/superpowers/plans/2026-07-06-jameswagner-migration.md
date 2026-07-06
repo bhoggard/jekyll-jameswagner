@@ -22,16 +22,23 @@
 
 This section exists so a fresh session doesn't have to re-derive facts already established during the bloggy migration (2026-07-05/06 session). Everything below was empirically verified, not assumed.
 
-### Known Architectural Difference: numeric URLs are canonical, not redirects
+### CORRECTED by Task 2: the canonical scheme is date/slug (underscore), not numeric
 
-On bloggy.com, `/mt/archives/NNNNNN.html` files were PHP stubs issuing a 301 redirect to a newer slug-based URL (`/YYYY/MM/dashed-slug.html`). On **jameswagner.com, this is NOT the case**:
+An earlier single-sample check (below, kept for record) concluded the numeric `/mt_archives/NNNNNN.html` form was canonical. **Task 2's full investigation (28 entries, spanning 2002-2020) found the opposite is true site-wide**, and this single sample was a rare exception, not the rule:
 
-- The backup at `/Users/barry/data/james-mt/mt_archives/*.html` (524 numeric files) contains **zero PHP** anywhere — confirmed via `grep -rl '<?php' /Users/barry/data/james-mt` returning nothing, and `find /Users/barry/data/james-mt -name "*.php"` returning nothing.
-- Every numeric file is a **complete, real page** with actual post content (verified by reading `mt_archives/005954.html` in full — it's a full MT-templated page with title, body, comments, prev/next navigation, sidebar).
-- The **live site confirms it**: `curl -o /dev/null -w "%{http_code}" https://jameswagner.com/mt_archives/005954.html` returns `200`, serving real content directly — not a redirect.
-- Checked whether a slug-based alternate URL also exists for the same entry (entry_id 5954, basename `abstract_at_mit_1`, authored 2006-12-09): neither `/2006/12/abstract-at-mit-1.html` nor `/2006/12/abstract_at_mit_1.html` exist in the backup or resolve live (both 404).
+- **jameswagner.com's canonical permalink is `/YYYY/MM/{entry_basename}.html`, with underscores preserved as-is** (NOT converted to dashes — dashed slugs 404 whenever the basename contains an underscore). Confirmed live and content-verified (page `<title>` matched the DB's `entry_title`) across every tested year 2002-2020, in 27/28 cases.
+- The numeric `/mt_archives/NNNNNN.html` form only resolves for a minority of entries clustered in a narrow window around December 2006 (5/19 entries tested in that window had both files; most of the site 404s on the numeric form entirely) — it appears to be an orphaned leftover from an early MT archive-type configuration (ID-based individual archives) that was switched to date-based archives around late 2006, with a few old files left behind after the switch.
+- **Entry 5954 (the original single-sample check, basename `abstract_at_mit_1`, authored 2006-12-09) is the one confirmed exception** where only the numeric URL works and the date/slug URL 404s (out of 28 entries tested). It is not representative — do not generalize from it.
+- No basename collisions exist within any (year-month, basename) pair across all 3,415 published entries — the date/slug scheme is safe to use as a unique migration key with no de-duplication needed.
 
-**Conclusion:** jameswagner.com's permalink scheme is `/mt_archives/NNNNNN.html` (the numeric entry ID), not a date/slug scheme. **Do not assume the bloggy pattern (`/YYYY/MM/dashed-slug.html`) applies here.** This needs fresh empirical verification (see Task 2) before writing any migration/permalink code, since the actual scheme could be numeric-only, or there could be a _different_ slug scheme this investigation didn't stumble across (only the two most likely dash/underscore slug variants were checked for one sample entry).
+**Conclusion:** build Jekyll permalinks as `/YYYY/MM/{entry_basename}.html` (underscore preserved) for all entries. Because a small number of entries (at least id 5954) don't have a working date/slug URL live, Task 4 should verify each constructed URL against the live site (or otherwise flag exceptions) rather than assume 100% of entries fit the pattern — see Task 4 Step 3. Full evidence: `/Users/barry/code/jekyll/james-wagner/.superpowers/sdd/task-2-report.md`.
+
+<details>
+<summary>Original single-sample check (superseded — kept for record)</summary>
+
+On bloggy.com, `/mt/archives/NNNNNN.html` files were PHP stubs issuing a 301 redirect to a newer slug-based URL (`/YYYY/MM/dashed-slug.html`). The original check on jameswagner.com found: the backup at `/Users/barry/data/james-mt/mt_archives/*.html` (524 numeric files) contains zero PHP; every numeric file is a complete, real page (verified via `mt_archives/005954.html`); the live site returns 200 (not a redirect) for that same numeric URL; and no working slug-based alternate was found for that one entry. This was correctly observed, but wrongly generalized to the whole site — see the correction above.
+
+</details>
 
 ### Backup and access details
 
@@ -61,7 +68,7 @@ These technical approaches were built, tested against thousands of real posts, a
    - Copy present ones to the exact same relative path in the new repo (Jekyll copies plain files/directories through to `_site/` untouched)
    - For genuinely missing images, leave the `src=` pointing at the original absolute URL rather than a local path that will never exist — `--disable-external` in html-proofer then skips them instead of flagging a broken internal link
 
-3. **Redirect-stub generation** (`tools/generate-mt-redirects.rb`, `tools/generate-underscore-redirects.rb`) — **only apply if jameswagner.com actually has a redirect scheme to replicate**. Given the Known Architectural Difference above, this may not apply at all, or may need a _completely different_ implementation (e.g., if jameswagner.com's canonical URL really is `/mt_archives/NNNNNN.html`, then that literal path needs to be preserved as the Jekyll permalink, not redirected away from). Do not copy these scripts uncritically — re-derive what's actually needed once Task 2's investigation is complete.
+3. **Redirect-stub generation** (`tools/generate-mt-redirects.rb`, `tools/generate-underscore-redirects.rb`) — Task 2 confirmed the canonical scheme is `/YYYY/MM/{entry_basename}.html` (underscore preserved), the same *shape* as bloggy's date/slug scheme, just without the dash-normalization (bloggy converted underscores to dashes; jameswagner.com keeps underscores as-is). This means `generate-underscore-redirects.rb`'s specific purpose (bridging a dash/underscore mismatch) doesn't apply here. **The user has decided (2026-07-06) to preserve the legacy numeric `/mt_archives/NNNNNN.html` URLs** for the minority of entries that still have one — see Task 4 Step 7 (new) for the adapted redirect-generation approach. Unlike bloggy, where the numeric files were PHP 301-redirect stubs, jameswagner.com's numeric files are full duplicate content pages (per Task 2), so the adaptation must treat every numeric file found in the backup as "redirect this to the entry's new canonical permalink," not filter for `<?php` stubs like bloggy's script did.
 
 4. **Encoding bug detection/fix** — bloggy had systemic UTF-8 mojibake (104 posts, 203 occurrences of single-pass corruption, plus 1 double-pass instance) baked into the _source database itself_, not introduced by migration. Detection pattern: `[Ãâ][continuation-byte-range]+` runs, fixed by iteratively reversing `text.encode('cp1252').decode('utf-8')` until no mojibake signature remains (some instances needed 2 passes). **Scan jameswagner.com's source for the same pattern** — given it's the same era/software/likely same original encoding mishap history, this is a near-certainty, not a maybe.
 
@@ -218,6 +225,7 @@ git commit -m "Initial Chirpy starter scaffold for jameswagner.com migration"
 **Files:**
 
 - Create: `tools/migrate-mt-to-jekyll.rb` (copy from bloggy repo, adapt)
+- Create: `tools/generate-jameswagner-legacy-redirects.rb` (adapt from bloggy's `tools/generate-mt-redirects.rb` — see Step 7)
 - Create: `Gemfile` group addition for `mysql2`, `tzinfo` (copy bloggy's `:migration` optional group pattern; omit `RedCloth` — this blog does not use Textile)
 
 **Interfaces:**
@@ -241,13 +249,15 @@ SITE_TIMEZONE = 'America/New_York' # confirm this is still correct for jameswagn
 
 - [ ] **Step 3: Rewrite the permalink-generation logic to match Task 2's confirmed scheme**
 
-If Task 2 confirms `/mt_archives/NNNNNN.html` is canonical (the likely outcome based on prior investigation), the permalink logic is fundamentally different from bloggy's `/YYYY/MM/dashed-slug.html` — it becomes simply:
+Task 2 confirmed the canonical scheme is `/YYYY/MM/{entry_basename}.html`, with underscores preserved as-is (not converted to dashes, unlike bloggy). This is the same *shape* as bloggy's logic, minus the dash-normalization step:
 
 ```ruby
-permalink = "/mt_archives/#{entry_id.to_s.rjust(6, '0')}.html"
+permalink = entry_authored_on.strftime("/%Y/%m/") + "#{entry_basename}.html"
 ```
 
-Adjust the `id_to_permalink`/`slug_to_permalink` maps and cross-post link resolution logic (bloggy's rules 1-3 in the script) accordingly — if there's no slug scheme at all, the underscore/dash normalization logic (rule 3) may not apply, but the numeric cross-reference logic (rules 1-2) likely still does, since jameswagner.com's own posts probably link to each other via the same `/mt_archives/NNNNNN.html` form already (no rewriting needed) — but verify by checking for old-style link patterns other than plain relative `NNNNNN.html` in the source (e.g. it's plausible internal links are just `href="005954.html"` since the whole domain lives under this one directory pattern).
+Adjust the `id_to_permalink`/`slug_to_permalink` maps and cross-post link resolution logic (bloggy's rules 1-3 in the script) accordingly — reuse rule 3's shape but drop the dash-conversion (jameswagner.com's basenames are used verbatim). Also verify how jameswagner.com's own posts link to each other internally (old-style relative links, e.g. `href="005954.html"` or similar) so cross-post links get rewritten to the new permalink form, the same way bloggy's script did.
+
+**Known exception:** Task 2 found entry_id 5954 (and possibly other rare cases — spot-check was not exhaustive) has no working `/YYYY/MM/{basename}.html` URL live; only its legacy `/mt_archives/005954.html` file resolves. This does not need special-casing here: every entry still gets the uniform `/YYYY/MM/{basename}.html` permalink (entry 5954 simply gets a URL that didn't previously resolve, which is fine for a newly-built site), and Step 7 (new, below) separately generates a legacy-numeric-URL redirect stub for any entry whose old numeric file exists in the backup — including entry 5954, so its old link keeps working too.
 
 - [ ] **Step 4: Add a Gemfile migration group**
 
@@ -273,11 +283,21 @@ bundle exec ruby tools/migrate-mt-to-jekyll.rb
 
 - [ ] **Step 6: Remove the test filter and run the full migration**
 
-- [ ] **Step 7: Commit the migration script (not the generated content yet)**
+- [ ] **Step 7: Generate redirect stubs for legacy numeric URLs**
+
+The user has decided to preserve the legacy `/mt_archives/NNNNNN.html` URLs for entries that still have one, rather than letting them 404. Adapt bloggy's `tools/generate-mt-redirects.rb` into a new `tools/generate-jameswagner-legacy-redirects.rb`:
+
+- Build the same `id_to_permalink` map as the main migration script (Step 3's logic: `/YYYY/MM/{entry_basename}.html`, underscore preserved, for all published entries).
+- Scan `~/data/james-mt/mt_archives/*.html` (524 files) for files matching `NNNNNN.html`. Unlike bloggy's version, **do not** filter for `<?php`-stub content — every numeric file found here is a legacy duplicate content page (per Task 2's finding) that should become a redirect stub, not a PHP redirect already.
+- For every numeric file whose ID maps to a published entry, generate a static redirect stub at `/mt_archives/{id}.html` (meta refresh + JS redirect + plain link, same as bloggy's stub format) pointing at that entry's new `/YYYY/MM/{basename}.html` permalink.
+- This covers entry 5954 (Task 4 Step 3's known exception) automatically, since its numeric file exists in the backup — no special-casing needed beyond this general scan.
+- Note any numeric files that do NOT map to a published entry (e.g. drafts, deleted entries, the 3 `page`-class entries) and report them rather than silently skipping.
+
+- [ ] **Step 8: Commit the migration script and redirect generator (not the generated content yet)**
 
 ```bash
-git add tools/migrate-mt-to-jekyll.rb Gemfile
-git commit -m "Add jameswagner.com migration script"
+git add tools/migrate-mt-to-jekyll.rb tools/generate-jameswagner-legacy-redirects.rb Gemfile
+git commit -m "Add jameswagner.com migration script and legacy URL redirect generator"
 ```
 
 ---

@@ -34,6 +34,21 @@ body {
   font-size: 13px;
 }
 
+/* Post body paragraphs don't actually inherit body's font-size above: Chirpy
+   sets an explicit rem size directly on `.content` (the post-body wrapper) in
+   the gem's _sass/base/_base.scss — `font-size: 1.08rem`, dropping to
+   `1.03rem` at the xl breakpoint via `@include bp.xl`. Both are rem, i.e.
+   relative to the untouched 16px :root, so rendered paragraphs were computing
+   to ~17.28px / ~16.48px regardless of the body-level override above. Matching
+   the old site's 13px paragraph text needs a second, targeted override here
+   rather than touching :root — same reasoning as above, just one level
+   deeper. This rule has no media query, so (being equal specificity to and
+   later in the cascade than both of the gem's `.content` rules) it wins over
+   the base 1.08rem case and the xl-breakpoint 1.03rem case alike. */
+.content {
+  font-size: 13px;
+}
+
 /* Old site was a simple 2-column layout (nav sidebar + single content column,
    no third column). Chirpy's right-hand widget panel ("Recently Updated" /
    "Trending Tags") has no equivalent on the old site, so hide it entirely.

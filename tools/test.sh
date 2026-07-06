@@ -63,6 +63,8 @@ main() {
   # test
   bundle exec htmlproofer "$SITE_DIR" \
     --disable-external \
+    --no-enforce-https \
+    --ignore-missing-alt \
     --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 }
 

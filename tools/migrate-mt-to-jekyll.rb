@@ -212,6 +212,8 @@ image_count = 0
 id_link_count = 0
 slug_link_count = 0
 old_site_fallback_count = 0
+protocol_relative_count = 0
+bare_domain_href_count = 0
 written = 0
 seen_filenames = {}
 
@@ -357,6 +359,36 @@ entries.each do |row|
     %(#{attr}="https://#{SOURCE_DOMAIN}#{path}")
   end
 
+  # --- Protocol-relative links (`href="//host/path"`) ---
+  # A rare style from the pre-HTTPS-everywhere era: valid at the time, but
+  # html-proofer correctly flags it as ambiguous today. Since the site is
+  # always served over https, resolving "//host" to "https://host" is exactly
+  # what a browser on this site would already do -- not a content change.
+  html = html.gsub(%r{(src|href)="//([^"]+)"}) do
+    protocol_relative_count += 1
+    %(#{$1}="https://#{$2}")
+  end
+
+  # --- Bare domain hrefs missing a URL scheme ---
+  # A handful of entries have `href="www.example.com/path"` (or, in one case,
+  # a domain with a dropped letter, "ww.nynewsday.com/...") -- the author
+  # simply forgot the "http://" prefix. These are unambiguous to detect: the
+  # value already has the shape of a domain (an alnum/hyphen label, a dot, a
+  # TLD-like suffix, optionally a path, with no whitespace) yet starts with
+  # neither a scheme nor "/" -- which is exactly why html-proofer's internal
+  # link checker mistakes them for a broken relative link. Restoring the
+  # missing "http://" repairs a forgotten prefix; it does not guess at any
+  # missing content, and (matching --no-enforce-https) deliberately does not
+  # upgrade it to https. This must not be confused with genuine prose
+  # accidentally left in an href instead of a URL (e.g. "National Association
+  # of Police Organizations", "Amelanchier canadensis") -- those contain
+  # spaces or lack a dotted-TLD shape and so don't match this pattern; they're
+  # left alone as unfixable pre-existing content errors.
+  html = html.gsub(/href="([a-zA-Z0-9][a-zA-Z0-9.-]*\.[a-zA-Z]{2,}(?:\/[^"]*)?)"/) do
+    bare_domain_href_count += 1
+    %(href="http://#{$1}")
+  end
+
   date_str = authored.strftime('%Y-%m-%d')
   offset = offset_str(authored)
   ym = authored.strftime('%Y/%m')
@@ -388,6 +420,8 @@ puts "Old Flash object/embed video blocks converted to iframes: #{embed_count}"
 puts "Cross-post links resolved via numeric ID: #{id_link_count}"
 puts "Cross-post links resolved via date/basename match: #{slug_link_count}"
 puts "Old-site resource links normalized to absolute legacy URL (unresolved): #{old_site_fallback_count}"
+puts "Protocol-relative links (//host) rewritten to https://: #{protocol_relative_count}"
+puts "Bare domain hrefs missing a URL scheme, prefixed with http://: #{bare_domain_href_count}"
 puts "Duplicate filenames: #{seen_filenames.size < written ? 'SEE WARNINGS ABOVE' : 0}"
 puts "Image map written to #{IMAGE_MAP_OUTPUT} - download these into the repo at their listed paths."
 

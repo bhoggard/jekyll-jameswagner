@@ -216,6 +216,19 @@ compress_html:
   ignore:
     envs: [development]
 
+# Jekyll's default EntryFilter excludes any file whose basename starts with
+# "#", "_", "." or "~" (treating it as an editor backup/special file) unless
+# explicitly included here. Two real, non-dead images from the jameswagner.com
+# migration (tools/migrate-mt-to-jekyll.rb / tools/migrate-mt-image-map.yml)
+# legitimately have a literal "#" as the first character of their filename
+# (images/#class_collecting_class.jpg, images/#class_board_Dantes_Circles.jpg)
+# -- without this, Jekyll silently drops them from _site and html-proofer
+# reports them as missing, even though the file is present in the source tree
+# and correctly referenced (percent-encoded, "/images/%23...") from the post.
+include:
+  - "images/#class_collecting_class.jpg"
+  - "images/#class_board_Dantes_Circles.jpg"
+
 exclude:
   - "*.gem"
   - "*.gemspec"

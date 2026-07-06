@@ -15,7 +15,7 @@ large detail of Xu Zhen's "ShangART Supermarket" at Shanghai's ShangART Gallery<
 Ann Craven's "Stripe" at New York's Klemens Gasser and Tanja Grunert</p>
 
 <p><img alt="Miguel_Angel_Rojas_Caqueta.jpg" src="/mt_archives/Miguel_Angel_Rojas_Caqueta.jpg" width="600" height="399" /><br />
-large detail of still from Miguel Ãngel Rojas's "Caquetá" at Bogota's Alcuadrado</p>
+large detail of still from Miguel Ángel Rojas's "Caquetá" at Bogota's Alcuadrado</p>
 
 <p><img alt="Juan_Usle_Mardi_Gras.jpg" src="/mt_archives/Juan_Usle_Mardi_Gras.jpg" width="425" height="551" /><br />
 Juan Uslé's "Mardi Gras I" at Cheim & Read</p>
@@ -52,7 +52,7 @@ Zilvinas Landzbergas's 4-part installation, "JPG 3", at Amsterdam's Fons Welters
 
 <p><a href="http://www.generalhotel.org/bove">Carol Bove</a>'s peacock blanket had been covered in the media, but nothing had prepared me for the unearthly beauty of the thing itself.</p>
 
-<p><a href="http://www.alcuadrado-art.com/expositores/miguel_angel_rojas/miguel_angel_rojas.html#">Miguel Ãngel Rojas</a> was our first "discovery" in Miami.  The fact that Barry and I hadn't known this artist's work before probably demonstrates our New York provincialism.  The Columbian gallery, Elcuadrado, showed nothing other than work by this wonderful, mature artist, and I thought it was awesome, the video and photography-based installations in particular.</p>
+<p><a href="http://www.alcuadrado-art.com/expositores/miguel_angel_rojas/miguel_angel_rojas.html#">Miguel Ángel Rojas</a> was our first "discovery" in Miami.  The fact that Barry and I hadn't known this artist's work before probably demonstrates our New York provincialism.  The Columbian gallery, Elcuadrado, showed nothing other than work by this wonderful, mature artist, and I thought it was awesome, the video and photography-based installations in particular.</p>
 
 <p>The video cited here shows a 21-year-old lieutenant who lost the lower part of both arms in the Columbian government's <a href="http://www.commondreams.org/headlines02/0302-02.htm">war</a> against the peasants in Caqueta province.  It's a continuous loop which begins with his face covered in grease paint camouflage and it continues as it records the labored process of the young man washing it off from a basin of water.</p>
 

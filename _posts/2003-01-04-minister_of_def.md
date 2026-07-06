@@ -16,7 +16,7 @@ permalink: /2003/01/minister_of_def.html
 <p>It's an amazing story, perhaps especially for an American reader, since our own government facilitated the establishment of the Pinochet regime [to use a euphemism].</p>
 
 <blockquote>
-<p>Not long after her father died, Dr. Bachelet and her mother, Ãngela Jeria, were themselves jailed for several months and held in separate cells at two detention centers notorious for torture, Villa Grimaldi and Cuatro Ãlamos. Dr. Bachelet was beaten and blindfolded, though "there was nothing with electricity," she says, as if to minimize the severity of the experience.</p>
+<p>Not long after her father died, Dr. Bachelet and her mother, Ángela Jeria, were themselves jailed for several months and held in separate cells at two detention centers notorious for torture, Villa Grimaldi and Cuatro Álamos. Dr. Bachelet was beaten and blindfolded, though "there was nothing with electricity," she says, as if to minimize the severity of the experience.</p>
 
 <p>"I'm not an angel," she said. "I haven't forgotten. It left pain. But I have tried to channel the pain into a constructive realm. I insist on the idea that what happened here in Chile was so painful, so terrible, that I wouldn't wish for anyone to live through our situation again."</p>
 </blockquote>

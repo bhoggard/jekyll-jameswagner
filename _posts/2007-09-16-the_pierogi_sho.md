@@ -36,7 +36,7 @@ Bill Gerhard <em>Four Day Exposure</em> 2006 black paper 12" x 18" [installation
 <p>The complete list of artists in the exhibition:</p>
 
 <blockquote>
-<p>Hildur Ãsgeirsdóttir Jónsson<br />
+<p>Hildur Ásgeirsdóttir Jónsson<br />
 Clement Bagot<br />
 Claudia Barthoi<br />
 Lee Boroson<br />

@@ -7,7 +7,7 @@ permalink: /2007/10/second_annual_n.html
 ---
 
 <p><img alt="Lyon_Noah_paper_mural.jpg" src="/mt_archives/Lyon_Noah_paper_mural.jpg" width="600" height="399" /><br />
-<a href="http://http://jameswagner.com/mt_archives/006052.html">Noah Lyon</a>'s print mural, wrapped around a wall above his colorful booth</p>
+<a href="/2007/02/noah_lyon_at_ho_1.html">Noah Lyon</a>'s print mural, wrapped around a wall above his colorful booth</p>
 
 <p><img alt="Slavs_%26_Tartars_fric.jpg" src="/mt_archives/Slavs_%26_Tartars_fric.jpg" width="400" height="600" /><br />
 <a href="http://www.slavsandtatars.com/">Slavs & Tatars</a> poster ("the money, it's not so smart, says the Tajik guy")</p>

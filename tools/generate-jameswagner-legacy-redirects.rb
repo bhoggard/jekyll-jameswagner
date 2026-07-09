@@ -34,6 +34,16 @@ SOURCE_BACKUP_DIR = '/Users/barry/data/james-mt/mt_archives'
 REPO = File.expand_path('..', __dir__)
 OUTPUT_DIR = File.join(REPO, 'mt_archives')
 
+# Entries with a confirmed old-style /mt_archives/NNNNNN.html reference
+# (found linked from within other jameswagner.com posts, and per the user
+# known to be referenced elsewhere on the internet too) but whose numeric
+# HTML file is missing from SOURCE_BACKUP_DIR, so the Dir.glob scan below
+# would otherwise silently skip them. Confirmed published with a working
+# canonical permalink -- add here to force a stub even without a backup
+# file. (2727, 4872, 6576 are NOT included: those numeric IDs belong to
+# unpublished drafts with no canonical target to redirect to.)
+EXTRA_IDS_MISSING_BACKUP_FILE = [5332, 6052].freeze
+
 my_cnf = File.read(File.expand_path('~/.my.cnf'))
 db_pass = my_cnf[/password="(.*)"/, 1]
 client = Mysql2::Client.new(host: '127.0.0.1', username: 'root', password: db_pass, database: 'movable_type')
@@ -59,8 +69,10 @@ FileUtils.mkdir_p(OUTPUT_DIR)
 written = 0
 skipped_no_target = []
 
-Dir.glob(File.join(SOURCE_BACKUP_DIR, '*.html')).each do |path|
-  basename = File.basename(path)
+backup_basenames = Dir.glob(File.join(SOURCE_BACKUP_DIR, '*.html')).map { |path| File.basename(path) }
+extra_basenames = EXTRA_IDS_MISSING_BACKUP_FILE.map { |id| format('%06d.html', id) }
+
+(backup_basenames + extra_basenames).uniq.each do |basename|
   next unless basename =~ /\A(\d+)\.html\z/
 
   id = $1.to_i

@@ -75,3 +75,57 @@ body {
     max-width: 100%;
   }
 }
+
+/* Styling for the full-post homepage layout (_layouts/home.html), which
+   replaces Chirpy's default excerpt list with full post content. */
+.full-post-preview {
+  padding-bottom: 2.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--main-border-color);
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  header {
+    margin-bottom: 1rem;
+
+    a {
+      text-decoration: none;
+
+      &:hover .post-title {
+        text-decoration: underline;
+      }
+    }
+
+    .post-title {
+      font-size: 1.75rem;
+      color: var(--heading-color);
+      margin: 0 0 0.5rem;
+    }
+
+    .post-meta {
+      color: var(--text-muted-color);
+      font-size: 0.9rem;
+
+      i {
+        &:not(:first-child) {
+          margin-left: 0.25rem;
+        }
+      }
+    }
+  }
+
+  .content {
+    color: var(--text-color);
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    iframe {
+      max-width: 100%;
+    }
+  }
+}

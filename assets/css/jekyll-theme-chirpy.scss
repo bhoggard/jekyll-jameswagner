@@ -156,3 +156,14 @@ main h1 {
     }
   }
 }
+
+/* Chirpy centers post images by default (main p > a.popup:not(.normal):not(.left):not(.right)
+   gets position:relative; left:50%; transform:translateX(-50%) via the align-center mixin in
+   _typography.scss), opting out via a `.left`/`.right`/`.normal` class on the markdown image.
+   Migrated content is raw HTML with none of those classes, so every image was centered by
+   default. The user wants images left-aligned instead, so undo that centering site-wide. */
+main p > a.popup:not(.normal):not(.left):not(.right) {
+  position: static;
+  left: auto;
+  transform: none;
+}

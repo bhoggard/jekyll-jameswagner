@@ -167,3 +167,26 @@ main p > a.popup:not(.normal):not(.left):not(.right) {
   left: auto;
   transform: none;
 }
+
+/* Hide the dot separator between the theme-mode toggle and the contact icons.
+   Its width/margins are also what supplies that one gap's spacing (the gaps
+   between the icons themselves come from a separate margin-right rule on
+   each <a>), so keep the box and just make the dot invisible -- display:none
+   would collapse the gap and make spacing inconsistent.
+
+   Chirpy 7.6.0 also regressed .icon-border's own margin to a flat 0.6rem
+   each side (7.5.0, e.g. bloggy's version, calculates it as
+   (sb-btn-gap - btn-border-width)/2 so the dot's total footprint equals the
+   gap between the actual icons). 0.6rem*2 + 3px != 0.8rem, so the gap before
+   the first icon was visibly wider than the gaps between icons. Restore the
+   calculated formula so all the gaps match. */
+#sidebar .sidebar-bottom .icon-border {
+  background: transparent;
+  margin-left: calc((0.8rem - 3px) / 2);
+  margin-right: calc((0.8rem - 3px) / 2);
+
+  @include bp.xxxl {
+    margin-left: calc((1rem - 3px) / 2);
+    margin-right: calc((1rem - 3px) / 2);
+  }
+}

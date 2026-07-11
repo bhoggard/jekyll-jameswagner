@@ -7,6 +7,7 @@
   .bundle
 {%- endif -%}
 ';
+@use 'abstracts/breakpoints' as bp;
 
 /* append your custom style below */
 
@@ -76,8 +77,34 @@ body {
   }
 }
 
+/* Align an individual post's title with the top of the sidebar avatar
+   photo, for the same reason as the #post-list override below. */
+main h1 {
+  @include bp.lg {
+    margin-top: 0;
+  }
+
+  @include bp.xxxl {
+    margin-top: 0.5rem;
+  }
+}
+
 /* Styling for the full-post homepage layout (_layouts/home.html), which
    replaces Chirpy's default excerpt list with full post content. */
+#post-list {
+  /* Align the first post's title with the top of the sidebar avatar photo.
+     The avatar's offset comes from .profile-wrapper's margin-top (3rem at
+     >=lg, 3.5rem at >=xxxl); the theme's own #post-list margin-top (2.5rem
+     at >=lg, unchanged at >=xxxl) doesn't match, so override it here. */
+  @include bp.lg {
+    margin-top: 0;
+  }
+
+  @include bp.xxxl {
+    margin-top: 0.5rem;
+  }
+}
+
 .full-post-preview {
   padding-bottom: 2.5rem;
   margin-bottom: 2.5rem;

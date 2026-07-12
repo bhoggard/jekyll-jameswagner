@@ -12,11 +12,11 @@ permalink: /2002/08/slaves_toiling.html
 <p>The land belongs to the Palestinians and the labor is Palestinian, but the project is entirely Israeli, and for Israelis alone.  The status of the Palestinians as virtual slaves of an occupying power could hardly be better illustrated than by this example.  The people to whom the land belongs (as long and still recognized by the entire world) must toil to build this complex for its masters, because there is no other employment available to them under the rule, and the curfew, imposed by the Israelis.</p>
 
 <blockquote>
-<p>[Foreign laborers] work alongside a few Palestinians who Â— conscience-stricken but desperate for the wages, understanding the conflict in their bones Â— sneak past the Israeli police, defying Israeli law to help Israeli contractors build what the Palestinians regard as an Israeli settlement on stolen land.</p>
+<p>[Foreign laborers] work alongside a few Palestinians who — conscience-stricken but desperate for the wages, understanding the conflict in their bones — sneak past the Israeli police, defying Israeli law to help Israeli contractors build what the Palestinians regard as an Israeli settlement on stolen land.</p>
 
 <p>"My heart is bleeding," said Salman Jahalin, 28, his corduroys covered with the hilltop's powdery white dust. "I feel guilty for being here and doing this kind of work. But I have no other choice."</p>
 
-<p>Mr. Jahalin, the father of four, is from the West Bank village of Zaatara. In addition to being a laborer at Har Homa, he has become one of its first Â— if illegal Â— residents. He sleeps most nights on the stone floor of a newly built storeroom rather than risk being caught and arrested by the Israeli border police while returning home.</p>
+<p>Mr. Jahalin, the father of four, is from the West Bank village of Zaatara. In addition to being a laborer at Har Homa, he has become one of its first — if illegal — residents. He sleeps most nights on the stone floor of a newly built storeroom rather than risk being caught and arrested by the Israeli border police while returning home.</p>
 </blockquote>
 
 <p>This is a horrendous injustice, but is an evil whose consequences cannot fail to be thrown back upon its perpetrators.  It's simply wrong, and not a good idea, for anyone who thinks ahead--or who even looks back.</p>

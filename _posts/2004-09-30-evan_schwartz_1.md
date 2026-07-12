@@ -18,7 +18,7 @@ Evan Schwartz <i>tub</i></p>
 
 <p>I saw Schwartz's image (it's the one which appears at the top of this post) hanging in the long hall at the <a href="http://www.schroederromero.com/">Schroeder Romero Gallery</a> and now I know that he will have his own show there in a few months.  It opens January 7th.  I don't remember ever before recommending, or even mentioning, a show on this blog months before it had been hung, but this is a good time to start.</p>
 
-<p>There is more work on Schwartz's own <a href="http://www.orioninsight.com">site</a>, including this image, which is from the same series, Â“Reclaiming Puberty,Â” as the one above.</p>
+<p>There is more work on Schwartz's own <a href="http://www.orioninsight.com">site</a>, including this image, which is from the same series, “Reclaiming Puberty,” as the one above.</p>
 
 <p><img alt="postcoital.JPG" src="/mt_archives/postcoital.JPG" width="504" height="394" border="0" /><br />
 Evan Schwartz <i>post-coital</i></p>

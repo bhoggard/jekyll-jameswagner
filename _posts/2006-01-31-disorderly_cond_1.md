@@ -16,7 +16,7 @@ House arrest</p>
 <blockquote>
 <p>Capitol Police Sgt. Kimberly Schneider said Sheehan had worn a T-shirt with an antiwar slogan to the speech and covered it up until she took her seat. Police warned her that such displays were not allowed, but she did not respond, the spokeswoman said.</p>
 
-<p>The T-shirt bore the words Â“2,245 Dead Â— How Many More??Â” in reference to the number of U.S. troops killed in Iraq, protesters told NBC News.</p>
+<p>The T-shirt bore the words “2,245 Dead — How Many More??” in reference to the number of U.S. troops killed in Iraq, protesters told NBC News.</p>
 
 <p>Police handcuffed Sheehan and removed her from the gallery before Bush arrived.</p>
 </blockquote>

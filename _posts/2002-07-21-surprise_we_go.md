@@ -30,7 +30,7 @@ permalink: /2002/07/surprise_we_go.html
 <p>You probably didn't hear it from me first, but you have heard it now.  Are we bothered by the thought?  Do we think anything can be done about it?  Maybe not in time.  <a href="http://www.commondreams.org/views02/0720-07.htm">Yet</a>,</p>
 
 <blockquote>
-<p>Perhaps, if the American people realize the crass political motivation for an Iraqi war started just before the fall elections, they will react very differently at the election booth, carefully examining their ballots to make sure the chads are not hanging, that theyÂ’ve selected the candidate they intended to vote for-- the democrat or green party candidates who will, when the republican majority in the congress is overthrown, restrain, or perhaps cage or even jail the rapacious Bush onslaught against America.</p>
+<p>Perhaps, if the American people realize the crass political motivation for an Iraqi war started just before the fall elections, they will react very differently at the election booth, carefully examining their ballots to make sure the chads are not hanging, that they’ve selected the candidate they intended to vote for-- the democrat or green party candidates who will, when the republican majority in the congress is overthrown, restrain, or perhaps cage or even jail the rapacious Bush onslaught against America.</p>
 </blockquote>
 
 <p>One final observation.  I know I'll be attacked for even hinting at the analogy, but should this unprovoked war come about, in August or later, will we ever again be able to talk about our outrage over Pearl Harbor?  Think about that one.</p>

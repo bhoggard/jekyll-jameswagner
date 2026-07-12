@@ -9,7 +9,7 @@ permalink: /2006/06/brookly_college.html
 <p>I <a href="/2006/05/the_art_which_t.html">wrote</a> a little while back that I would show some of the damage the school had done to work created by Brooklyn College Masters degree students.  While this small post can't show the full extent of the physical and psychological assault, it may help to show what New York really thinks about art where it's not attached to big money or some kind of celebrity.</p>
 
 <p><img alt="Desselbefore.jpg" src="/mt_archives/Desselbefore.jpg" width="600" height="421" /><br />
-Susan C. Dessel <em>Texas Barrier</em> 2006 cement, styrofoam, cheesecloth, rocks (barrier structure: 5'6"Â H   x 10' W  x 4'D, rocks 8'Â D around structure) [installation view of photograph in re-assembled show documenting the original site-specific installation;  the photograph itself is by Robert Puglisi]</p>
+Susan C. Dessel <em>Texas Barrier</em> 2006 cement, styrofoam, cheesecloth, rocks (barrier structure: 5'6" H   x 10' W  x 4'D, rocks 8' D around structure) [installation view of photograph in re-assembled show documenting the original site-specific installation;  the photograph itself is by Robert Puglisi]</p>
 
 <p><img alt="Desselafter.jpg" src="/mt_archives/Desselafter.jpg" width="600" height="435" /><br />
 Susan C. Dessel <em>Texas Barrier Post Mortem</em> 2006 (elements of <em>Texas Barrier</em>) [large detail of installation in re-assembled show]</p>

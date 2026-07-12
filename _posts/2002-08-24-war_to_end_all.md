@@ -5,7 +5,7 @@ categories: [Politics]
 permalink: /2002/08/war_to_end_all.html
 ---
 
-<p>The only actual rationale for an Iraqi war was recently provided by Richard Perle, a leader of the AdministrationÂ’s neoconservative hawks. "The failure to take on Saddam after what the president said would produce such a collapse of confidence in the president that it would set back the war on terrorism," Perle told the New York Times.</p>
+<p>The only actual rationale for an Iraqi war was recently provided by Richard Perle, a leader of the Administration’s neoconservative hawks. "The failure to take on Saddam after what the president said would produce such a collapse of confidence in the president that it would set back the war on terrorism," Perle told the New York Times.</p>
 
 <p>Each of the governments which entered into a World War in 1914 felt compelled to do so largely for the same reason argued by Perle.  Each felt that if it did not take action, its legitimacy, its power, would be undermined or dissolved.  But that is precisely what their acts of war accomplished anyway, as apparently no one in Washington knows or cares, but only after the end of a world, and the death of about eight million combatants (not counting civilians--and there would be civilians this time).  The twenty-year intermission, the second act (World War II) and, finally, the epilogue of the Cold War totally buried the horrible record of even the 1914-1918 production.</p>
 

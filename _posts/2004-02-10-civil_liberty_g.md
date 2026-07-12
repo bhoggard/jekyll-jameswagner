@@ -32,7 +32,7 @@ permalink: /2004/02/civil_liberty_g.html
 
 <p>"I've heard of such a thing, but not since the 1950's, the McCarthy era," said David D. Cole, a Georgetown law professor. "It sends a very troubling message about government officials' attitudes toward basic liberties."</p>
 
-<p>Anthony Romero, the executive director of the American Civil Liberties Union, said he feared news of the subpoenas Â— which was spreading rapidly via e-mail on Monday among activist organizations Â— might discourage people from showing up to protests, attending meetings at universities or even checking out library books.</p>
+<p>Anthony Romero, the executive director of the American Civil Liberties Union, said he feared news of the subpoenas — which was spreading rapidly via e-mail on Monday among activist organizations — might discourage people from showing up to protests, attending meetings at universities or even checking out library books.</p>
 
 <p>"People will have to be asking themselves: will this be subject to government scrutiny?" Mr. Romero said.</p>
 </blockquote>

@@ -20,11 +20,11 @@ Kerwin Matthews, "flesh-and-blood Sinbad"</p>
 <blockquote>
 <p>Except as Sinbad and Gulliver, Mr. Nicoll said, Mr. Mathews was never satisfied with merely playing action roles.</p>
 
-<p>Â“He always wanted to do light comedy, or something more weighty,Â” he said.</p>
+<p>“He always wanted to do light comedy, or something more weighty,” he said.</p>
 
-<p>Then, in 1963, Mr. Mathews was cast as Johann Strauss Jr. in the Disney television production Â“The Waltz King.Â”</p>
+<p>Then, in 1963, Mr. Mathews was cast as Johann Strauss Jr. in the Disney television production “The Waltz King.”</p>
 
-<p>Â“He was most proud to play Strauss,Â” Mr. Nicoll said, Â“and that he had to conduct the Vienna Philharmonic. Whether they actually followed him I donÂ’t know, but he tried very hard.Â”</p>
+<p>“He was most proud to play Strauss,” Mr. Nicoll said, “and that he had to conduct the Vienna Philharmonic. Whether they actually followed him I don’t know, but he tried very hard.”</p>
 </blockquote>
 
 <p>More from the <a href="http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/07/08/BAGLAQT1D51.DTL">San Francisco Chronicle</a>, and one more visual treat, a publicity shot for "<a href="http://www.imdb.com/title/tt0053882/">The 3 Worlds of Gulliver</a>" (1960):</p>

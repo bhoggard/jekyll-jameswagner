@@ -8,7 +8,7 @@ permalink: /2002/06/life_for_theatr.html
 <p>Martin Esslin, the man who gave us the phrase, "The Theater of the Absurd," and essentially legitimized for a conservative culture some of today'most iconic playwrights, died in London this past February, it was <a href="http://www.nytimes.com/2002/06/05/obituaries/05ESSL.html">reported</a> today.</p>
 
 <blockquote>
-<p>In his book, he linked Samuel Beckett, Jean Genet, Arthur Adamov and Eugène Ionesco with younger playwrights like Harold Pinter, Edward Albee and Fernando Arrabal at a time Â— 1961 Â— when they were regarded as artistic outsiders. Eventually, with the encouragement of Mr. Esslin and others, they were accepted as theatrical innovators.</p>
+<p>In his book, he linked Samuel Beckett, Jean Genet, Arthur Adamov and Eugène Ionesco with younger playwrights like Harold Pinter, Edward Albee and Fernando Arrabal at a time — 1961 — when they were regarded as artistic outsiders. Eventually, with the encouragement of Mr. Esslin and others, they were accepted as theatrical innovators.</p>
 </blockquote>
 
 <p>But it may be his words in a book of a generation later that really position the validity of all theatre, in all societies and in all times.</p>

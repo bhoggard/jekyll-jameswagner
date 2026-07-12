@@ -16,15 +16,15 @@ swimming on our aircraft carrier in the desert</p>
 <blockquote>
 <p>Away from the flight lines, among traffic jams and freshly planted palms, life improves on 14-square-mile Balad for its estimated 25,000 personnel, including several thousand American and other civilians.</p>
 
-<p>TheyÂ’ve inherited an Olympic-sized pool and a chandeliered cinema from the Iraqis. They can order their favorite Baskin-Robbins flavor at ice cream counters in five dining halls, and cut-rate Fords, Chevys or Harley-Davidsons, for delivery at home, at a PX-run Â“dealership.Â” On one recent evening, not far from a big 24-hour gym, airmen hustled up and down two full-length, lighted outdoor basketball courts as F-16 fighters thundered home overhead.</p>
+<p>They’ve inherited an Olympic-sized pool and a chandeliered cinema from the Iraqis. They can order their favorite Baskin-Robbins flavor at ice cream counters in five dining halls, and cut-rate Fords, Chevys or Harley-Davidsons, for delivery at home, at a PX-run “dealership.” On one recent evening, not far from a big 24-hour gym, airmen hustled up and down two full-length, lighted outdoor basketball courts as F-16 fighters thundered home overhead.</p>
 
-<p>Â“BaladÂ’s a fantastic base,Â” Brig. Gen. Frank Gorenc, the Air ForceÂ’s tactical commander in Iraq, said in an interview at his headquarters here [today's MSNBC dateline:  "BALAD AIR BASE, Iraq"].</p>
+<p>“Balad’s a fantastic base,” Brig. Gen. Frank Gorenc, the Air Force’s tactical commander in Iraq, said in an interview at his headquarters here [today's MSNBC dateline:  "BALAD AIR BASE, Iraq"].</p>
 
 <p>. . . .</p>
 
-<p>In the counterinsurgency fight, BaladÂ’s central location enables strike aircraft to reach targets in minutes. And in the broader context of reinforcing the U.S. presence in the oil-rich Mideast, Iraq bases are preferable to aircraft carriers in the Persian Gulf, said a longtime defense analyst.</p>
+<p>In the counterinsurgency fight, Balad’s central location enables strike aircraft to reach targets in minutes. And in the broader context of reinforcing the U.S. presence in the oil-rich Mideast, Iraq bases are preferable to aircraft carriers in the Persian Gulf, said a longtime defense analyst.</p>
 
-<p>Â“Carriers donÂ’t have the punch,Â” said Gordon Adams of WashingtonÂ’s George Washington University. Â“ThereÂ’s a huge advantage to land-based infrastructure. At the level of strategy it makes total sense to have Iraq bases.Â”</p>
+<p>“Carriers don’t have the punch,” said Gordon Adams of Washington’s George Washington University. “There’s a huge advantage to land-based infrastructure. At the level of strategy it makes total sense to have Iraq bases.”</p>
 </blockquote>
 
 <p>Both the White House and the Pentagon have basically denied everything which suggests a long-term or permanent status for these installations.</p>

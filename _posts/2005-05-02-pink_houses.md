@@ -16,9 +16,9 @@ heroes at large</p>
 <p>Barry has already written <a href="http://bloggy.com/mt/archives/004859.html">more</a> about the couple and the film, "Pink Houses."  We will be seeing it tomorrow night, Tuesday, at 6 o'clock.  He's included an article from the <u>Arkansas</u> <u>Democrat-Gazette</u>, a statewide paper.</p>
 
 <blockquote>
-<p>While the film is presented from the viewpoint of these two men, it also includes comment from a representative of the Family Council Â— a Little Rock-based organization that promotes traditional family values Â— and television footage of Greenbrier farmer Wesley Bono talking about his decision to spread a dump-truck load of manure along streets around the Pink House on the day of last summerÂ’s gay-pride parade.</p>
+<p>While the film is presented from the viewpoint of these two men, it also includes comment from a representative of the Family Council — a Little Rock-based organization that promotes traditional family values — and television footage of Greenbrier farmer Wesley Bono talking about his decision to spread a dump-truck load of manure along streets around the Pink House on the day of last summer’s gay-pride parade.</p>
 
-<p>"It didnÂ’t stop us," Schenck says in the film, while standing outdoors with Loyd. "It smelled horrible for a couple of days, but weÂ’re used to dealing with manure."</p>
+<p>"It didn’t stop us," Schenck says in the film, while standing outdoors with Loyd. "It smelled horrible for a couple of days, but we’re used to dealing with manure."</p>
 
 <p>. . .</p>
 

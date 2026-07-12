@@ -14,7 +14,7 @@ permalink: /2003/01/the_united_stat.html
 
 <p>. . .</p>
 
-<p>How Bush and his junta succeeded in deflecting AmericaÂ’s anger from bin Laden to Saddam Hussein is one of the great public relations conjuring tricks of history. But they swung it. A recent poll tells us that one in two Americans now believe Saddam was responsible for the attack on the World Trade Centre. But the American public is not merely being misled. It is being browbeaten and kept in a state of ignorance and fear. The carefully orchestrated neurosis should carry Bush and his fellow conspirators nicely into the next election.</p>
+<p>How Bush and his junta succeeded in deflecting America’s anger from bin Laden to Saddam Hussein is one of the great public relations conjuring tricks of history. But they swung it. A recent poll tells us that one in two Americans now believe Saddam was responsible for the attack on the World Trade Centre. But the American public is not merely being misled. It is being browbeaten and kept in a state of ignorance and fear. The carefully orchestrated neurosis should carry Bush and his fellow conspirators nicely into the next election.</p>
 </blockquote>
 
 <p>Thanks to Fred H. for the le Carré tip.</p>

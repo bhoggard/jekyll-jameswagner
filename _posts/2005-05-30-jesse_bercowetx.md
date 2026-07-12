@@ -10,7 +10,7 @@ permalink: /2005/05/jesse_bercowetx.html
 <p>Jesse Bercowetz, Matt Bua and Carrie Dashow continue their investigation of the weird mythologies of a half-forgotten, long narrow island lodged in the middle of New York's East River with an installation at <a href="http://www.jessicamurrayprojects.com/">Jessica Murray</a>.  This is a project begun last year whose first forms "in which the artists assumed the role of underworld crypto-zoologists" were exhibited under the title <em>Under Gone</em> at PS1 in the fall.</p>
 
 <blockquote>
-<p>In order to explore the island and its treacherous surrounding waters once known as Â“The Hell GateÂ” they [subsequently] launched a makeshift raft into the East River. In their new installation <em><strong>Pent-Up and Under Gone</strong></em>, Bercowetz, Bua, and Dashow explore their findings, as well as the IslandÂ’s oral and written histories, and are led to a new interpretation of the land as a growing monster of unpredictable powers, with a life of its own, undetermined by humans.</p>
+<p>In order to explore the island and its treacherous surrounding waters once known as “The Hell Gate” they [subsequently] launched a makeshift raft into the East River. In their new installation <em><strong>Pent-Up and Under Gone</strong></em>, Bercowetz, Bua, and Dashow explore their findings, as well as the Island’s oral and written histories, and are led to a new interpretation of the land as a growing monster of unpredictable powers, with a life of its own, undetermined by humans.</p>
 </blockquote>
 
 <p>There's no way any image can prepare you for what they've installed, and <a href="/2005/04/jesse_bercowetz.html">as usual</a> the work leaves me speechless (in a good way).  Don't miss their huge "book."</p>

@@ -10,7 +10,7 @@ permalink: /2003/04/were_just_going.html
 <p>I don't think it's just my cynicism, but a <a href="http://www.nytimes.com/2003/04/06/international/worldspecial/06SECU.html?pagewanted=print&position=top">piece</a> in the regular "A Nation at War" section of the <u>NYTimes</u> this Sunday morning suggests that our very nutty and very scary secret-society, basement-clubhouse war-mongers seems to have a plan for turning around this unexpected and almost certainly disappointing development.</p>
 
 <blockquote>
-<p>WASHINGTON, April 5 Â— After Bush administration officials and many American lawmakers predicted that terrorist attacks were nearly inevitable because of the war in Iraq, there has been little evidence that Al Qaeda or other networks are preparing to strike against the United States, senior government officials say.</p>
+<p>WASHINGTON, April 5 — After Bush administration officials and many American lawmakers predicted that terrorist attacks were nearly inevitable because of the war in Iraq, there has been little evidence that Al Qaeda or other networks are preparing to strike against the United States, senior government officials say.</p>
 
 <p>As a result, intelligence analysts are turning their attention to a new potential threat, the likelihood that a protracted American presence in Iraq after the war could stir violence both in Iraq, the rest of the Middle East, in the United States and against American interests around the globe.</p>
 
@@ -24,7 +24,7 @@ permalink: /2003/04/were_just_going.html
 <blockquote>
 <p>Shortly after Defense Secretary Donald H. Rumsfeld issued a stark warning to Iran and Syria last week, declaring that any "hostile acts" they committed on behalf of Iraq might prompt severe consequences, one of President Bush's closest aides stepped into the Oval Office to warn him that his unpredictable defense secretary had just raised the specter of a broader confrontation.</p>
 
-<p>Mr. Bush smiled a moment at the latest example of Mr. Rumsfeld's brazenness, recalled the aide. Then he said one word Â— "Good" Â— and went back to work.</p>
+<p>Mr. Bush smiled a moment at the latest example of Mr. Rumsfeld's brazenness, recalled the aide. Then he said one word — "Good" — and went back to work.</p>
 
 <p>It was a small but telling moment on the sidelines of the war.</p>
 </blockquote>

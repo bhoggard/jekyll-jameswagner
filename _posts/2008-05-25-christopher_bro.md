@@ -33,7 +33,7 @@ Christopher Brooks <em>The Land That Time Forgot</em> 2006  enamel and glitter p
 
 <p>I confess to having had one <em>tiny</em> regret at the time:  Unlike most of the other paintings by Brooks which I had seen by up to then (all of which were much larger, and each would have been way beyond our budget as a gallery purchase) the piece we adopted didn't have any tiny, weird cartoon stickers on its surface.</p>
 
-<p>Last week we saw two beautiful and very shiny new paintings by Brooks in an interesting  group show in Chelsea, the gallery Massimo Audiello's <a href="http://www.artcal.net/event/view/1/7056">"CÂ’mon shake it!Â—ah ah  Check it!Â—ooh ooh"</a>.   Thanks to their efforts we now have a workable <a href="http://www.massimoaudiello.com/current.html#bios">bio</a> for this elusive artist.</p>
+<p>Last week we saw two beautiful and very shiny new paintings by Brooks in an interesting  group show in Chelsea, the gallery Massimo Audiello's <a href="http://www.artcal.net/event/view/1/7056">"C’mon shake it!—ah ah  Check it!—ooh ooh"</a>.   Thanks to their efforts we now have a workable <a href="http://www.massimoaudiello.com/current.html#bios">bio</a> for this elusive artist.</p>
 
 <p>Finally, only a few nights ago we managed to be incredibly lucky in our draw at the <a href="/2008/05/momenta_art_ben.html">Momenta Art benefit</a>;  Barry's number was pulled out of the raffle bag first, meaning we were able to go home with the work we had put at the top of our long list (we had 45 other choices written down, just in case we were going to be near the end).  We were dazed and more than excited to get another Brooks painting, but judging from its reaction I think most of the room may have been fairly nonplussed.</p>
 

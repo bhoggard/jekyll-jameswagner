@@ -12,9 +12,9 @@ permalink: /2003/05/no_god_could_bl.html
 <p>Joyce Purnick <a href="http://www.nytimes.com/2003/05/01/nyregion/01MATT.html?pagewanted=print&position=">describes</a> a telling event which took place in a Manhattan restaurant very recently.</p>
 
 <blockquote>
-<p>Last week on a crowded night at La Mirabelle, a French restaurant on West 86th Street in Manhattan, the woman some know as the singing waitress, Danielle Luperti, stood at a couple's table and Â— as she is sometimes wont to do Â— belted out a few lines of "La Vie en Rose." It was as if Edith Piaf had returned, and the crowd loved it. Well, most of the crowd did.</p>
+<p>Last week on a crowded night at La Mirabelle, a French restaurant on West 86th Street in Manhattan, the woman some know as the singing waitress, Danielle Luperti, stood at a couple's table and — as she is sometimes wont to do — belted out a few lines of "La Vie en Rose." It was as if Edith Piaf had returned, and the crowd loved it. Well, most of the crowd did.</p>
 
-<p>Ms. Luperti was applauded, there was a pause, people went back to their dinners, and then, lo, another voice Â— most decidedly in English this time. A patron began singing an emotional rendition of "God Bless America." It was Piaf vs. Smith (Kate).</p>
+<p>Ms. Luperti was applauded, there was a pause, people went back to their dinners, and then, lo, another voice — most decidedly in English this time. A patron began singing an emotional rendition of "God Bless America." It was Piaf vs. Smith (Kate).</p>
 </blockquote>
 
 <p>There's more about that evening's incident in her column, including evidence that the rude patron may have been alone in chosing to reconfigure a dinner experience as a <b>chauvinist</b> [French word!] demonstration, and Purnick writes that she herself files the story in "the happy endings file."</p>

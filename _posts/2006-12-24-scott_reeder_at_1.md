@@ -26,7 +26,7 @@ Scott Reeder <em>Money in Bed</em> 2006 20" x 22" [installation view]</p>
 <p>From the press release:</p>
 
 <blockquote>
-<p>Vigorously dismantling the myths behind the most readily available aspects of our daily lives (Such as food, money, the human body, infrastructures) the artist plays on the literalness of their materiality while stripping them bear [sic] of symbolical value in a Â“matter of factÂ” fashion rooted in a play on words and absurdity.</p>
+<p>Vigorously dismantling the myths behind the most readily available aspects of our daily lives (Such as food, money, the human body, infrastructures) the artist plays on the literalness of their materiality while stripping them bear [sic] of symbolical value in a “matter of fact” fashion rooted in a play on words and absurdity.</p>
 </blockquote>
 
 <p>I love these paintings, and not least for their being drawn so smartly, but gently, from the wealth of twentieth-century painting.   And so the story continues.</p>

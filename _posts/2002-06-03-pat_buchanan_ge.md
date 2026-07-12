@@ -16,5 +16,5 @@ permalink: /2002/06/pat_buchanan_ge.html
 <blockquote>
 <p>Before, not after, the next terror attack on this country, America's leaders should start telling the truth: Evil though they may be, Islamic killers are over here because we are over there. They are not trying to kill us because they dislike our domestic politics, but because they detest our foreign policy. <br />
 ....<br />
-Is the empire worth it? French, Brits, even Soviets said no. They went home. And nothing over there Â– not oil, not bases in Saudi Arabia, not global hegemony Â– is worth risking nuclear terror over here. I may be the only right-winger in America who loves D.C., but then I grew up here. Washington is my hometown. It comes first, and empire isn't even a close second.</p>
+Is the empire worth it? French, Brits, even Soviets said no. They went home. And nothing over there – not oil, not bases in Saudi Arabia, not global hegemony – is worth risking nuclear terror over here. I may be the only right-winger in America who loves D.C., but then I grew up here. Washington is my hometown. It comes first, and empire isn't even a close second.</p>
 </blockquote>

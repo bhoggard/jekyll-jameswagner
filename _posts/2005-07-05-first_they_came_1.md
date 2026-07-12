@@ -32,7 +32,7 @@ safe enough for him?</p>
 <p>Full disclosure:  I knew Patrick Moore slightly but I admired his good sense hugely when we were both busy with <a href="http://www.actupny.org/">ACT UP</a> fifteen years ago.</p>
 
 <p>* <br />
-My introduction is a conscious reference to <a href="http://www.liv-coll.ac.uk/pa09/europetrip/brussels/neimoller.htm">Martin Niemöller</a>Â’s lines about moral failure in the face of the Holocaust:</p>
+My introduction is a conscious reference to <a href="http://www.liv-coll.ac.uk/pa09/europetrip/brussels/neimoller.htm">Martin Niemöller</a>’s lines about moral failure in the face of the Holocaust:</p>
 
 <blockquote>
 <p>First they came for the Communists, but I was not a Communist, so I said nothing. Then they came for the Social Democrats, but I was not a Social Democrat, so I did nothing. Then came the trade unionists, but I was not a trade unionist. And then they came for the Jews, but I was not a Jew, so I did little. Then when they came for me, there was no one left to stand up for me.</p>

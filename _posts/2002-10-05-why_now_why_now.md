@@ -32,7 +32,7 @@ permalink: /2002/10/why_now_why_now.html
 <p>He warns of the horrible prototype which the rush to war will establish, both within the U.S. and without.  (But why should this Junta care?)</p>
 
 <blockquote>
-<p>Think for a moment of a precedent that this resolution will set not just for this president Â— hear me now, you on the other side of the aisle Â— not just for this president, but for future presidents. From the day forward American presidents will be able to invoke Senate Joint Resolution 46 as justification for launching pre-emptive military strikes against any sovereign nations that they perceive to be a threat.</p>
+<p>Think for a moment of a precedent that this resolution will set not just for this president — hear me now, you on the other side of the aisle — not just for this president, but for future presidents. From the day forward American presidents will be able to invoke Senate Joint Resolution 46 as justification for launching pre-emptive military strikes against any sovereign nations that they perceive to be a threat.</p>
 
 <p>You'd better pay attention. You're not always going to have a president of your party in the White House. How will you feel about it then? How will it be then?</p>
 

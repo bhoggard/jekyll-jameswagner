@@ -12,9 +12,9 @@ permalink: /2003/04/such_words_are.html
 
 <p>. . . .</p>
 
-<p>It's becoming harder to visit these places of pain, grief and anger. The International Committee of the Red Cross yesterday reported civilian victims of America's three-day offensive against Baghdad arriving at the hospitals now by the hundred. Yesterday, the Kindi alone had taken 50 civilian wounded and three dead in the previous 24 hours. Most of the dead Â– the little boy's family, the family of six torn to pieces by an aerial bomb in front of Ali Abdulrazek, the car salesman, the next-door neighbors of Safa Karim Â– were simply buried within hours of their being torn to bits.</p>
+<p>It's becoming harder to visit these places of pain, grief and anger. The International Committee of the Red Cross yesterday reported civilian victims of America's three-day offensive against Baghdad arriving at the hospitals now by the hundred. Yesterday, the Kindi alone had taken 50 civilian wounded and three dead in the previous 24 hours. Most of the dead – the little boy's family, the family of six torn to pieces by an aerial bomb in front of Ali Abdulrazek, the car salesman, the next-door neighbors of Safa Karim – were simply buried within hours of their being torn to bits.</p>
 
 <p>. . . .</p>
 
-<p>Yes, I know the lines. President Saddam would have killed more Iraqis than us if we hadn't invaded Â– not a very smart argument in the Kindi hospital Â– and that we're doing all this for them. Didn't Paul Wolfowitz, the US Deputy Defense Secretary, tell us all a few days ago that he was praying for the American troops and for the Iraqi people? Aren't we coming here to save them Â– let's not mention their oil Â– and isn't President Saddam a cruel and brutal man? But amid these people, such words are an obscenity.</p>
+<p>Yes, I know the lines. President Saddam would have killed more Iraqis than us if we hadn't invaded – not a very smart argument in the Kindi hospital – and that we're doing all this for them. Didn't Paul Wolfowitz, the US Deputy Defense Secretary, tell us all a few days ago that he was praying for the American troops and for the Iraqi people? Aren't we coming here to save them – let's not mention their oil – and isn't President Saddam a cruel and brutal man? But amid these people, such words are an obscenity.</p>
 </blockquote>

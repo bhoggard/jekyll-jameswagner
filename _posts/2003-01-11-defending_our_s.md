@@ -14,7 +14,7 @@ permalink: /2003/01/defending_our_s.html
 
 <p>Pedestrians are besieged enough in their already meager sidewalk ghetto, without the additional hazard of pricey high-speed scooters like the Segway.</p>
 
-<p>Revitalizing our cities begins with reclaiming public space to enhance social interaction. And this begins with defending our fundamental right to free movement Â— to walk.</p>
+<p>Revitalizing our cities begins with reclaiming public space to enhance social interaction. And this begins with defending our fundamental right to free movement — to walk.</p>
 
 <p>PAUL DORN</p>
 </blockquote>

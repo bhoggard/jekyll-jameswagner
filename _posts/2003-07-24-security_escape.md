@@ -13,7 +13,7 @@ permalink: /2003/07/security_escape.html
 
 <p>Today's deaths were not the work of a terrorist, but the circumstances which made them possible would work for anyone determined to wreak even the same or much greater havoc in another location tomorrow.</p>
 
-<p>We could spend trillions (although we never will), but we still wouldnÂ’t have security in our streets, our places of work, even our great monuments and institutions.  The world canÂ’t offer perfect security, but we would do far better, and at far less psychological, social and monetary cost, if we prevent easy access to firearms and if we begin to relate to the rest of the world with intelligence and justice.</p>
+<p>We could spend trillions (although we never will), but we still wouldn’t have security in our streets, our places of work, even our great monuments and institutions.  The world can’t offer perfect security, but we would do far better, and at far less psychological, social and monetary cost, if we prevent easy access to firearms and if we begin to relate to the rest of the world with intelligence and justice.</p>
 
 <p>We cannot continue to shoot each other to make us safe from guns, just as we cannot continue to bomb people to avoid the bombs of others.</p>
 

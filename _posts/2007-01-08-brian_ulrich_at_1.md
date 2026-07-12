@@ -7,7 +7,7 @@ permalink: /2007/01/brian_ulrich_at_1.html
 ---
 
 <p><img src="https://jameswagner.com/upload/2007/01/Ulrichpatrioticchairs" width="600" height="471" alt="Ulrichpatrioticchairs"/><br />
-Brian Ulrich <em>Gurnee, IL</em> 2005 chromogenic print mounted on sintra with luster laminate 30" x 40Â”</p>
+Brian Ulrich <em>Gurnee, IL</em> 2005 chromogenic print mounted on sintra with luster laminate 30" x 40”</p>
 
 <p>The sign reads "<strong>More Outdoors for Your Money</strong> Patriotic Chairs $9.99".  The image is just one of the most resonant of the ten extrordinary prints <a href="http://www.notifbutwhen.com/">Brian Ulrich</a> has supplied for his first solo show at <a href="http://www.artcal.net/event/view/1/3738">Julie Saul</a>.  I've been looking at this artist's remarkable work <a href="/2004/07/brian_ulrichs_a.html">since 2004</a> and he continues to pull large and small miracles out of his more-or-less-candid large-format camera while he explores the familiar acres of the western world's stores of plenty.</p>
 

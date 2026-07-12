@@ -24,6 +24,6 @@ we were never alone*</p>
 <p>The screenings began this morning at 10 at 721 Broadway on the 6th floor, room 613.  They will continue through June 15.  For a complete schedule and more information, go to the project's <a href="http://deblevine.blogspot.com/">web site</a>.</p>
 
 <p>*<br />
-the image is from the ACT UP protest at the National Institutes of Health [NIH] in May, 1990, when we Â“stormed the NIHÂ” to protest the slow pace of research;  things picked up a bit later (the troublemaker seen in the foreground is <a href="http://www.ulm.edu/publicaffairs/march04/author.html">Brian Keith Jackson</a>)</p>
+the image is from the ACT UP protest at the National Institutes of Health [NIH] in May, 1990, when we “stormed the NIH” to protest the slow pace of research;  things picked up a bit later (the troublemaker seen in the foreground is <a href="http://www.ulm.edu/publicaffairs/march04/author.html">Brian Keith Jackson</a>)</p>
 
 <p>[Donna Binder image from <a href="http://getinvolved.against-the-odds.org/get_involved/conversation3.php">NIH library</a> - yes, the NIH!, and the site has much more about medical activism]</p>

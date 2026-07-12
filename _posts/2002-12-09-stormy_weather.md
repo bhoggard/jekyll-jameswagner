@@ -37,7 +37,7 @@ permalink: /2002/12/stormy_weather.html
 <p>While he has spoken widely and intelligently about all four of his parents' experiences, Chesa Boudin prefers to talk about his own world right now.</p>
 
 <blockquote>
-<p>"We have a different name for the war we're fighting now Â— now we call it the war on terrorism, then they called it the war on communism," Mr. Boudin said. "My parents were all dedicated to fighting U.S. imperialism around the world. I'm dedicated to the same thing."</p>
+<p>"We have a different name for the war we're fighting now — now we call it the war on terrorism, then they called it the war on communism," Mr. Boudin said. "My parents were all dedicated to fighting U.S. imperialism around the world. I'm dedicated to the same thing."</p>
 
 <p>"I don't know that much about my parents' tactics; I'll talk about my tactics," he added. "The historical moment we find ourselves in determines what is most appropriate for social change."</p>
 </blockquote>

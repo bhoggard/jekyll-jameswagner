@@ -14,7 +14,7 @@ permalink: /2002/07/living_for_art.html
 <blockquote>
 <p>[Toni] This is such a visually advanced room but if you look out the window you can see women in house slippers discussing arthritis. . . . . Does your landlord care that you have a gallery here?</p>
 
-<p>[Dean] It doesn't particularly bother him, I think. He has a butcher shop. I've had about 16 exhibitions since January 2000. . . . . Inhwan Oh did a piece called Things of Friendship. He went through my house, looking in the medicine cabinet, in drawers. Anything he found that matched something at his house, he'd set asideÂ—Elmer's wood glue, a gay travel guide, some Wisk. At the end, there were 25, 30 objects in common. He set up the objects in two piles, almost like mirror images. The artists tend to take advantage of the fact that this is a domestic space. (<i>Tom</i> [a friend of Dean's who has been in the kitchen] <i>comes out and says: "I'm going to go now."</i>)</p>
+<p>[Dean] It doesn't particularly bother him, I think. He has a butcher shop. I've had about 16 exhibitions since January 2000. . . . . Inhwan Oh did a piece called Things of Friendship. He went through my house, looking in the medicine cabinet, in drawers. Anything he found that matched something at his house, he'd set aside—Elmer's wood glue, a gay travel guide, some Wisk. At the end, there were 25, 30 objects in common. He set up the objects in two piles, almost like mirror images. The artists tend to take advantage of the fact that this is a domestic space. (<i>Tom</i> [a friend of Dean's who has been in the kitchen] <i>comes out and says: "I'm going to go now."</i>)</p>
 
 <p>[Toni] You were so quiet back there. (<i>Tom</i>) <i>I was writing down everything you were saying. The meta-interview. </i></p>
 </blockquote>

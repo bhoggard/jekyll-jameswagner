@@ -8,7 +8,7 @@ permalink: /2003/05/no_patriots_the.html
 <p>The Bush administration and leading Senate Republicans were <a href="http://www.nytimes.com/2003/05/02/international/worldspecial/02TERR.html?pagewanted=print&position=">defeated</a> (this time) in a rather sneaky attempt to introduce the C.I.A. and the Pentagon into domestic surveilance.</p>
 
 <blockquote>
-<p>The proposal, which was beaten back, would have given the C.I.A. and the military the authority to issue administrative subpoenas Â— known as "national security letters" Â— requiring Internet providers, credit card companies, libraries and a range of other organizations to produce materials like phone records, bank transactions and e-mail logs. That authority now rests largely with the Federal Bureau of Investigation, and the subpoenas do not require court approval.</p>
+<p>The proposal, which was beaten back, would have given the C.I.A. and the military the authority to issue administrative subpoenas — known as "national security letters" — requiring Internet providers, credit card companies, libraries and a range of other organizations to produce materials like phone records, bank transactions and e-mail logs. That authority now rests largely with the Federal Bureau of Investigation, and the subpoenas do not require court approval.</p>
 
 <p>The surprise proposal was tucked into a broader intelligence authorization bill now pending before Congress.</p>
 

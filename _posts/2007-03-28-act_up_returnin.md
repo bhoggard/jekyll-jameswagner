@@ -26,7 +26,7 @@ going back for more, 20 years later</p>
 
 <p>Along the way, ACT UP borrowed strategies from other radical movements: antinuke protesters for techniques on civil disobedience, antiapartheid campaigners for bringing political funerals to the streets. Many of its tactics--videotaping demonstrations as protection against police brutality, coordinated but autonomous affinity group actions--have become standard fare in the global justice movement, as has ACT UP's deeply democratic tradition.</p>
 
-<p>ACT UP is now a shadow of its former self, but its alums have gone on to found Health Gap, a driving force for global treatment access; the Treatment Action Group, which continues to push the AIDS research agenda; and Housing Works, which has won housing for thousands of New York City's HIV-Â­positive homeless. And true to form, the organization will mark its twentieth anniversary with a march on Wall Street March 29 to demand single-payer healthcare for all.</p>
+<p>ACT UP is now a shadow of its former self, but its alums have gone on to found Health Gap, a driving force for global treatment access; the Treatment Action Group, which continues to push the AIDS research agenda; and Housing Works, which has won housing for thousands of New York City's HIV-­positive homeless. And true to form, the organization will mark its twentieth anniversary with a march on Wall Street March 29 to demand single-payer healthcare for all.</p>
 </blockquote>
 
 <p>*<br />

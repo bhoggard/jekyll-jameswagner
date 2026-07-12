@@ -23,7 +23,7 @@ the river to be a torrent,<br />
 and this puddle to be the sea.</p>
 
 <p>When the child was a child,<br />
-it didnÂ’t know that it was a child,<br />
+it didn’t know that it was a child,<br />
 everything was soulful,<br />
 and all souls were one.</p>
 
@@ -46,7 +46,7 @@ not just an illusion of a world before the world?<br />
 Given the facts of evil and people.<br />
 does evil really exist?<br />
 How can it be that I, who I am,<br />
-didnÂ’t exist before I came to be,<br />
+didn’t exist before I came to be,<br />
 and that, someday, I, who I am,<br />
 will no longer be who I am?</p>
 
@@ -72,7 +72,7 @@ and, now, has just as much excitement as then,<br />
 but only when it concerns its work.</p>
 
 <p>When the child was a child,<br />
-It was enough for it to eat an apple, Â… bread,<br />
+It was enough for it to eat an apple, … bread,<br />
 And so it is even now.</p>
 
 <p>When the child was a child,<br />

@@ -7,7 +7,7 @@ permalink: /2007/07/visit_to_brookl.html
 ---
 
 <p><img alt="Chicago_Judy_Dinner_Party.jpg" src="/mt_archives/Chicago_Judy_Dinner_Party.jpg" width="400" height="600" /><br />
-Judy Chicago <em>The Dinner Party</em> 1974Â–1979 ceramic, porcelain and textiles [installation view]</p>
+Judy Chicago <em>The Dinner Party</em> 1974–1979 ceramic, porcelain and textiles [installation view]</p>
 
 <p><br / ></p>
 

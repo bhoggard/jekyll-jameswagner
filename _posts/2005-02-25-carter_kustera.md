@@ -18,7 +18,7 @@ Carter Kustera <em>Boys Will Be Boys</em> 2004 gouache and mixed media on paper 
 <p>The press release on the gallery site tells us how we can become be an integral part of Kustera's art and wit.  He's also a really nice guy, which would be  pretty relevant to those who can accept this offer:</p>
 
 <blockquote>
-<p>Carter Kustera will also be featured in <a href="http://www.scope-art.com/schedule/?pcontent=newyork2005">-scope New York</a> from March 11th Â– 14th at Flatotel, 135 West 52nd Street. KusteraÂ’s "AmericaÂ’s Most Wanting" is a body of work gleaned from personal encounters. These intimate works on paper are simple silhouettes that have quips about the sitter. These engaging antidotes utter volumes about the way people project themselves in public and how the public interprets them. Kustera will be available for individual portrait commissions during the run of the scope Art Fair.</p>
+<p>Carter Kustera will also be featured in <a href="http://www.scope-art.com/schedule/?pcontent=newyork2005">-scope New York</a> from March 11th – 14th at Flatotel, 135 West 52nd Street. Kustera’s "America’s Most Wanting" is a body of work gleaned from personal encounters. These intimate works on paper are simple silhouettes that have quips about the sitter. These engaging antidotes utter volumes about the way people project themselves in public and how the public interprets them. Kustera will be available for individual portrait commissions during the run of the scope Art Fair.</p>
 </blockquote>
 
 <p><img alt="KusteraCarterWhosthebitchnow.jpg" src="/mt_archives/KusteraCarterWhosthebitchnow.jpg" width="561" height="432" /><br />

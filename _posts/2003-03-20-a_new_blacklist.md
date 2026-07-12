@@ -10,7 +10,7 @@ permalink: /2003/03/a_new_blacklist.html
 <p>Certain film people known to be opposed to the massacre in Iraq have been <a href="http://news.scotsman.com/print.cfm?id=295902003&referringtemplate=http%3A%2F%2Fnews%2Escotsman%2Ecom%2Findex%2Ecfm&referringquerystring=id%3D295902003">forbidden</a> any opportunity to air their views during the ceremonies sunday night.</p>
 
 <blockquote>
-<p>The backlash against prominent stars opposing any attack on Iraq has impacted on this yearÂ’s Oscars, with organisers drawing up a blacklist of people who will not be allowed a platform to air anti-war views.</p>
+<p>The backlash against prominent stars opposing any attack on Iraq has impacted on this year’s Oscars, with organisers drawing up a blacklist of people who will not be allowed a platform to air anti-war views.</p>
 
 <p>Meryl Streep, Sean Penn, Vanessa Redgrave, George Clooney, Dustin Hoffman and Spike Lee are among those who will not be speaking, amid fears they could turn the ceremony into an anti-war rally.</p>
 

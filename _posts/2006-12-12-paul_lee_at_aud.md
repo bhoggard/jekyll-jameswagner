@@ -22,11 +22,11 @@ Paul Lee <em>Untitled</em> 2006 mixed media 10" x 11" x 7" [installation view]</
 <p>Here's an excerpt from Holland Cotter's <a href="http://www.nytimes.com/2006/12/08/arts/design/08gall.html?pagewanted=2">review</a> in the <u>NYTimes</u>:</p>
 
 <blockquote>
-<p>Not to exaggerate the comparison, but it is possible to see the small assemblages in Paul LeeÂ’s first New York solo show as heirs to Robert RauschenbergÂ’s early sculptural Â“combinesÂ” of the 1950s. The work of both artists takes debased found objects Â— junk Â— as primary material, and uses that material to create layered, enigmatic meanings. A big difference is that a homoerotic content suppressed in Mr. RauschenbergÂ’s assemblage is the primary content of Mr. LeeÂ’s.</p>
+<p>Not to exaggerate the comparison, but it is possible to see the small assemblages in Paul Lee’s first New York solo show as heirs to Robert Rauschenberg’s early sculptural “combines” of the 1950s. The work of both artists takes debased found objects — junk — as primary material, and uses that material to create layered, enigmatic meanings. A big difference is that a homoerotic content suppressed in Mr. Rauschenberg’s assemblage is the primary content of Mr. Lee’s.</p>
 
 <p>. . . .</p>
 
-<p>Gay coding, through dress, language and behavior, has long been a protective necessity, a cultural binder and a source of pleasure, in art no less than in life. Mr. Lee, born in London and in his early 30s, explores such coding, and gently prods its mechanisms without fully exposing and demythologizing them. He gives us the props associated with certain erotically charged environments Â— back rooms, baths, parks Â— but also preserves a quality of hiddenness, of mystery.</p>
+<p>Gay coding, through dress, language and behavior, has long been a protective necessity, a cultural binder and a source of pleasure, in art no less than in life. Mr. Lee, born in London and in his early 30s, explores such coding, and gently prods its mechanisms without fully exposing and demythologizing them. He gives us the props associated with certain erotically charged environments — back rooms, baths, parks — but also preserves a quality of hiddenness, of mystery.</p>
 </blockquote>
 
 <p>The exhibition includes "washcloth paintings" and collages as well as more sculptures like those shown here, but it is the more three-dimensional work that seems most fully developed.  Joshua Mack's earlier <u>Time</u> <u>Out</u> <u>New</u> <u>York</u> <a href="http://www.timeout.com/newyork/Details.do?page=1&xyurl=xyl://TONYWebArticles1/582/art/paul_lee_reservoir.xml">review</a>  is what actually impelled my visit to Audiello:</p>

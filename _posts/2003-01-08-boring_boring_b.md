@@ -8,7 +8,7 @@ permalink: /2003/01/boring_boring_b.html
 <p>My quarrel is not with <a href="http://www.nytimes.com/2003/01/07/politics/07SOCI.html?pagewanted=1">their</a> sleeping habits, or even the manner in which they entertain themselves.  I'm just glad I don't have to be any part of the current regime in Washington.</p>
 
 <blockquote>
-<p>"All the senior staff has no life, or has too many lives Â— kids," said Mary Matalin, who recently quit after two years as counselor to Vice President Dick Cheney.</p>
+<p>"All the senior staff has no life, or has too many lives — kids," said Mary Matalin, who recently quit after two years as counselor to Vice President Dick Cheney.</p>
 </blockquote>
 
 <p>What concerns me is what a self-imposed isolation says about their minds and their souls and therefore what is its impact on the rest of us.</p>

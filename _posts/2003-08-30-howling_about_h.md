@@ -6,7 +6,7 @@ permalink: /2003/08/howling_about_h.html
 ---
 
 <p><img src="/images/HOWL!ethel.gif" border="0" alt="" /><br />
-Ethel Eichelberger honored in Howl!Â’s Â“Pantheon ParadeÂ” - would she be pissed too?</p>
+Ethel Eichelberger honored in Howl!’s “Pantheon Parade” - would she be pissed too?</p>
 
 <p>It's not just me, and I didn't make it up.</p>
 
@@ -27,7 +27,7 @@ Ethel Eichelberger honored in Howl!Â’s Â“Pantheon ParadeÂ” - would she 
 <p>The most hopeful note in the entire account was sounded in its report of a call for an "Anti-Howl Festival."</p>
 
 <blockquote>
-<p>A few blocks across from Tompkins Square Park, on St. MarkÂ’s, Bobby Steel, formerly of the punk band Â“The Misfits,Â” and now of Â“The Undead,Â” mentioned the possibility of an Anti-Howl Festival. Punk rock as a cultural movement had deep roots on the Lower East Side during the 80s and early 90s, with punk venues including ABC No Rio, the World, and the Pyramid, among numerous other clubs. Mohawks, leather, and chains were once common accoutrements in East Village fashion.</p>
+<p>A few blocks across from Tompkins Square Park, on St. Mark’s, Bobby Steel, formerly of the punk band “The Misfits,” and now of “The Undead,” mentioned the possibility of an Anti-Howl Festival. Punk rock as a cultural movement had deep roots on the Lower East Side during the 80s and early 90s, with punk venues including ABC No Rio, the World, and the Pyramid, among numerous other clubs. Mohawks, leather, and chains were once common accoutrements in East Village fashion.</p>
 
 <p>Nonetheless, there was little punk visibility, either through nostalgia for the past or a respect for the on-going punk culture. Perhaps Steel was serious, but even as a joke, the idea of an Anti-Festival illustrates how some Lower East cultural actors felt dissatisfied.</p>
 </blockquote>

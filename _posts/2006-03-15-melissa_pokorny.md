@@ -24,5 +24,5 @@ Melissa Pokorny <em>You and Me and Bird Shit</em> 2005 MDF, laminates, polyureth
 
 <p>People have a hard time imagining living with Pokorny's sculpture, but in a sense we all do already.</p>
 
-<p>Â— Kenneth Baker</p>
+<p>— Kenneth Baker</p>
 </blockquote>

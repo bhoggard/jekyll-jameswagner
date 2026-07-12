@@ -16,7 +16,7 @@ permalink: /2003/01/endless_war_mos.html
 
 <p>If the definition of "wartime president" has changed from being president at a time of war that has been declared (Harry S. Truman most recently, as I recall) to when Congress has authorized money for military force but has not declared war (Korea, Vietnam, Grenada, Panama, Bosnia and the Persian Gulf war, to name the major conflicts) to the president's simply declaring a war (on poverty, on cancer, on drugs, on crime, on terrorism), then we have had a "wartime president" for as long as I have been alive.</p>
 
-<p>The war on terror is not a real war. It is not declared by Congress. This is a continuing, never-ending excuse to forward an agenda and, at least as described in your article, trample civil liberties in the name of "war" Â— a conflict that is politically nurtured despite its terrible and very real roots.</p>
+<p>The war on terror is not a real war. It is not declared by Congress. This is a continuing, never-ending excuse to forward an agenda and, at least as described in your article, trample civil liberties in the name of "war" — a conflict that is politically nurtured despite its terrible and very real roots.</p>
 
 <p>BEBE BROWN<br />
 Barnstable, Mass., Jan. 9, 2003</p>

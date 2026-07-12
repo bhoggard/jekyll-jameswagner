@@ -8,12 +8,12 @@ permalink: /2006/09/asking_why_ther.html
 <p><img alt="antiwarMarch03ny.JPG" src="/mt_archives/antiwarMarch03ny.JPG" width="800" height="171" /><br />
 some kind of "Silence in the Streets", NYC, March 23, 2003</p>
 
-<p>I saw this "Editorial Observer" <a href="http://www.nytimes.com/2006/08/31/opinion/31observer.html?n=Top%2fReference%2fTimes%20Topics%2fPeople%2fR%2fRosenthal%2c%20Andrew">piece</a> by Andrew Rosenthal in yesterday's <u>NYTimes</u> and I could hardly believe my eyes.  The writer asks, in the words of the piece's title, "There Is Silence in the Streets; Where Have All the Protesters Gone?Â”, and then goes on to complain about how indifferent to injustice, or plain soft or cowardly, today's generation is when compared to the nobility of his own:</p>
+<p>I saw this "Editorial Observer" <a href="http://www.nytimes.com/2006/08/31/opinion/31observer.html?n=Top%2fReference%2fTimes%20Topics%2fPeople%2fR%2fRosenthal%2c%20Andrew">piece</a> by Andrew Rosenthal in yesterday's <u>NYTimes</u> and I could hardly believe my eyes.  The writer asks, in the words of the piece's title, "There Is Silence in the Streets; Where Have All the Protesters Gone?”, and then goes on to complain about how indifferent to injustice, or plain soft or cowardly, today's generation is when compared to the nobility of his own:</p>
 
 <blockquote>
-<p>. . . itÂ’s hard to imagine anyone on todayÂ’s campuses willing to face armed troops. Is there anything they care about that much?</p>
+<p>. . . it’s hard to imagine anyone on today’s campuses willing to face armed troops. Is there anything they care about that much?</p>
 
-<p>Student protesters helped drive Lyndon Johnson Â— in so many ways a powerful, progressive president Â— out of office because of his war. In 2004, George W. Bush Â— in so many ways a weak, regressive president Â— was re-elected despite his war. And the campuses were silent.</p>
+<p>Student protesters helped drive Lyndon Johnson — in so many ways a powerful, progressive president — out of office because of his war. In 2004, George W. Bush — in so many ways a weak, regressive president — was re-elected despite his war. And the campuses were silent.</p>
 </blockquote>
 
 <p>Yes, the lack of a military draft is an important explanation for the lack of political involvement on today's campuses, but Rosenthal is being more than a little disingenuous in not mentioning the most important element of what he portrays as, at best, the apathy of our youth.</p>
@@ -31,7 +31,7 @@ some kind of "Silence in the Streets", NYC, March 23, 2003</p>
 <blockquote>
 <p>I think one reason we have so few protests is that the news media in general did not and do not cover any protests in more than a cursory way.</p>
 
-<p>From the earliest antiwar marches, protesters learned that it wasnÂ’t worth the effort because their demonstrations were not covered by the news media and thus their message was not reaching their audience.</p>
+<p>From the earliest antiwar marches, protesters learned that it wasn’t worth the effort because their demonstrations were not covered by the news media and thus their message was not reaching their audience.</p>
 </blockquote>
 
 <p>But Leslie Kauffman gets right to the heart of the matter:</p>
@@ -43,7 +43,7 @@ some kind of "Silence in the Streets", NYC, March 23, 2003</p>
 
 <p>More than 1,000 local antiwar groups are active in at least 530 cities and towns. Every week since the war began, peace vigils have taken place in at least 90 locales.</p>
 
-<p>Mr. Rosenthal says that Â“it takes crowds to get AmericaÂ’s attention.Â” Large crowds have consistently taken to the streets to call for the troops to come home. Why is the scope of todayÂ’s antiwar movement, like the war itself, Â“largely hidden from American eyesÂ”?</p>
+<p>Mr. Rosenthal says that “it takes crowds to get America’s attention.” Large crowds have consistently taken to the streets to call for the troops to come home. Why is the scope of today’s antiwar movement, like the war itself, “largely hidden from American eyes”?</p>
 </blockquote>
 
 <p>The idiot in Crawford would have gotten nowhere without the pass he got from the commercial media from the very beginning;  the ultimate blame for our potentially fatal national agony, Mr. Rosenthal (and you should be squirming by now), lies on your own conscience and that of almost every editor and publisher in America.</p>

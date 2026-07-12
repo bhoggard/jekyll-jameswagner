@@ -20,7 +20,7 @@ MSM news</p>
 <p>On the subject of journalistic malpractice, that most excellent community source, <a href="http://www.blogchelsea.com/services/blogger-summit/">Blog Chelsea</a>, says that Barry put it best, in conversation last night:</p>
 
 <blockquote>
-<p>ThereÂ’s a war on, but all they can say is, "Look at these puppies!" They talk about ClintonÂ’s sex life, but not about all of the freedom that is slowly being taken away from you.</p>
+<p>There’s a war on, but all they can say is, "Look at these puppies!" They talk about Clinton’s sex life, but not about all of the freedom that is slowly being taken away from you.</p>
 </blockquote>
 
 <p>[image from <a href="http://www.diamondsintheruff.com/RKAnderson.html">diamondsintheruff</a>]</p>

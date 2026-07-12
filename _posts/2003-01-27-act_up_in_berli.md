@@ -5,9 +5,9 @@ categories: [Politics]
 permalink: /2003/01/act_up_in_berli.html
 ---
 
-<p>James Wentzy's film documentary, "Fight Back, Fight AIDS Â– 15 Years of ACT UP," has been accepted for screening next month by the <a href="http://www.berlinale.de/de/presse/pressemitteilungen/PanoramaDokumente2003/f_main.html">53rd Berlin International Film Festival</a>.</p>
+<p>James Wentzy's film documentary, "Fight Back, Fight AIDS – 15 Years of ACT UP," has been accepted for screening next month by the <a href="http://www.berlinale.de/de/presse/pressemitteilungen/PanoramaDokumente2003/f_main.html">53rd Berlin International Film Festival</a>.</p>
 
-<p><i>Fight Back, Fight AIDS Â– 15 Years of ACT UP</i> von James Wentzy (USA)</p>
+<p><i>Fight Back, Fight AIDS – 15 Years of ACT UP</i> von James Wentzy (USA)</p>
 
 <p>From the Festival site [my translation from the German]:</p>
 

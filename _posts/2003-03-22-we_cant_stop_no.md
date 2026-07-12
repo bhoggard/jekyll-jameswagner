@@ -18,7 +18,7 @@ permalink: /2003/03/we_cant_stop_no.html
 
 <p>While the rally began as a peaceful one, violence broke out near Washington Square Park as police attempted to disperse the crowd at the scheduled 4 p.m. end of the rally. Several protesters were arrested and a number of police officers were sprayed with Mace as they tried to move crowds out of the area.</p>
 
-<p>"I was trying to disperse, you couldnÂ’t get through because of a line of helmeted riot police," said a woman who participated in the protest. "They started making a line and pushing the crowd back so you could not exit. TheyÂ’re squeezing in people like rats because thereÂ’s no place to go and the police are provoking whatÂ’s going to be violent."</p>
+<p>"I was trying to disperse, you couldn’t get through because of a line of helmeted riot police," said a woman who participated in the protest. "They started making a line and pushing the crowd back so you could not exit. They’re squeezing in people like rats because there’s no place to go and the police are provoking what’s going to be violent."</p>
 
 <p>Riot officers and mounted police tried to get control of the crowd, announcing via loudspeaker about 5:30 p.m. that those who remained in the area could face arrest.</p>
 </blockquote>

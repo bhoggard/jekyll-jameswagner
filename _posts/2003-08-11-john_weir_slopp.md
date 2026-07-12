@@ -22,7 +22,7 @@ permalink: /2003/08/john_weir_slopp.html
 <p>Well, his proposition is at least worth an entertaining argument, and John is more than equal to that, but his take on why straight guys are willing to listen to queer style coaches is even more intriguing.  He says the new "reality" TV show flatters heterosexual men by putting them where they already are, at the center of the action.</p>
 
 <blockquote>
-<p>In the meantime, is "Queer Eye for the Straight Guy" creating a new "common ground" where gay men and straight men can bond? No doubt it is, for some people Â— in particular, for television executives and advertisers impressed with the show's ratings. To me, however, the most touching aspect of the show is its plain proof that all men, straight or gay, yearn to be praised by a guy.</p>
+<p>In the meantime, is "Queer Eye for the Straight Guy" creating a new "common ground" where gay men and straight men can bond? No doubt it is, for some people — in particular, for television executives and advertisers impressed with the show's ratings. To me, however, the most touching aspect of the show is its plain proof that all men, straight or gay, yearn to be praised by a guy.</p>
 
 <p>. . . .</p>
 

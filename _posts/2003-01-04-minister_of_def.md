@@ -8,7 +8,7 @@ permalink: /2003/01/minister_of_def.html
 <p>The world is fortunate there are <a href="http://www.nytimes.com/2003/01/04/international/americas/04FPRO.html?pagewanted=1">models other than our own</a>.</p>
 
 <blockquote>
-<p>SANTIAGO, Chile Â— It is a measure of how much this country has changed that Michelle Bachelet today works from an office that once belonged to Gen. Augusto Pinochet, the dictator whose forces tortured her father to death nearly 30 years ago.</p>
+<p>SANTIAGO, Chile — It is a measure of how much this country has changed that Michelle Bachelet today works from an office that once belonged to Gen. Augusto Pinochet, the dictator whose forces tortured her father to death nearly 30 years ago.</p>
 
 <p>When she was appointed Chile's minister of defense a year ago this week, much was made of the fact that she was the first woman to hold that portfolio in Latin America. As if that were not novelty enough, she is also a Socialist, a physician and the daughter of Alberto Bachelet Martínez, an air force general who died in prison after he was arrested and convicted of treason by his own colleagues.</p>
 </blockquote>

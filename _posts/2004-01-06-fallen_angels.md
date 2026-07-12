@@ -20,7 +20,7 @@ permalink: /2004/01/fallen_angels.html
 <p>Michelle O'Donnell's <u>Times</u> <a href="http://www.nytimes.com/2004/01/05/nyregion/05FIRE.html?pagewanted=print&position=">article</a> yesterday quoted a retired deputy chief, Vincent Dunn, on the subject of "busting chops", as the paper's <a href="http://www.nytimes.com/2004/01/06/opinion/06TUE2.html?pagewanted=print&position=">editorial</a> calls it today.</p>
 
 <blockquote>
-<p>"Everybody verbally abuses young firefighters," [Walsh is 40, Silvestri 41] said Vincent Dunn, a retired deputy chief, who added that even longtime firefighters do not outgrow the sport of razzing. "Nobody wants physical violence Â— that's a no-no. But there's a lot of verbal abuse. <i>It's like society</i>."  [my italics]</p>
+<p>"Everybody verbally abuses young firefighters," [Walsh is 40, Silvestri 41] said Vincent Dunn, a retired deputy chief, who added that even longtime firefighters do not outgrow the sport of razzing. "Nobody wants physical violence — that's a no-no. But there's a lot of verbal abuse. <i>It's like society</i>."  [my italics]</p>
 </blockquote>
 
 <p>Umm . . . I don't think so.  [Still, if it were true, it would help explain something about how Americans treat each other and the rest of the world, and why we have only buffoons and bullies running the country.]</p>

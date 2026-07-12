@@ -24,7 +24,7 @@ passing GO</p>
 <blockquote>
 <p>HERE is the bind the Fed is in: Like the boy who puts his finger in the dike to keep sea water from pouring in, the Fed finds that new leaks keep emerging.</p>
 
-<p>Regulators must do whatever they can to keep the markets open and operating, and much of that relies upon the confidence of investors. But by offering to backstop firms like Bear, who were the very architects of their own Â— and the marketÂ’s Â— current problems, overseers like the Fed undermine a little bit more of that confidence.</p>
+<p>Regulators must do whatever they can to keep the markets open and operating, and much of that relies upon the confidence of investors. But by offering to backstop firms like Bear, who were the very architects of their own — and the market’s — current problems, overseers like the Fed undermine a little bit more of that confidence.</p>
 
 <p>Another worry? How many well-capitalized institutions remain at the ready to take over those firms that may encounter turbulence in the future? Banks just do not have the capital that is needed to rescue troubled firms.</p>
 

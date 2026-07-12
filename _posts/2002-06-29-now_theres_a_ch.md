@@ -12,5 +12,5 @@ permalink: /2002/06/now_theres_a_ch.html
 ....<br />
 OUR democracy is in trouble," he said. "The Democratic and Republican Parties have converged. Their economic policies are not different. They believe that anything that hurts business is not a viable position."<br />
 ....<br />
-"Dostoyevsky taught me about irony," he said. "I have great trouble with this as a would-be politician. You cannot be a successful politician and be ironic. Our slogan Â— tax and spend Â— is meant to be ironic, but people don't get it. They get upset."</p>
+"Dostoyevsky taught me about irony," he said. "I have great trouble with this as a would-be politician. You cannot be a successful politician and be ironic. Our slogan — tax and spend — is meant to be ironic, but people don't get it. They get upset."</p>
 </blockquote>

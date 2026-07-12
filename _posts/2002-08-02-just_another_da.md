@@ -8,7 +8,7 @@ permalink: /2002/08/just_another_da.html
 <p>The Republicans can't afford to pay for their own <a href="http://www.nytimes.com/2002/07/30/politics/30BUSH.html">campaign junkets</a>.  They need <i>our</i> [Republicans don't pay taxes anymore] tax money.</p>
 
 <blockquote>
-<p>CHARLESTON, S.C., July 29 Â— President Bush directed unusually harsh criticism at the Senate today for its version of a welfare bill, which he said would hurt the people it was trying to help. Almost immediately afterward, he collected more than $1 million at a Republican fund-raiser.</p>
+<p>CHARLESTON, S.C., July 29 — President Bush directed unusually harsh criticism at the Senate today for its version of a welfare bill, which he said would hurt the people it was trying to help. Almost immediately afterward, he collected more than $1 million at a Republican fund-raiser.</p>
 
 <p>In an efficient and lucrative three-hour and 45-minute trip to this Republican-friendly state, Mr. Bush met in a private session with former welfare recipients, gave a speech at a suburban high school admonishing the Senate to pass his version of welfare reform, then spoke to 1,000 people at a fund-raising lunch for former Representative Mark Sanford, the Republican candidate for governor. The lunch cost $500 per plate, but the biggest contributors gave $10,000 to have their pictures taken with the president.</p>
 

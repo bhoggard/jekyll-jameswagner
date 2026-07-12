@@ -16,7 +16,7 @@ permalink: /2002/12/we_truly_do_hav.html
 <p>It's Mr. Kimmelman who is yelling "fire!" in a crowded theater.  Boisvert does not threaten us;  we are threatened by those who do not understand, pander to, manipulate or use our fears for their own ends, not those who show them and their sponsors for what they are.  It is quite a different context, but Roosevelt's words in 1933 would serve us well today.</p>
 
 <blockquote>
-<p>So, first of all, let me assert my firm belief that the only thing we have to fear is fear itselfÂ—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.</p>
+<p>So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.</p>
 </blockquote>
 
 <p>Peace.</p>

@@ -30,7 +30,7 @@ permalink: /2007/04/josh_wolf_is_fr.html
 
 <p>As there was nothing of a sensitive or confidential nature on my video outtakes, I had no reason to withhold their publication once I had exhausted all my legal appeals. When that point arrived I had already spent three months behind bars. I was advised by my legal team that publishing the video would not lead to my release; instead it would indicate to the court that my imprisonment was having a coercive effect even though it was not.</p>
 
-<p>This hypothesis was verified when one of my attorneyÂ's inquired whether the Assistant US Attorney would accept the footage in lieu of my testimony, he was told that the video alone would not suffice and that the US Attorney would accept nothing less than my full compliance with the demands of the subpoena. Things change.</p>
+<p>This hypothesis was verified when one of my attorney's inquired whether the Assistant US Attorney would accept the footage in lieu of my testimony, he was told that the video alone would not suffice and that the US Attorney would accept nothing less than my full compliance with the demands of the subpoena. Things change.</p>
 
 <p>When the judge came to realize the support for my cause was growing and that I was unlikely to waver anytime soon, he ordered both parties to meet with a magistrate judge in the hopes we could reach a solution amenable to everyone. After two rather strenuous sessions of mediation, we at last came to an agreement that not only leaves my ethics intact but actively serves the role of a free press in our so-called free society.</p>
 </blockquote>

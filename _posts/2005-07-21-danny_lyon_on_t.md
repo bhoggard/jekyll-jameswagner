@@ -19,7 +19,7 @@ Danny Lyon <em>327, 329, and 331 Washington Street, between Jay and Harrison Str
 
 <p>. . . .</p>
 
-<p>You have to understand that I wasÂ—and still am, although I've aged and mellowedÂ— I was obsessed with the power of photography. I thought you could take a <a href="http://www.artnet.de/artwork/148517/_Danny_Lyon_Crossing_the_Ohio_near_Louisville.html">bike rider</a>, Harley-Davidson, roaring along, and that this photography was so miraculous that you could somehow contain that power in the negative. Unlike this guy who would go around the corner and die, or run out of gas, that the thing that you contained would be for all time. . . .</p>
+<p>You have to understand that I was—and still am, although I've aged and mellowed— I was obsessed with the power of photography. I thought you could take a <a href="http://www.artnet.de/artwork/148517/_Danny_Lyon_Crossing_the_Ohio_near_Louisville.html">bike rider</a>, Harley-Davidson, roaring along, and that this photography was so miraculous that you could somehow contain that power in the negative. Unlike this guy who would go around the corner and die, or run out of gas, that the thing that you contained would be for all time. . . .</p>
 
 <p>I had the power to use all of these buildings and preserve them for the future. And if anybody wanted to experience [the] Lower Manhattan that had stood there for 150 years, they would have to come to my photographs! Which would be washed and preserved and in the New York Public Library. . . .</p>
 

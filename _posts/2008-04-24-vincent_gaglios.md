@@ -27,7 +27,7 @@ Vincent Gagliostro <em>After Louie, an excerpt</em> video [stills, and large det
 <p>Although I'm also no stranger to the world which inspired Gagliostro in creating this film, I prefer to let the gallery press release set the scene with the help of the director's own input:</p>
 
 <blockquote>
-<p>"After Louie" hits you like a time bomb . . . was there really ever a New York like that where adventure and discovery and sexual tension were still palpable and possible on the skinny island of Manhattan?  Was there a meatpacking district before Pastis?  When you watch GagliostroÂ’s video, you actually remember, for a moment, the streets and the clubs and the boys with nice abs.</p>
+<p>"After Louie" hits you like a time bomb . . . was there really ever a New York like that where adventure and discovery and sexual tension were still palpable and possible on the skinny island of Manhattan?  Was there a meatpacking district before Pastis?  When you watch Gagliostro’s video, you actually remember, for a moment, the streets and the clubs and the boys with nice abs.</p>
 
 <p>In the visual and audio collage of Gagliostro's piece you recall that New York City from the not-so-distant end of the last century like it was yesterday.  You remember it all not with nostalgia, but, quoting Gagliostro, "with relief that this New York actually existed and actually happened before it was too late;  that despite the tragedy and loss and pain of that era there was still the nourishment of real off-line experience and the comforts of heart and sex and art and strangers and bodies and life, and soul growth before everything was already discovered, developed, trained, tracked, exploited, done, over."</p>
 </blockquote>

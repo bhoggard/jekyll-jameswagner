@@ -36,7 +36,7 @@ what you don't say is also<br />
 politically significant.</p>
 </blockquote>
 
-<p>The Kernis, "Sarabanda in Memorium", was very Â“New RomanticismÂ” pretty, but less than halfway through the sixteen-minute piece described as somehow related to September 11, my attention began to flag.  Kernis is a very good composer.  I'm just never sure he really has anything new to say.</p>
+<p>The Kernis, "Sarabanda in Memorium", was very “New Romanticism” pretty, but less than halfway through the sixteen-minute piece described as somehow related to September 11, my attention began to flag.  Kernis is a very good composer.  I'm just never sure he really has anything new to say.</p>
 
 <p>The performance of "Metamorphosen", which the aged Strauss composed in the midst of the physical and cultural ruin of his beloved Germany in 1945, seemed  too slow, and it never really took off, the way it always seems to in my memory, or at least in the von Karajan recording we have at home.  But I have to admit that any enjoyment of the piece was compromised by the constant chatter of a couple nearby for whom the evening's august program represented more an occasion for serious foreplay than art.  So maybe it was just me - or them.</p>
 

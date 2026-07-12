@@ -9,7 +9,7 @@ permalink: /2005/09/more_from_insid.html
 <em>Troy Tallent brings some blues back to the French Quarter, by playing for the few residents and police still in the neighborhood. Originally from Georgia, Troy came to New Orleans in 1987 and he hasn't left yet.</em> [<u>Los</u> <u>Angeles</u> <u>Times</u> caption dated September 3]</p>
 
 <p><img alt="NewOrleans105.jpg" src="/mt_archives/NewOrleans105.jpg" width="499" height="425" /><br />
-<em>HELP AT HAND: Nita LaGarde, 105, leaves New OrleansÂ’ convention center with her nurseÂ’s granddaughter Tanisha Blevin, 5. Before coming to the shelter, they huddled in an attic and on an interstate island. Helicopters evacuated the elderly, infirm and infants. About 1,000 people remain.</em> [<u>Los</u> <u>Angeles</u> <u>Times</u> dated September 4]</p>
+<em>HELP AT HAND: Nita LaGarde, 105, leaves New Orleans’ convention center with her nurse’s granddaughter Tanisha Blevin, 5. Before coming to the shelter, they huddled in an attic and on an interstate island. Helicopters evacuated the elderly, infirm and infants. About 1,000 people remain.</em> [<u>Los</u> <u>Angeles</u> <u>Times</u> dated September 4]</p>
 
 <p>I'm publishing a second letter from <a href="/2005/09/a_letter_from_o_1.html">Jordan Flaherty</a> this morning, once again copied in its entirety.  The first section includes his thoughts on the the city, the second is in the form of a diary and the third is the beginnings of a prospectus for aiding the people of New Orleans.</p>
 
@@ -26,7 +26,7 @@ Blanco proudly speak of troops coming in with orders <br />
 to shoot to kill.  Is she trying to help New <br />
 Orleans, or has she declared war?</p>
 
-<p>I feel like the world isnÂ’t seeing the truth about the<br />
+<p>I feel like the world isn’t seeing the truth about the<br />
 city I love.  People outside know about Jazz Fest <br />
 and Bourbon Street and beads, and now they know about <br />
 looters and armed gangs and helicopter <br />
@@ -40,10 +40,10 @@ centuries of racism and white supremacy.</p>
 <p>This is the city where in 1892 Homer Plessy and the <br />
 Citizens Committee planned the direct action <br />
 that brought the first (unsuccessful) legal challenge <br />
-to the doctrine of Â“Separate but Equal.Â”  This is <br />
+to the doctrine of “Separate but Equal.”  This is <br />
 the city where in 1970 the New Orleans Black Panthers <br />
 held off the police from the desire housing <br />
-projects, and also formed one of the nationsÂ’ first <br />
+projects, and also formed one of the nations’ first <br />
 Black Panther chapters in prison.  Where in 2005 <br />
 teens at Frederick Douglas High School, one of the <br />
 most impoverished schools in the US, formed a <br />
@@ -52,7 +52,7 @@ fight for educational justice, and canvassed their <br />
 community to develop true community ownership of their<br />
 school.</p>
 
-<p>I didnÂ’t really understand community until I moved to <br />
+<p>I didn’t really understand community until I moved to <br />
 New Orleans.  Secondlines, the new orleans <br />
 tradition of roving street parties with a brass band, <br />
 began as a form of community insurance, and are <br />
@@ -68,7 +68,7 @@ support to this community in their hour of crisis, and<br />
 then we need to let them lead the redevelopment <br />
 of New Orleans.  As Naomi Klein has already pointed <br />
 out, the rebuilding money that will come in <br />
-doesnÂ’t belong to the Red Cross or FEMA or Homeland <br />
+doesn’t belong to the Red Cross or FEMA or Homeland <br />
 Security, the money belongs to the people of <br />
 New Orleans.</p>
 
@@ -83,9 +83,9 @@ and neglect.</p>
 
 <p>Saturday, August 27</p>
 
-<p>IÂ’m in New Orleans, and thereÂ’s word of a hurricane <br />
-approaching. I donÂ’t consider leaving.  Why?  <br />
-Because I donÂ’t have a car, and all the airlines and <br />
+<p>I’m in New Orleans, and there’s word of a hurricane <br />
+approaching. I don’t consider leaving.  Why?  <br />
+Because I don’t have a car, and all the airlines and <br />
 car rental companies are sold out. Because the <br />
 last two hurricanes were false alarms, despite the <br />
 shrill and vacuous media alarms.  Because I have <br />
@@ -98,10 +98,10 @@ hours.</p>
 <p>Sunday, August 28</p>
 
 <p>As the storm approaches and grows larger, everyone I <br />
-know is calling. Â“Are you staying or going?  <br />
+know is calling. “Are you staying or going?  <br />
 where are you staying?  Are you bringing your pets?  <br />
-What should I do?Â”  Governor Blanco urges us <br />
-to Â“pray the hurricane downÂ” to a level 2.</p>
+What should I do?”  Governor Blanco urges us <br />
+to “pray the hurricane down” to a level 2.</p>
 
 <p>I relent to pressure somewhat and relocate to a more <br />
 sturdy location, an apartment complex built out <br />
@@ -120,10 +120,10 @@ New Orleans has once again escaped fate.</p>
 
 <p>Later in the day, we hear some reports of much greater<br />
 flooding in destruction in the ninth ward and <br />
-lower ninth ward neighborhoods, New OrleansÂ’ most <br />
+lower ninth ward neighborhoods, New Orleans’ most <br />
 overexploited communities.</p>
 
-<p>Tomorrow, we decide, the water will lower and weÂ’ll <br />
+<p>Tomorrow, we decide, the water will lower and we’ll <br />
 walk home.  We expect power will start coming <br />
 on in a week or so.</p>
 
@@ -138,8 +138,8 @@ backs and watch shooting stars.</p>
 several feet.  Panic begins to set in among <br />
 some.  We inventory our food and find that, if we <br />
 ration it tightly, we have enough for five days.  As<br />
-we discuss it, we repeatedly say, Â“not that weÂ’ll be <br />
-here that long, but if we had to...Â”</p>
+we discuss it, we repeatedly say, “not that we’ll be <br />
+here that long, but if we had to...”</p>
 
 <p>We continue to explore the area by boat, helping <br />
 people when possible.  The atmosphere outside is <br />
@@ -166,10 +166,10 @@ there is no reliable source of information, <br />
 compounding and multiplying the crisis.</p>
 
 <p>The reporters and politicians talk 80% about looting <br />
-and 20% about flooding.  I canÂ’t understand how <br />
-anyone could blame someone for Â“lootingÂ” when they <br />
+and 20% about flooding.  I can’t understand how <br />
+anyone could blame someone for “looting” when they <br />
 just had their home destroyed by the neglect <br />
-and corruption of a country that doesnÂ’t care about <br />
+and corruption of a country that doesn’t care about <br />
 them and never did.</p>
 
 <p>Tomorrow, the news announces, the water level will <br />
@@ -179,11 +179,11 @@ Blanco calls for a day of prayer.</p>
 <p>Wednesday, August 31</p>
 
 <p>White people in the building start whispering about <br />
-their fears of Â“them.Â”  One woman complains of <br />
-people in the building Â“from the projects and hoarding<br />
-food.Â”  There is talk of gangs in the streets, <br />
+their fears of “them.”  One woman complains of <br />
+people in the building “from the projects and hoarding<br />
+food.”  There is talk of gangs in the streets, <br />
 shooting, robbing, and lawless anarchy.  I feel like <br />
-there is a struggle in peopleÂ’s minds between <br />
+there is a struggle in people’s minds between <br />
 compassion and panic, between empathy and fear.</p>
 
 <p>However, we witness many folks traveling around in <br />
@@ -266,13 +266,13 @@ gunshots and looting and fear.  The worst stories come<br />
 from the Superdome.  I speak to one young man who <br />
 describes having to escape and swim up to midcity.</p>
 
-<p>IÂ‘m reminded of a moment I read about in the book <br />
-Â“Rising Tide,Â” about the Mississippi river flood of <br />
+<p>I‘m reminded of a moment I read about in the book <br />
+“Rising Tide,” about the Mississippi river flood of <br />
 1927.  After the 1927 evacuation, a boatload of poor <br />
 black refugees is refused permission to get on <br />
-land Â“until they sing negro spirituals.Â”  As a bus <br />
+land “until they sing negro spirituals.”  As a bus <br />
 arrives and a mass swarms forward and state police <br />
-and national guard do nothing to help, I feel like IÂ’m<br />
+and national guard do nothing to help, I feel like I’m<br />
 witnessing the modern equivalent of this dehumanizing <br />
 spectacle.</p>
 
@@ -290,21 +290,21 @@ are crowded.  Everyone is going somewhere.</p>
 
 <p>Friday, September 2</p>
 
-<p>In Houston, I canÂ’t sleep, although we drove through <br />
+<p>In Houston, I can’t sleep, although we drove through <br />
 the night.  Governor Blanco announces that <br />
-sheÂ’s sending in more national guard troops, Â“These <br />
+she’s sending in more national guard troops, “These <br />
 troops are fresh back from Iraq, well trained, <br />
 experienced, battle tested and under my orders to <br />
 restore order in the streets.  They have M-16s and <br />
 they are locked and loaded.  These troops know how <br />
 to shoot and kill and they are more than willing <br />
-to do so if necessary and I expect they will.Â”</p>
+to do so if necessary and I expect they will.”</p>
 
 <p>[<strong>WHAT TO DO</strong>]</p>
 
 <p>Many people have called and written to ask what they <br />
-can do.  I donÂ’t really have answers.  IÂ’m still <br />
-tired and angry and I donÂ’t know if my home survived.</p>
+can do.  I don’t really have answers.  I’m still <br />
+tired and angry and I don’t know if my home survived.</p>
 
 <p>But, here's some thoughts:</p>
 
@@ -316,7 +316,7 @@ list at <a href="http://www.sparkplugfoundation.org/katrinarelief.html">http://w
 katrinarelief.html</a></p>
 
 <p>3) Volunteer.  The following is a call for volunteers<br />
-from Families and friends of LouisianaÂ’s <br />
+from Families and friends of Louisiana’s <br />
 Incarcerated Children, an excellent grassroots group:</p>
 
 <blockquote>
@@ -343,7 +343,7 @@ xochitl@mediajumpstart.org</p>
 <p>6) Support grassroots, community control of <br />
 redevelopment.</p>
 
-<p>DonÂ’t let New Orleans die.</p>
+<p>Don’t let New Orleans die.</p>
 </blockquote>
 
 <p>More on Katrina, from independent sources, can be found on <a href="http://www.zmag.org/weluser.htm">Znet</a>.</p>

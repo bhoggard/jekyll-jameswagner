@@ -12,7 +12,7 @@ permalink: /2006/10/sarah_oppenheim.html
 <p>From the press release:</p>
 
 <blockquote>
-<p>In her upcoming exhibition at PÂ·PÂ·OÂ·W, Sarah Oppenheimer continues to explore the malleability of the constructed environment.  Oppenheimer engages with the problem of Â‘mutable architectureÂ’ as explored by the work of architects such as Yona Friedman, Peter Cook/Archigram, and Cedric Price.  Rather than create utopian prescribed spaces, Oppenheimer considers the building material as a socially engaged starting point.  She begins with the typical 4 x 8 foot sheet of plywood and by using CNC routing to bend it, she transforms the once contractor cladding into a stable structural support.</p>
+<p>In her upcoming exhibition at P·P·O·W, Sarah Oppenheimer continues to explore the malleability of the constructed environment.  Oppenheimer engages with the problem of ‘mutable architecture’ as explored by the work of architects such as Yona Friedman, Peter Cook/Archigram, and Cedric Price.  Rather than create utopian prescribed spaces, Oppenheimer considers the building material as a socially engaged starting point.  She begins with the typical 4 x 8 foot sheet of plywood and by using CNC routing to bend it, she transforms the once contractor cladding into a stable structural support.</p>
 </blockquote>
 
 <p><img alt="OppenheimerSarahopening.jpg" src="/mt_archives/OppenheimerSarahopening.jpg" width="400" height="602" /></p>

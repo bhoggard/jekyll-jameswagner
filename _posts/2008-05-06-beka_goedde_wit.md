@@ -23,7 +23,7 @@ pencil, gouache on panel 28.5" x 31.5"</p>
 <p>I had already made this allusion to texture or touch, first in my mind then and just now in the rough draft of this entry, before I actually took a look at the gallery site.  There I read that as an undergraduate at Columbia Goedde had concentrated on Behavioral Neuroscience and Philosophy.  The note further explains:</p>
 
 <blockquote>
-<p>Her thesis work focused on the sense of touch, specifically a non-dualist way of conceiving of the space of oneÂ’s body and the space surrounding oneself, on both a phenomenal and neurophysiological level.</p>
+<p>Her thesis work focused on the sense of touch, specifically a non-dualist way of conceiving of the space of one’s body and the space surrounding oneself, on both a phenomenal and neurophysiological level.</p>
 </blockquote>
 
 <p>Wherever it comes from, the work is really beautiful, and it just keeps on going on, in space and, it seems, even in time.</p>

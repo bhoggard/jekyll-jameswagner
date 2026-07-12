@@ -26,14 +26,14 @@ war is never what we expect it to be:  <a href="/2003/10/they_felt_they.html">Dr
 <p>We <em>do</em> torture people.  We can no longer deny it.  This may be the first time you've seen Andrew Sullivan's name used on this blog (and I'd like it to be the last), but Rich links to our lazy mainstream media's designated homosexual spokesperson to illustrate the connection between the administration's "interrogation" practice and that of the Nazis.</p>
 
 <blockquote>
-<p>As Andrew Sullivan, once a Bush cheerleader, observed last weekend in The Sunday Times of London, "AmericaÂ’'s Â“'enhanced interrogationÂ”' techniques have a grotesque provenance: Â“'Verschärfte Vernehmung', enhanced or intensified interrogation, was the exact term innovated by the Gestapo to describe what became known as the Â‘third degree.Â’ It left no marks. It included hypothermia, stress positions and long-time sleep deprivation."<br />
-Â”</p>
+<p>As Andrew Sullivan, once a Bush cheerleader, observed last weekend in The Sunday Times of London, "America’'s “'enhanced interrogation”' techniques have a grotesque provenance: “'Verschärfte Vernehmung', enhanced or intensified interrogation, was the exact term innovated by the Gestapo to describe what became known as the ‘third degree.’ It left no marks. It included hypothermia, stress positions and long-time sleep deprivation."<br />
+”</p>
 </blockquote>
 
 <p>We apparently do commit war crimes, and we hire mercenaries.  Rich believes the tale of our well-paid hired guns is "a leading indicator of every element of the war's failure", and sometimes the worst stories can't be swept under the carpet.  Three weeks after the Nisour Square massacre  of 17 Iraqis, the <u>Times</u> columnist skillfully parses the more recent killing on Tuesday, by members of another private security firm, of the two women driving a car in Baghdad in these words:</p>
 
 <blockquote>
-<p>The gunmen who mowed down the two Christian women worked for a Dubai-based company managed by Australians, registered in Singapore and enlisted as a subcontractor by an American contractor headquartered in North Carolina. This is a plot out of Â“"Syriana"Â” by way of Â“"Chinatown".Â” There will be no trial. We will never find out what happened.</p>
+<p>The gunmen who mowed down the two Christian women worked for a Dubai-based company managed by Australians, registered in Singapore and enlisted as a subcontractor by an American contractor headquartered in North Carolina. This is a plot out of “"Syriana"” by way of “"Chinatown".” There will be no trial. We will never find out what happened.</p>
 </blockquote>
 
 <p>We're now "laundering" our atrocities!  Is anyone out there following this?</p>
@@ -45,7 +45,7 @@ war is never what we expect it to be:  <a href="/2003/10/they_felt_they.html">Dr
 <p>The rest of the world <em>is</em> following this very closely.  We don't look good.  We're already paying for our cowardice, and the bill is not going to get any smaller.  Rich's column concludes with a warning and an appeal:</p>
 
 <blockquote>
-<p>Our humanity has been compromised by those who use Gestapo tactics in our war. The longer we stand idly by while they do so, the more we resemble those "Â“good Germans"Â” who professed ignorance of their own Gestapo. ItÂ’'s up to us to wake up our somnambulant Congress to challenge administration policy every day. Let the warÂ’'s last supporters filibuster all night if they want to. There is nothing left to lose except whatever remains of our countryÂ’'s good name.</p>
+<p>Our humanity has been compromised by those who use Gestapo tactics in our war. The longer we stand idly by while they do so, the more we resemble those "“good Germans"” who professed ignorance of their own Gestapo. It’'s up to us to wake up our somnambulant Congress to challenge administration policy every day. Let the war’'s last supporters filibuster all night if they want to. There is nothing left to lose except whatever remains of our country’'s good name.</p>
 </blockquote>
 
 <p>I have to end by saying I just don't share his Frank Capra optimism.   How can we as ordinary Americans expect to have any impact on government policy when we have neither democracy nor the stomach for serious revolt?</p>

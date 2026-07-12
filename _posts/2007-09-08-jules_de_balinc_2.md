@@ -6,7 +6,7 @@ permalink: /2007/09/jules_de_balinc_2.html
 ---
 
 <p><img alt="de_balincourt_rock.jpg" src="/mt_archives/de_balincourt_rock.jpg" width="600" height="474" /><br />
-Jules de Balincourt <em>Untitled</em> 2007 oil and enamel on panel 27 Â” x 34 Â”</p>
+Jules de Balincourt <em>Untitled</em> 2007 oil and enamel on panel 27 ” x 34 ”</p>
 
 <p><img alt="de_Balincourt_Jules_Cycles_of_Morning_and_Dying.jpg" src="/mt_archives/de_Balincourt_Jules_Cycles_of_Morning_and_Dying.jpg" width="600" height="506" /><br />
 Jules de Balincourt <em>Cycles of Morning and Dyeing</em> 2007 oil on panel 32" x 38"</p>

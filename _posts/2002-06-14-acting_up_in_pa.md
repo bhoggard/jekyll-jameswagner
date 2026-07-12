@@ -10,7 +10,7 @@ permalink: /2002/06/acting_up_in_pa.html
 <blockquote>
 <p>While the internationals are pledged to take only non-violent actions they do support the right of the Palestinians to use force.</p>
 
-<p>"If somebody invades your town you have the right to shoot at them," Quester said. "No one element alone Â–Â– armed struggle, diplomacy, non-violent resistance Â–Â– is going to free the Palestinian people."</p>
+<p>"If somebody invades your town you have the right to shoot at them," Quester said. "No one element alone –– armed struggle, diplomacy, non-violent resistance –– is going to free the Palestinian people."</p>
 </blockquote>
 
 <p>Steve, who is a dear friend, had written the following note at the time the article first appeared, about a week ago, and it should be included here, together with the Frederick Douglas quote he appended:</p>

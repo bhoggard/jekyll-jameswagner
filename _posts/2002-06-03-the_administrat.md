@@ -12,5 +12,5 @@ permalink: /2002/06/the_administrat.html
 <p>Rather, we are told, we must adapt to the "inevitability" of our national policy of not reducing these emissions.  Huh?</p>
 
 <blockquote>
-<p>But while the report says the United States will be substantially changed in the next few decades Â— "very likely" seeing the disruption of snow-fed water supplies, more stifling heat waves and the permanent disappearance of Rocky Mountain meadows and coastal marshes, for example Â— it does not propose any major shift in the administration's policy on greenhouse gases.</p>
+<p>But while the report says the United States will be substantially changed in the next few decades — "very likely" seeing the disruption of snow-fed water supplies, more stifling heat waves and the permanent disappearance of Rocky Mountain meadows and coastal marshes, for example — it does not propose any major shift in the administration's policy on greenhouse gases.</p>
 </blockquote>

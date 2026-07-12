@@ -38,7 +38,7 @@ are they invisible?</p>
 
 <p>In the closeknit Asian community around Heathrow, sacking lowly paid workers in such humiliating terms was an outrage.</p>
 
-<p>Many Gate Gourmet workers had relatives employed by BA - not surprising since the airline sold its catering division to Gate Gourmet in 1997 for Â£60m.</p>
+<p>Many Gate Gourmet workers had relatives employed by BA - not surprising since the airline sold its catering division to Gate Gourmet in 1997 for £60m.</p>
 
 <p>The illegal sympathy strike action by 1,000 BA staff had the understanding and sympathy of all BA workers, even at the highest level.</p>
 

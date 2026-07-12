@@ -8,7 +8,7 @@ permalink: /2002/07/we_should_want.html
 <p>One of the founders of the modern British gay movement <a href="http://argument.independent.co.uk/commentators/story.jsp?story=312379">reminds us </a>that in the first years after Stonewall we wanted to change society, not conform to it.</p>
 
 <blockquote>
-<p>There would be sexual freedom and human rights for all Â– gay and straight. Our message was: "innovate, don't assimilate."</p>
+<p>There would be sexual freedom and human rights for all – gay and straight. Our message was: "innovate, don't assimilate."</p>
 </blockquote>
 
 <p>That dream has faded, and even the noisiest activists today are more likely to be content to settle for equal rights within the status quo than to question sociey as it is.</p>

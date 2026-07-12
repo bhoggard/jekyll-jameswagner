@@ -26,7 +26,7 @@ supernal music between the altar and the first pew</p>
 <p>This is an excerpt from the Wikipedia entry for the Chelsea Symphony:</p>
 
 <blockquote>
-<p>The Chelsea Symphony is an orchestra noted for its uniquely fluid hierarchy. Based in New York City, The Chelsea Symphony's members rotate as the ensembleÂ’s own conductors, composers, and soloists. Each season, every conductor conducts a complete symphonic program with the group; each composer has a new work performed by the full orchestra; and every soloist performs a featured piece with the entire ensemble. The Chelsea Symphony gives most of its concerts at the German Church of St. Paul's.</p>
+<p>The Chelsea Symphony is an orchestra noted for its uniquely fluid hierarchy. Based in New York City, The Chelsea Symphony's members rotate as the ensemble’s own conductors, composers, and soloists. Each season, every conductor conducts a complete symphonic program with the group; each composer has a new work performed by the full orchestra; and every soloist performs a featured piece with the entire ensemble. The Chelsea Symphony gives most of its concerts at the German Church of St. Paul's.</p>
 </blockquote>
 
 <p>There will be performances this Saturday at 8 and Sunday at 3, in St. Paul's Church at 315 W 22 Street (just west of 8 Avenue).</p>

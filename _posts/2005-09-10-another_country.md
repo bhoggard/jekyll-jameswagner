@@ -20,17 +20,17 @@ permalink: /2005/09/another_country.html
 <p>by Jordan Flaherty</p>
 
 <p>Its been six days since I left New Orleans, and I miss<br />
-my home so much.  IÂ’m still in a daze, its hard to <br />
+my home so much.  I’m still in a daze, its hard to <br />
 hold a conversation or to think straight.  People ask <br />
-if everyone I know is ok, and I donÂ’t know what to <br />
+if everyone I know is ok, and I don’t know what to <br />
 say.  There are so many stories, so many rumors, so <br />
 many people dispersed around the US.  So many of us <br />
-may never see each other again.  I donÂ’t think any of <br />
+may never see each other again.  I don’t think any of <br />
 us are ok right now.</p>
 
 <p>One friend, a teacher, was searching the Astrodome <br />
 while holding up a sign, looking for his former <br />
-students.  Another friend says she fears sheÂ’ll never <br />
+students.  Another friend says she fears she’ll never <br />
 see New Orleans or her friends from there again.  <br />
 Another friend found temporary comfort with family in <br />
 Houston and then got kicked out.  A lot of friends are <br />
@@ -45,7 +45,7 @@ when people meet they give out their email address or <br />
 weblog or friendster or whatever.  In New Orleans, a <br />
 lot of us only know each other only by first names.  <br />
 There are so many people I would see at least once a <br />
-week that I donÂ’t know how to get in touch with at <br />
+week that I don’t know how to get in touch with at <br />
 all.  Even cel phones from the New Orleans area code <br />
 have been nonfunctioning for most of the last two <br />
 weeks.</p>
@@ -56,18 +56,18 @@ funerals and other events is from hearing about it <br />
 from friends. I always liked that about New Orleans.  <br />
 In an increasingly disconnected world, New Orleans <br />
 felt different, more real and concrete. Now that <br />
-we arenÂ’t seeing each other regularly, our elaborate <br />
+we aren’t seeing each other regularly, our elaborate <br />
 communication network has broken down.</p>
 
 <p>But when people ask I just say, yes, as far as I know <br />
-everyone is ok.  I canÂ’t really bring myself to think <br />
+everyone is ok.  I can’t really bring myself to think <br />
 about it further than that.</p>
 
 <p>Those with the least to begin with are the ones we <br />
 worry about most now.  Families and Friends of <br />
-LouisianaÂ’s Incarcerated Children is a grassroots <br />
+Louisiana’s Incarcerated Children is a grassroots <br />
 organization with a long history of fighting for New <br />
-OrleansÂ’ most vulnerable.  Since hurricane Katrina, <br />
+Orleans’ most vulnerable.  Since hurricane Katrina, <br />
 they have been on the front lines of relief, <br />
 spending time in the shelters, helping advocate for <br />
 the refugees of New Orleans, and trying to find out <br />
@@ -75,7 +75,7 @@ what happened to both adults and children who were <br />
 locked up while New Orleans flooded.</p>
 
 <p>There has been a lot of media hysteria regarding those<br />
-who were locked in New OrleansÂ’ prisons during the <br />
+who were locked in New Orleans’ prisons during the <br />
 hurricane, stories that make it sound like a Hollywood <br />
 action film where murderers use a disaster to escape <br />
 and wreck havoc.</p>
@@ -92,7 +92,7 @@ to track down their children.</p>
 
 <p>According to statistics compiled by the Juvenile <br />
 Justice Project of Louisiana, at least 78% of New <br />
-OrleansÂ’ incarcerated youth were locked up for <br />
+Orleans’ incarcerated youth were locked up for <br />
 nonviolent offenses. The detention center in Jefferson<br />
 Parish reports that 96% of the youth held there in <br />
 2000 were for nonviolent offenses.  At least a third <br />
@@ -103,7 +103,7 @@ African-American.  Louisiana taxpayers spend <br />
 $96,713 to incarcerate a single child, and $4,724 to <br />
 educate a child in the public schools.</p>
 
-<p>According to a report by Human Rights Watch, Â“the <br />
+<p>According to a report by Human Rights Watch, “the <br />
 state of Louisiana has one of the highest rates in <br />
 the country of children living in poverty and children<br />
 not in school or working. Large numbers of children, <br />
@@ -115,7 +115,7 @@ question,"what would you most like to change here?", <br />
 virtually every child at all of the facilities <br />
 responded that they would like the guards to stop <br />
 hitting them and that they would like more food. <br />
-Children consistently told us that they were hungry.Â”</p>
+Children consistently told us that they were hungry.”</p>
 
 <p>Some people have been hurt to hear people of New <br />
 Orleans called refugees.  This hurts me too, but it <br />
@@ -137,7 +137,7 @@ discomforting.</p>
 <p>The transformation of the people of New Orleans into <br />
 refugees is a large part of what has captured the <br />
 imagination of people from around the world, <br />
-especially those who are refugees themselves.  IÂ’ve <br />
+especially those who are refugees themselves.  I’ve <br />
 received emails from Ghana and Cuba and Peru and <br />
 Lebanon and Palestine.  In New York City tonight, a <br />
 group of artists, initiated by Def Poetry Jam star and <br />
@@ -206,7 +206,7 @@ Those who have too many children<br />
 Those who always have open hands and empty bellies<br />
 Those whose numbers are massive<br />
 Those who seek refuge <br />
-From natureÂ’s currents and man's resources</p>
+From nature’s currents and man's resources</p>
 
 <p>Those who are forgotten in the mean times</p>
 

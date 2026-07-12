@@ -16,7 +16,7 @@ bedlam immediately followed the arrest of the organizer of Cindy Sheehan's appea
 <p>Incidently, the secondary headline on Sarah Ferguson's <u>Village</u> <u>Voice</u> <a href="http://www.villagevoice.com/news/0538,fergusonshee,67983,2.html">article</a> reads:</p>
 
 <blockquote>
-<p><strong>CityÂ’s Finest pulls move even Bush wouldnÂ’t have tried</strong></p>
+<p><strong>City’s Finest pulls move even Bush wouldn’t have tried</strong></p>
 </blockquote>
 
 <p>[image courtesy of Mike Fleming via tanasimusic]</p>

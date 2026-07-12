@@ -22,9 +22,9 @@ but there's a big problem</p>
 <p>We had finished a light celebratory supper when we headed for the television cabinet to check out the madness in Times Square.  We sat down just in time to hear a few live corporate commerical plugs (not paid advertising, but as part of the programming!), short interviews with a uniformed marine corporal and a navy chief, and then a truly heartwarming rendition of <a href="http://www.usdreams.com/Greenwood79.html">"God Bless the U.S.A."</a> - the entire piece, every word - broadcast to the checkpointed multitudes gathered in the police pens below the  sharpshooters and the armed helicopters.</p>
 
 <blockquote>
-<p>Â‘Cause the flag still stands for freedom and they canÂ’t take that away.</p>
+<p>‘Cause the flag still stands for freedom and they can’t take that away.</p>
 
-<p>And IÂ’m proud to be an American where as least I know IÂ’m free.</p>
+<p>And I’m proud to be an American where as least I know I’m free.</p>
 </blockquote>
 
 <p>I was watching a fascist rally.</p>

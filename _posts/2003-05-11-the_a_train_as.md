@@ -20,7 +20,7 @@ permalink: /2003/05/the_a_train_as.html
 <p>Oh yes, in spite of the unpleasantness, the play was very fine, said Mrs. Lincoln.  We had a wonderful, and in fact, something of a rollicking good time with an amazing <a href="http://www.wnyc.org/music/articles/15283">puppetry production</a> of Rossini's "Marriage of Figaro."</p>
 
 <blockquote>
-<p>Early reviews suggest that the production is not about precision or concern for authentic Rossini style. Indeed, [The Absolute Ensemble] has thoroughly modernized the score with touches of flamenco and synthesizer-accompanied recitatives. But the sheer skill and inventiveness of the stagingÂ–-the puppets range from tiny to life-sizeÂ–-gives this age-old opera a much-welcomed revival.</p>
+<p>Early reviews suggest that the production is not about precision or concern for authentic Rossini style. Indeed, [The Absolute Ensemble] has thoroughly modernized the score with touches of flamenco and synthesizer-accompanied recitatives. But the sheer skill and inventiveness of the staging–-the puppets range from tiny to life-size–-gives this age-old opera a much-welcomed revival.</p>
 </blockquote>
 
 <p><b>Absolute</b>-ly, delightfully imperfect!</p>

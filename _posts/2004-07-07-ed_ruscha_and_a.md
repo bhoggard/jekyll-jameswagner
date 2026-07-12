@@ -8,7 +8,7 @@ permalink: /2004/07/ed_ruscha_and_a.html
 
 <p><img alt="whitneyRuscha.JPG" src="/mt_archives/whitneyRuscha.JPG" width="450" height="600" border="0" /></p>
 
-<p>I know it's been a while since <a href="http://www.whitney.org/exhibition/index.shtml">the shows opened</a>, but I've been busy with I don't know what, and, after all, the stuff is still there.  The picture above is from a June 30 reception at the Whitney Museum.   The guests are tripping through the pages of 16 of Ed Ruscha's artist books from the 60's and 70's.  The show?  It bears the quite obvious title, "Cotton Puffs, Q-tipsÂ®, Smoke and Mirrors: The Drawings of Ed Ruscha."</p>
+<p>I know it's been a while since <a href="http://www.whitney.org/exhibition/index.shtml">the shows opened</a>, but I've been busy with I don't know what, and, after all, the stuff is still there.  The picture above is from a June 30 reception at the Whitney Museum.   The guests are tripping through the pages of 16 of Ed Ruscha's artist books from the 60's and 70's.  The show?  It bears the quite obvious title, "Cotton Puffs, Q-tips®, Smoke and Mirrors: The Drawings of Ed Ruscha."</p>
 
 <p><img alt="WhitneyAnaMendieta.JPG" src="/mt_archives/WhitneyAnaMendieta.JPG" width="600" height="450" border="0" /></p>
 

@@ -11,7 +11,7 @@ Antonello da Messina <em>Portrait of a Young Man</em> ca. 1470 oil on panel   10
 
 <p>Yes I saw the Fra Angelico show at the Met, but I try to keep this blog focused on what Barry and I like to call "underknown" artists [the still increasingly popular adjective "emerging" is too narrow a word to describe my attraction to the new as well as the obscure in all the arts].</p>
 
-<p>For me the real excitement of my day on the edge of Central Park was a tiny temporary <a href="http://www.metmuseum.org/special/se_event.asp?OccurrenceId={22AD4095-7F72-48C4-9536-EAE9C6E68C04}">exhibition</a> of work by the Sicilian Quatrocento painter Antonello da Messina (ca. 1430Â–1479).  It's a very small, jewel-box of a show which fits into a single dark cube of a room on the second floor of the European Paintings Galleries.</p>
+<p>For me the real excitement of my day on the edge of Central Park was a tiny temporary <a href="http://www.metmuseum.org/special/se_event.asp?OccurrenceId={22AD4095-7F72-48C4-9536-EAE9C6E68C04}">exhibition</a> of work by the Sicilian Quatrocento painter Antonello da Messina (ca. 1430–1479).  It's a very small, jewel-box of a show which fits into a single dark cube of a room on the second floor of the European Paintings Galleries.</p>
 
 <p>Although I've included his beautiful image of the Virgin at the bottom, a piece which the Met notes would have as the highlight of the installation, it was really da Messina's almost-embarassingly profane portraits of young Italian noblemen that impressed me most.</p>
 

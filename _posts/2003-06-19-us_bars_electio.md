@@ -10,7 +10,7 @@ permalink: /2003/06/us_bars_electio.html
 <p>Yesterday in a town 150 miles south of Baghdad, even the local American military commander, together with his officers and the soldiers and marines under them, were <a href="http://www.nytimes.com/2003/06/19/international/worldspecial/19NAJA.html">disappointed</a> with U.S. heavy handedness.</p>
 
 <blockquote>
-<p>American marines had built makeshift wooden ballot boxes. An Army reserve unit from Green Bay, Wis., had conducted a voter registration drive. And Iraqi political candidates had blanketed the city with colorful fliers outlining their election platforms Â— restore electricity, rehabilitate the old quarter, repave roads.</p>
+<p>American marines had built makeshift wooden ballot boxes. An Army reserve unit from Green Bay, Wis., had conducted a voter registration drive. And Iraqi political candidates had blanketed the city with colorful fliers outlining their election platforms — restore electricity, rehabilitate the old quarter, repave roads.</p>
 
 <p>But last week, L. Paul Bremer III, the head of the American military occupation in Iraq, unilaterally canceled what American officials here said would have been the first such election in Iraq since the fall of Saddam Hussein. Overruling the local American military commander, Mr. Bremer decreed that conditions in Najaf were not appropriate for an election.</p>
 

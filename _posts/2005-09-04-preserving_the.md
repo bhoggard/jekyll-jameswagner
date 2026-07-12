@@ -15,15 +15,15 @@ Lee Friedlander <em><a href="http://www.amazon.com/exec/obidos/tg/detail/-/B0000
 
 <blockquote>
 <p><strong>Displaced New Orleans Community Demands Action, <br />
-Accountability and Initiates A PeopleÂ’s <br />
+Accountability and Initiates A People’s <br />
 Hurricane Fund</strong></p>
 
-<p>Not until the fifth day of the federal governmentÂ’s <br />
+<p>Not until the fifth day of the federal government’s <br />
 inept and inadequate emergency response to the <br />
-New OrleansÂ’ disaster did George Bush even acknowledge<br />
-it was Â‘unacceptable.Â’ Â‘UnacceptableÂ’ doesnÂ’t begin to <br />
+New Orleans’ disaster did George Bush even acknowledge<br />
+it was ‘unacceptable.’ ‘Unacceptable’ doesn’t begin to <br />
 describe the depth of the neglect, racism and classism <br />
-shown to the people of New Orleans. The governmentÂ’s <br />
+shown to the people of New Orleans. The government’s <br />
 actions and inactions were criminal. New Orleans, a <br />
 city whose population is almost 70% percent black, 40% <br />
 illiterate, and many are poor, was left day after day<br />
@@ -46,7 +46,7 @@ brought community members together for eight years to <br />
 discuss socio-economic issues.  We have been <br />
 communicating with people from The Quality Education <br />
 as a Civil Right Campaign, the Algebra Project, the <br />
-Young PeopleÂ’s Project and the Louisiana Research <br />
+Young People’s Project and the Louisiana Research <br />
 Institute for Community Empowerment.  We are <br />
 preparing a press release and framing document that <br />
 will be out as a draft later today for comments.</p>
@@ -103,16 +103,16 @@ phone lines, fax, email and a web page to centralize <br />
 information.  We will need volunteers to staff this <br />
 office.</p>
 
-<p>We have set up a PeopleÂ’s Hurricane Fund that will be <br />
+<p>We have set up a People’s Hurricane Fund that will be <br />
 directed and administered by New Orleanian evacuees.  <br />
-The Young PeopleÂ’s Project, a 501(c)3 organization <br />
+The Young People’s Project, a 501(c)3 organization <br />
 formed by graduates of the Algebra Project, has agreed <br />
 to accept donations on behalf of this fund.  Donations <br />
 can be mailed to:</p>
 
 <blockquote>
-<p>The PeopleÂ’s Hurricane Fund <br />
-c/o The Young PeopleÂ’s Project<br />
+<p>The People’s Hurricane Fund <br />
+c/o The Young People’s Project<br />
 99 Bishop Allen Drive<br />
 Cambridge, MA  02139</p>
 </blockquote>

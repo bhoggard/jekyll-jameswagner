@@ -7,7 +7,7 @@ permalink: /2007/01/joe_ovelman_at_1.html
 ---
 
 <p><img src="/upload/2007/01/OvelmanJoeSuckingMy.jpg" width="650" height="341" alt="OvelmanJoeSuckingMy.jpg"/><br />
-Joe Ovelman: the first three drawings from the series, Â“Twelve DrawingsÂ” 2007 [installation view]</p>
+Joe Ovelman: the first three drawings from the series, “Twelve Drawings” 2007 [installation view]</p>
 
 <p><img src="/upload/2007/01/Ovelmanpolaroids.jpg" width="650" height="432" alt="Ovelmanpolaroids.jpg"/><br />
 Joe Ovelman <em>Rosa Parks 381</em> 2007 381 polaroids and ink [detail of installation]</p>

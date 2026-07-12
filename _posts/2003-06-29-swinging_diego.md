@@ -16,13 +16,13 @@ permalink: /2003/06/swinging_diego.html
 <blockquote>
 <p>AUSTRALIAN sailors had sex on the beach, streaked through military buses and pranced naked with rolled-up burning paper stuck between their buttocks in a wild, drunken romp at a US outpost in the Indian Ocean.</p>
 
-<p>An investigation by The Weekend Australian has revealed many other complaints of misconduct during the 24-hour shore leave on Diego Garcia Â– the US base dubbed "Gilligan's Island with guns".</p>
+<p>An investigation by The Weekend Australian has revealed many other complaints of misconduct during the 24-hour shore leave on Diego Garcia – the US base dubbed "Gilligan's Island with guns".</p>
 
 <p>Among the allegations were widespread drunkenness among the crews of HMAS Adelaide and HMAS Kanimbla, urinating in public, overt public male-to-male kissing and abuse of foreign military personnel.</p>
 
-<p>But the Australian Defence Force investigated only a handful Â– including urinating in public, public nudity, verbal abuse, sexually inappropriate displays of affection and intoxication Â– because military police found insufficient evidence to identify the other offenders. No other details were ever released.</p>
+<p>But the Australian Defence Force investigated only a handful – including urinating in public, public nudity, verbal abuse, sexually inappropriate displays of affection and intoxication – because military police found insufficient evidence to identify the other offenders. No other details were ever released.</p>
 
-<p>Disciplinary action has been taken against just two sailors Â– one for the so-called "dance of the flamers", where rolled paper inserted between the buttocks was set alight, and another for exposing himself in public. Penalties included restriction of privileges and leave, plus a fine equal to five and three days' pay respectively.</p>
+<p>Disciplinary action has been taken against just two sailors – one for the so-called "dance of the flamers", where rolled paper inserted between the buttocks was set alight, and another for exposing himself in public. Penalties included restriction of privileges and leave, plus a fine equal to five and three days' pay respectively.</p>
 
 <p>Navy chief Vice-Admiral David Shackleton has already ordered a review of behaviour, in particular the use of alcohol. A defence spokesperson said that review was ongoing.</p>
 </blockquote>

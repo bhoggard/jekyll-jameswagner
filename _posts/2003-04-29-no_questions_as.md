@@ -18,5 +18,5 @@ permalink: /2003/04/no_questions_as.html
 <p>The last question may be the most fundamental.  It's certainly the darkest.</p>
 
 <blockquote>
-<p>Now it's true that the war removed an evil tyrant. But a democracy's decisions, right or wrong, are supposed to take place with the informed consent of its citizens. That didn't happen this time. And we are a democracy Â— aren't we?</p>
+<p>Now it's true that the war removed an evil tyrant. But a democracy's decisions, right or wrong, are supposed to take place with the informed consent of its citizens. That didn't happen this time. And we are a democracy — aren't we?</p>
 </blockquote>

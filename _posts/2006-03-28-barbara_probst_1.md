@@ -13,7 +13,7 @@ Barbara Probst <em>Exposure #11A: N.Y.C., Duane & Church, 06.10.02, 3:07 p.m.</e
 <p>From the press release:</p>
 
 <blockquote>
-<p>In Barbara ProbstÂ’s photographs, the subject of the work becomes the photographic moment of exposure itself. Using a radio-controlled release system, she simultaneously triggers the shutters of several cameras pointed at the same scene from various viewpoints. The resulting sequences of images suspend time and stretch out the split second.</p>
+<p>In Barbara Probst’s photographs, the subject of the work becomes the photographic moment of exposure itself. Using a radio-controlled release system, she simultaneously triggers the shutters of several cameras pointed at the same scene from various viewpoints. The resulting sequences of images suspend time and stretch out the split second.</p>
 </blockquote>
 
 <p>[image from Murray Guy]</p>

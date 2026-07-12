@@ -11,7 +11,7 @@ Bec Stupak <em>Doorway 1</em> 2006 single channel video [detail of installation]
 <p>Once I discovered the conceit of this installation by <a href="http://www.eyebeam.org/reblog/journal/archives/2005/01/in_conversation_with_bec_stupak_1.html">Bec Stupak</a> at <a href="http://www.artcal.net/event/view/7/1716">Deitch</a> on Grand Street suddenly "it all came together", as strange as that clause may sound when used anywhere around <a href="http://www.brightlightsfilm.com/29/jacksmith.html">Jack Smith</a>, especially a Jack Smith occupying an additional dimension.</p>
 
 <blockquote>
-<p>The centerpiece of the exhibition is Bec's blind remake of Jack SmithÂ’s legendary film Flaming Creatures. Using members of her demimonde, including performance drag group The Radical Fairies, Phiiliip, Agathe Snow, and other downtown celebrities, she recreates the 1963 cult classic based only on the impressions sheÂ’s collected from others of what the film consists of.</p>
+<p>The centerpiece of the exhibition is Bec's blind remake of Jack Smith’s legendary film Flaming Creatures. Using members of her demimonde, including performance drag group The Radical Fairies, Phiiliip, Agathe Snow, and other downtown celebrities, she recreates the 1963 cult classic based only on the impressions she’s collected from others of what the film consists of.</p>
 </blockquote>
 
 <p>I eventually found it very difficult to walk out of rooms whose silliness or campiness I had initially found so annoying, but most of that negativity was only about some 1960's baggage I forget I'm still carrying around.</p>

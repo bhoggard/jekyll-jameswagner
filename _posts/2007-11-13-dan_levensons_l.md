@@ -20,9 +20,9 @@ a detail of the t-shirt display, showing the gallery's unforgettable logo</p>
 <blockquote>
 <p><strong>A Switzerland of the Mind</strong></p>
 
-<p>For three days this week, a Swiss art gallery will open its doors in Manhattan. Little Switzerland is a Berlin-based art gallery representing a roster of eight emerging Swiss artists. None of this would be unusual except for the fact that the gallery doesnÂ’t really exist, and the artists are all the fictional creation of one (American) artist: Dan Levenson.</p>
+<p>For three days this week, a Swiss art gallery will open its doors in Manhattan. Little Switzerland is a Berlin-based art gallery representing a roster of eight emerging Swiss artists. None of this would be unusual except for the fact that the gallery doesn’t really exist, and the artists are all the fictional creation of one (American) artist: Dan Levenson.</p>
 
-<p>This year Little Switzerland will present large-scale color photographs showing several of the gallery artists at work in their Zürich studios and modeling the new line of Little Switzerland branded apparel featuring the galleryÂ’s distinctive logo. Little Switzerland apparel will be on sale for those whoÂ’d like to become a part of this conceptual project.</p>
+<p>This year Little Switzerland will present large-scale color photographs showing several of the gallery artists at work in their Zürich studios and modeling the new line of Little Switzerland branded apparel featuring the gallery’s distinctive logo. Little Switzerland apparel will be on sale for those who’d like to become a part of this conceptual project.</p>
 
 <p>-Hans-Ruedi Girschweiler, Zürich</p>
 </blockquote>

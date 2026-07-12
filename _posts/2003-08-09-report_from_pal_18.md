@@ -22,7 +22,7 @@ to make room for the Wall.</i>  [from Steve's text below]</p>
 
 <p><a href="https://jameswagner.com/index.php?m=200307#955">Steve</a> has been in Qalqilya, Jayyous, Mas'ha and Tel Aviv.  The letter is very long, but it's not dull, you won't read anything like it in the media, and it absolutely must be recorded as witness to the horror we and our Israeli instruments visit on Palestinians every day.</p>
 
-<p>The report itself  [followed by SteveÂ’s attachment of an Israeli Peace groupÂ’s media alert about an action tonight, which includes an eyewitness account of an Israeli raid of a Palestinian camp near Nablus]:</p>
+<p>The report itself  [followed by Steve’s attachment of an Israeli Peace group’s media alert about an action tonight, which includes an eyewitness account of an Israeli raid of a Palestinian camp near Nablus]:</p>
 
 <blockquote>
 <p>Jayyous August 5, 2003</p>

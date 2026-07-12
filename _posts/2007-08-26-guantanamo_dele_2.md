@@ -14,11 +14,11 @@ our shame and ignominy abstracted as a color which has become familiar to the en
 <p>And from Iraq, a related <a href="http://www.nytimes.com/2007/08/25/world/middleeast/25detain.html?_r=1&oref=slogin">story</a>:</p>
 
 <blockquote>
-<p>WASHINGTON, Aug. 24 Â— The number of detainees held by the American-led military forces in Iraq has swelled by 50 percent under the troop increase ordered by President Bush, with the inmate population growing to 24,500 today from 16,000 in February, according to American military officers in Iraq.</p>
+<p>WASHINGTON, Aug. 24 — The number of detainees held by the American-led military forces in Iraq has swelled by 50 percent under the troop increase ordered by President Bush, with the inmate population growing to 24,500 today from 16,000 in February, according to American military officers in Iraq.</p>
 
 <p>. . . .</p>
 
-<p>Â“Interestingly, weÂ’ve found that the vast majority are not inspired by jihad or hate for the coalition or Iraqi government Â— the vast majority are inspired by money,Â” said Capt. John Fleming of the Navy, a spokesman for the multinational forcesÂ’ detainee operations. The men are paid by insurgent leaders. Â“The primary motivator is economic Â— theyÂ’re angry men because they donÂ’t have jobs,Â” he said. Â“The detainee population is overwhelmingly illiterate and unemployed. Extremists have been very successful at spreading their ideology to economically strapped Iraqis with little to no formal education."</p>
+<p>“Interestingly, we’ve found that the vast majority are not inspired by jihad or hate for the coalition or Iraqi government — the vast majority are inspired by money,” said Capt. John Fleming of the Navy, a spokesman for the multinational forces’ detainee operations. The men are paid by insurgent leaders. “The primary motivator is economic — they’re angry men because they don’t have jobs,” he said. “The detainee population is overwhelmingly illiterate and unemployed. Extremists have been very successful at spreading their ideology to economically strapped Iraqis with little to no formal education."</p>
 </blockquote>
 
 <p>Spreading the blessings of the American <a href="http://usgovinfo.about.com/cs/censusstatistic/a/aaprisonpop.htm">corrections system</a> to needy people everywhere.</p>

@@ -41,7 +41,7 @@ permalink: /2003/04/we_are_at_war_w.html
 
 <p>...</p>
 
-<p>After an hour and a half the INS agent walked back over and handed Asher and me our licenses. A policeman took us by the arm and escorted us out of the building. Before stepping out to the street, the INS agent apologized. He explained, in a low voice, that they did not think the two of us were in the restaurant. Several of the other patrons, though of South Asian descent, were in fact U.S. citizens. There were four taxi drivers, two students, one newspaper salesman Â– unwitting customers, just like Asher and me. I doubt, though, they received any apologies from the INS or the Department of Homeland Security.</p>
+<p>After an hour and a half the INS agent walked back over and handed Asher and me our licenses. A policeman took us by the arm and escorted us out of the building. Before stepping out to the street, the INS agent apologized. He explained, in a low voice, that they did not think the two of us were in the restaurant. Several of the other patrons, though of South Asian descent, were in fact U.S. citizens. There were four taxi drivers, two students, one newspaper salesman – unwitting customers, just like Asher and me. I doubt, though, they received any apologies from the INS or the Department of Homeland Security.</p>
 </blockquote>
 </blockquote>
 

@@ -12,7 +12,7 @@ permalink: /2003/03/sos_your_old_ma.html
 <blockquote>
 <p><b>Allies Will Move In, Even if Saddam Hussein Moves Out</b></p>
 
-<p>CAMP DOHA, Tuesday, March 18 Â— Even if Saddam Hussein leaves Iraq within 48 hours, as President Bush demanded, allied forces plan to move north into Iraqi territory, American officials said today.</p>
+<p>CAMP DOHA, Tuesday, March 18 — Even if Saddam Hussein leaves Iraq within 48 hours, as President Bush demanded, allied forces plan to move north into Iraqi territory, American officials said today.</p>
 </blockquote>
 
 <p>Leave or we'll blow your country to pieces, but don't leave and we'll blow your country to pieces.  Sounds logical to me, and it certainly should attract overwhelming support all around the world.  It will definitely attract the interest of war crime tribunals in the future.</p>

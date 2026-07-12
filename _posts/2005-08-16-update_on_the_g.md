@@ -24,9 +24,9 @@ won't take it anymore*</p>
 
 <p>A steering committee cited the top risk as "potential for wider Heathrow based disruption".</p>
 
-<p>But if the risks were high, so were the rewards. The dossier forecast the Â£2.5million sacking plan would save up to Â£6.5 million a year.</p>
+<p>But if the risks were high, so were the rewards. The dossier forecast the £2.5million sacking plan would save up to £6.5 million a year.</p>
 
-<p>An industry expert estimated there could be annual pension savings of up to Â£7million. US-owned GG made a Â£26million loss last year and is forecast to lose Â£25million this year.</p>
+<p>An industry expert estimated there could be annual pension savings of up to £7million. US-owned GG made a £26million loss last year and is forecast to lose £25million this year.</p>
 
 <p>Documents seen by the Mirror also prove that catering staff were to be lied to while BA and BAA were to be tipped off weeks before the plot went ahead. It is not known if the tip-off went ahead.</p>
 

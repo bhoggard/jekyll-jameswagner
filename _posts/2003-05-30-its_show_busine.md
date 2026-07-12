@@ -12,7 +12,7 @@ permalink: /2003/05/its_show_busine.html
 <p>Krugman begins his column by citing the script of Barry Levinson's 1997 movie, "<a href="http://us.imdb.com/Title?0120885">Wag the Dog</a>," for its parallels to the reality of the last two years.</p>
 
 <blockquote>
-<p>An administration hypes the threat posed by a foreign power. It talks of links to Islamic fundamentalist terrorism; it warns about a nuclear weapons program. The news media play along, and the country is swept up in war fever. The war drives everything else Â— including scandals involving administration officials Â— from the public's consciousness.</p>
+<p>An administration hypes the threat posed by a foreign power. It talks of links to Islamic fundamentalist terrorism; it warns about a nuclear weapons program. The news media play along, and the country is swept up in war fever. The war drives everything else — including scandals involving administration officials — from the public's consciousness.</p>
 
 <p>. . . .</p>
 

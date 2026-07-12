@@ -18,7 +18,7 @@ Adam Stennett <em>Girl in Bathtub</em> 2007 oil on wood 48" x 48"</p>
 <p>The gallery press release explains:</p>
 
 <blockquote>
-<p>With this show he continues his exploration of the intimate dramas of the everyday, and the precarious balance of awareness and oblivion.  His subject matter has evolvedÂ—the adventurous mice that had been his trademark are now replaced by images of girls poised precariously near turbulent water and various medicinal products put to queasy, off-label uses.</p>
+<p>With this show he continues his exploration of the intimate dramas of the everyday, and the precarious balance of awareness and oblivion.  His subject matter has evolved—the adventurous mice that had been his trademark are now replaced by images of girls poised precariously near turbulent water and various medicinal products put to queasy, off-label uses.</p>
 </blockquote>
 
 <p>I don't think photorealism has ever looked so seductive, but I'm almost as excited about the abstract beauty which shows up in a closeup image.</p>

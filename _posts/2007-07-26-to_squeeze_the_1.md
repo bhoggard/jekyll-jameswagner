@@ -14,27 +14,27 @@ permalink: /2007/07/to_squeeze_the_1.html
 <blockquote>
 <p>I live near the Boulevard St. Michel, and two years ago the city laid down a granite divider between the bus-only lane and the cars, squeezing private cars from three lanes to two. Taxis and bicycles may use the bus lane.</p>
 
-<p>At the same time, every bus stop was newly equipped with a screen that told you how long the wait was for the bus. During rush hour, when the cars stand still along BoulÂ’ Mich, thereÂ’s nothing better than zooming past them in a bus.</p>
+<p>At the same time, every bus stop was newly equipped with a screen that told you how long the wait was for the bus. During rush hour, when the cars stand still along Boul’ Mich, there’s nothing better than zooming past them in a bus.</p>
 
-<p>Bus routes reach the most obscure corners of Paris. ThereÂ’s also the Metro Â— and especially the great Line No. 1, which runs on tires under the Champs-Élysées and beyond. Then thereÂ’s a nifty new tramway that runs along the southern rim of the city and several suburban train lines that can be used for rapid transport within the city.</p>
+<p>Bus routes reach the most obscure corners of Paris. There’s also the Metro — and especially the great Line No. 1, which runs on tires under the Champs-Élysées and beyond. Then there’s a nifty new tramway that runs along the southern rim of the city and several suburban train lines that can be used for rapid transport within the city.</p>
 
 <p>In short, public transportation will take you where you want to go, and you can use it all you want on an electronic card that can be paid by the week or by the month (about $70 these days). Taxis, of course, can also be summoned anywhere by phone.</p>
 
-<p><em>The lesson for big-city mayors: If youÂ’re going to squeeze the cars, first primp the public ride.</em> [the italics are mine]</p>
+<p><em>The lesson for big-city mayors: If you’re going to squeeze the cars, first primp the public ride.</em> [the italics are mine]</p>
 </blockquote>
 
 <p>And now the city has turned to bicycles:</p>
 
 <blockquote>
-<p>Last week, more than 10,000 stolid, gray-painted bicycles (no Tour de France speedsters) became available for rent at 750 self-service locations across Paris. The cost is modest, less than $1.50 for a one-day pass, about $7.50 for a week and about $43.50 for a year Â— and the bikes can be dropped off at any docking station. The number of bikes is supposed to double by the end of the year.</p>
+<p>Last week, more than 10,000 stolid, gray-painted bicycles (no Tour de France speedsters) became available for rent at 750 self-service locations across Paris. The cost is modest, less than $1.50 for a one-day pass, about $7.50 for a week and about $43.50 for a year — and the bikes can be dropped off at any docking station. The number of bikes is supposed to double by the end of the year.</p>
 </blockquote>
 
 <p>And finally, Schmemann has a word about cars:</p>
 
 <blockquote>
-<p>Parisians overwhelmingly buy small cars. And itÂ’s not because people are petite, but because fuel is drop-dead expensive. Gasoline costs more than twice as much in Paris as in New York.</p>
+<p>Parisians overwhelmingly buy small cars. And it’s not because people are petite, but because fuel is drop-dead expensive. Gasoline costs more than twice as much in Paris as in New York.</p>
 
-<p>But the price of diesel fuel is deliberately set far lower. ThatÂ’s because diesel-powered cars produce about 30 percent less greenhouse gas pollution than equivalent gasoline-powered engines. So car-buyers in Paris get small, diesel cars not because the French are virtuous (a separate topic), but because it makes economic good sense.</p>
+<p>But the price of diesel fuel is deliberately set far lower. That’s because diesel-powered cars produce about 30 percent less greenhouse gas pollution than equivalent gasoline-powered engines. So car-buyers in Paris get small, diesel cars not because the French are virtuous (a separate topic), but because it makes economic good sense.</p>
 
 <p>Many of these small cars have ample room for full-size people and have no trouble maintaining (or seriously exceeding) the 130 kilometers-per-hour (about 80 m.p.h.) limit on the national highways and are as clean and almost as quiet as gasoline engines.</p>
 

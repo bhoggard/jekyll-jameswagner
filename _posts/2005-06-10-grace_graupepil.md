@@ -15,7 +15,7 @@ Grace Graupe-Pillard <em>Soldier/Rockefeller Center NYC</em> (lightbox still fro
 <p>The artist's statement:</p>
 
 <blockquote>
-<p>In 2003, shortly after the onset of the Iraq War, I began working on a series of photographs entitled INTERVENTIONS focusing on the horror and human cost of wars being fought in "far-off places.Â” These photographs depict images of soldiers, car-bombings, ruins, explosions, and refugees, which I have digitally embedded into the familiar streets and parks of New York City, Baltimore and the New Jersey wetlands. Using the computer and digital filters, the "implanted" imagery borders on the abstract, with heightened color and kaleidoscopic patterns portraying the ordinariness of our everyday Â“realityÂ” blown apart.</p>
+<p>In 2003, shortly after the onset of the Iraq War, I began working on a series of photographs entitled INTERVENTIONS focusing on the horror and human cost of wars being fought in "far-off places.” These photographs depict images of soldiers, car-bombings, ruins, explosions, and refugees, which I have digitally embedded into the familiar streets and parks of New York City, Baltimore and the New Jersey wetlands. Using the computer and digital filters, the "implanted" imagery borders on the abstract, with heightened color and kaleidoscopic patterns portraying the ordinariness of our everyday “reality” blown apart.</p>
 
-<p>INTERVENTIONS attempts to make visually evident the ongoing tragic repercussions of war in our own Â“backyard,Â” as well as the equally powerful manipulation of the electorate through the Â“politics of fear.Â”</p>
+<p>INTERVENTIONS attempts to make visually evident the ongoing tragic repercussions of war in our own “backyard,” as well as the equally powerful manipulation of the electorate through the “politics of fear.”</p>
 </blockquote>

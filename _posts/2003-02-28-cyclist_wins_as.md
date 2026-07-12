@@ -16,5 +16,5 @@ permalink: /2003/02/cyclist_wins_as.html
 <p>But Baluchi is definitely not down yet.</p>
 
 <blockquote>
-<p>"Today I'm happy," Mr. Baluchi said with his customary optimism after the hearing. Once he gets out, he said, he plans to ride to Los Angeles. From there, he will run across the country, eight hours a day, to New York City Â— and ground zero. Shortly after the Sept. 11 attacks, Mr. Baluchi wrote that he would conclude his voyage at the site of the World Trade Center, "so that my message of peace and love can reach the whole American people."</p>
+<p>"Today I'm happy," Mr. Baluchi said with his customary optimism after the hearing. Once he gets out, he said, he plans to ride to Los Angeles. From there, he will run across the country, eight hours a day, to New York City — and ground zero. Shortly after the Sept. 11 attacks, Mr. Baluchi wrote that he would conclude his voyage at the site of the World Trade Center, "so that my message of peace and love can reach the whole American people."</p>
 </blockquote>

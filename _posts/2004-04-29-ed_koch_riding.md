@@ -38,7 +38,7 @@ From an interview which appeared in <a href="http://www.poz.com/"><u>POZ</u></a>
 <blockquote>
 <p><b>Musto</b>: One thing that is missing is the line outing former New York City mayor Ed Koch, an arch-enemy of AIDS activists, as gay.</p>
 
-<p><b>Kushner</b>: I donÂ’t know if that was gone in the screenplay or taken out in editing. Maybe the [filmmakers] figured no one knows who Ed is anymore, which would be a lovely thing to believe. Oblivion is what Ed deserves. When the play was on Broadway, a New York name lawyer whoÂ’s a friend of KochÂ’s asked me if IÂ’d please take the line out because it was really hurting EdÂ’s feelings. I left it in. It was mean to do, but I really hated him. HeÂ’s such a ghastly man and such a betrayer of the progressive vision he rose to prominence on. He became such a reactionary blimp.</p>
+<p><b>Kushner</b>: I don’t know if that was gone in the screenplay or taken out in editing. Maybe the [filmmakers] figured no one knows who Ed is anymore, which would be a lovely thing to believe. Oblivion is what Ed deserves. When the play was on Broadway, a New York name lawyer who’s a friend of Koch’s asked me if I’d please take the line out because it was really hurting Ed’s feelings. I left it in. It was mean to do, but I really hated him. He’s such a ghastly man and such a betrayer of the progressive vision he rose to prominence on. He became such a reactionary blimp.</p>
 </blockquote>
 
 <p>[Tiepolo, <i>The Procession of the Trojan Horse in Troy</i> (1773) oil on canvas, 39 x 67 cm, National Gallery, London, the image from <a href="http://gallery.euroweb.hu/html/t/tiepolo/giandome/">The Web Gallery of Art</a>]</p>

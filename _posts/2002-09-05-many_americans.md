@@ -10,7 +10,7 @@ permalink: /2002/09/many_americans.html
 <blockquote>
 <p><a href="http://www.hallsson.de/">Hlynur Hallsson</a> arrived this summer in Marfa, Tex., with plans, as he put it, to stimulate discussion.</p>
 
-<p>[The first exhibit which the artist assembled at the very respectable Chinati Foundation] Â— a compilation of other artists' work Â— did not stir much reaction. His second, four graffiti-style sentences scrawled on a wall, created an uproar.</p>
+<p>[The first exhibit which the artist assembled at the very respectable Chinati Foundation] — a compilation of other artists' work — did not stir much reaction. His second, four graffiti-style sentences scrawled on a wall, created an uproar.</p>
 
 <p>"The real axis of evil are Israel, USA and the UK," Mr. Hallsson, an artist from Iceland, wrote in English and Spanish. "Ariel Sharon is the top terrorist. George W. Bush is an idiot. And Iceland is banana republic number one."</p>
 </blockquote>

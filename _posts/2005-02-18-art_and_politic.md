@@ -18,7 +18,7 @@ the "politicization" of the gates!</p>
 <table border="0">
 <tr valign="top">
 <td>*</td>
-<td>"The work is not only the fabric, the steel poles, and the fence. The art project is right now, here. Everybody here is part of the work. If they want it, if they donÂ’t want it, either way they are a part of the work… I believe very strongly that twentieth century art is not a single, individualistic experience."   - <a href="http://www.mayslesfilms.com/company_pages/maysles_productions/Current%20Projects/Gates.html">Christo</a></td>
+<td>"The work is not only the fabric, the steel poles, and the fence. The art project is right now, here. Everybody here is part of the work. If they want it, if they don’t want it, either way they are a part of the work… I believe very strongly that twentieth century art is not a single, individualistic experience."   - <a href="http://www.mayslesfilms.com/company_pages/maysles_productions/Current%20Projects/Gates.html">Christo</a></td>
 </tr>
 </table>
 

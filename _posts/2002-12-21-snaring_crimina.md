@@ -8,7 +8,7 @@ permalink: /2002/12/snaring_crimina.html
 <p>If we survive as a republic, it won't be because we ignored the people who want to <a href="http://www.nytimes.com/2002/12/21/technology/21PRIV.html">destroy</a> it.  <a href="http://xroads.virginia.edu/~CAP/LIBERTY/origins.html">Columbia</a> save the activists!</p>
 
 <blockquote>
-<p>DENVER, Dec. 14 Â— The Denver police have gathered information on unsuspecting local activists since the 1950's, secretly storing what they learned on simple index cards in a huge cabinet at police headquarters.</p>
+<p>DENVER, Dec. 14 — The Denver police have gathered information on unsuspecting local activists since the 1950's, secretly storing what they learned on simple index cards in a huge cabinet at police headquarters.</p>
 
 <p>When the cabinet filled up recently, the police thought they had an easy solution. For $45,000, they bought a powerful computer program from a company called Orion Scientific Systems. Information on 3,400 people and groups was transferred to software that stores, searches and categorizes the data.</p>
 

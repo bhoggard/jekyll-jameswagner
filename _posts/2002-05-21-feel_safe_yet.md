@@ -8,7 +8,7 @@ permalink: /2002/05/feel_safe_yet.html
 <p>So, this supposedly democratic nation with its famed Bill of Rights cannot keep us safe without <a href="http://www.nytimes.com/2002/05/21/nyregion/21DETA.html">disregarding </a>its own principles and standards.  And, since we have been told that the "war on terorism" will continue until there is no terrorism (freelance) anywhere on the planet, we can expect never to see those principles and standards again.</p>
 
 <blockquote>
-<p>HACKENSACK, N.J., May 20 Â— Justice Department lawyers, defending the federal government's refusal to identify the 1,200 foreign Muslims arrested after Sept. 11, said today that public disclosure would undermine counterterrorism efforts and put the detainees at risk of attack from angry Americans as well as terrorists.</p>
+<p>HACKENSACK, N.J., May 20 — Justice Department lawyers, defending the federal government's refusal to identify the 1,200 foreign Muslims arrested after Sept. 11, said today that public disclosure would undermine counterterrorism efforts and put the detainees at risk of attack from angry Americans as well as terrorists.</p>
 
 <p>Appearing before the Appellate Division of State Superior Court, the government lawyers insisted that national security interests outweighed any public right to know who is being kept in its jails, why and for how long.</p>
 

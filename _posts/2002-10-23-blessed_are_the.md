@@ -14,7 +14,7 @@ permalink: /2002/10/blessed_are_the.html
 
 <p>But it quickened, all agree, when Chechnya's first president, Dzhokhar Dudayev, declared the republic independent and began to restore Muslim traditions. His government stopped supporting the wineries.</p>
 
-<p>... Of all the factors, though, fighting has caused the greatest toll. The two wars in Chechnya Â— the first from 1994 to 1996, the second from 1999 and still grinding on Â— destroyed thousands of acres of vineyards and several wineries, including the main one in the capital, Grozny.</p>
+<p>... Of all the factors, though, fighting has caused the greatest toll. The two wars in Chechnya — the first from 1994 to 1996, the second from 1999 and still grinding on — destroyed thousands of acres of vineyards and several wineries, including the main one in the capital, Grozny.</p>
 </blockquote>
 
 <p>It's all so very very sad, and so unnecessary.</p>

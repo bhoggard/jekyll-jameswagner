@@ -23,7 +23,7 @@ Jesse Burke <em>Pink & Black</em> 2005 C-prints</p>
 <p>The artist's statement:</p>
 
 <blockquote>
-<p>The idea of masculinity is so incredibly fragile, so sought after, because of what it stands for, because of the history of men. A delicate balance exists between the heroic ideal of masculinity Â– strength, endurance, toughness Â– and the true, fragile reality of men as seen through my eyes. My work is an autobiographically driven investigation into the notions of masculine identity and the presence of vulnerability and sensitivity that acts as forces against the mythology of male dominance and power.</p>
+<p>The idea of masculinity is so incredibly fragile, so sought after, because of what it stands for, because of the history of men. A delicate balance exists between the heroic ideal of masculinity – strength, endurance, toughness – and the true, fragile reality of men as seen through my eyes. My work is an autobiographically driven investigation into the notions of masculine identity and the presence of vulnerability and sensitivity that acts as forces against the mythology of male dominance and power.</p>
 
 <p>My notions of what it means to be a man are romantic. I believe an innate part of our psyche needs us to be the Iron John of Robert Bly, yet we are responding to that primal urge in a new way. We have grown into a new fragility. We identify and illuminate within ourselves what it means to be men through the examples we see in our families, in the media, and in our peers. We are bombarded by images defining what it means to be male, and we are helpless but to give in part way to these campaigns. We are fragile.</p>
 

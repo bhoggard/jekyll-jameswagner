@@ -12,11 +12,11 @@ Othniel "Niel" Boaz Askew <br />
 <p>The story about Askew most people won't hear is in the <a href="http://www.gaycitynews.com/gcn229/closetkills.html"><u>Gay</u> <u>City</u> <u>News</u></a>.</p>
 
 <blockquote>
-<p><a href="http://www.amazon.com/exec/obidos/search-handle-url/index=books&field-author=Xavier%2C%20Emanuel/102-6475346-8970535">Emanuel Xavier</a> is a gay poet and author who frequented many of the same nightclubs as Askew did back in the 1990s. This past December, Davis honored Xavier and other LGBT activists at the CouncilmemberÂ’s Holiday Pride event at Long Island University. According to Xavier, around 1995, he and [Clifford Nass, Askew's roommate at the time] dated for several months, well before AskewÂ’s 1996 arrest.</p>
+<p><a href="http://www.amazon.com/exec/obidos/search-handle-url/index=books&field-author=Xavier%2C%20Emanuel/102-6475346-8970535">Emanuel Xavier</a> is a gay poet and author who frequented many of the same nightclubs as Askew did back in the 1990s. This past December, Davis honored Xavier and other LGBT activists at the Councilmember’s Holiday Pride event at Long Island University. According to Xavier, around 1995, he and [Clifford Nass, Askew's roommate at the time] dated for several months, well before Askew’s 1996 arrest.</p>
 
 <p>During his relationship with Nass, Xavier spent a considerable amount of time in the West 43rd Street apartment.</p>
 
-<p>He recalled Askew as "an incredibly sweet person," saying that "the media is portraying him as a monster and he wasnÂ’t one despite committing such an inhumane act."</p>
+<p>He recalled Askew as "an incredibly sweet person," saying that "the media is portraying him as a monster and he wasn’t one despite committing such an inhumane act."</p>
 
 <p>. . . .</p>
 

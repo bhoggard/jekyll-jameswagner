@@ -11,7 +11,7 @@ brilliant?</p>
 <p>Maybe we've just been watching the latest sally in the radical <em>conservatives</em>' continuing campaign to dismantle the government.  The <a href="http://www.msnbc.msn.com/id/9280375/site/newsweek/">results</a> of a <u>Newsweek</u> poll released a few days ago suggest that it's working.</p>
 
 <blockquote>
-<p>But KatrinaÂ’s most costly impact could be a loss of faith in government generally, and the president, in particular. A majority of Americans (57 percent) say Â“governmentÂ’s slow response to what happened in New OrleansÂ” has made them lose confidence in governmentÂ’s ability to deal with another major natural disaster.</p>
+<p>But Katrina’s most costly impact could be a loss of faith in government generally, and the president, in particular. A majority of Americans (57 percent) say “government’s slow response to what happened in New Orleans” has made them lose confidence in government’s ability to deal with another major natural disaster.</p>
 </blockquote>
 
 <p>The only complication for the Bushies is that an even larger number of people are also convinced their own special damn fool - and his entire party - is a very big part of the problem.</p>

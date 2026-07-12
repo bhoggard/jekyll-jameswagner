@@ -19,7 +19,7 @@ permalink: /2003/04/there_are_cars.html
 a description of a "dream," or "concept," car which actually does try to relate to the planet we share with others.  What does it say about industry priorities that yesterday I never noticed a car answering the very "green" description found in the editorial?  I only saw what looked like another SUV, if somewhat downsized, and I passed it by.</p>
 
 <blockquote>
-<p>At the New York auto show, Ford has an interesting little vehicle on display. It is sort of an ultimate green machine Â— fueled by hydrogen, lubricated by cornflower oil, rolling on tires made of corn, built with panels of soy. I can imagine waking up one morning to find my ride being devoured by groundhogs. Ford calls it the <a href="http://www.fordvehicles.com/autoshow/suvs/modelu/">Model U</a>, invoking a pioneering, back-to-basics machine. Fascinating but very lonely.</p>
+<p>At the New York auto show, Ford has an interesting little vehicle on display. It is sort of an ultimate green machine — fueled by hydrogen, lubricated by cornflower oil, rolling on tires made of corn, built with panels of soy. I can imagine waking up one morning to find my ride being devoured by groundhogs. Ford calls it the <a href="http://www.fordvehicles.com/autoshow/suvs/modelu/">Model U</a>, invoking a pioneering, back-to-basics machine. Fascinating but very lonely.</p>
 
 <p>All around are vehicles that, in the absence of groundhogs, look intent on eating the Model U for breakfast. . . . This is what the folks are really here to see: fantasies, toys, nostalgia, horsepower and more horsepower.</p>
 

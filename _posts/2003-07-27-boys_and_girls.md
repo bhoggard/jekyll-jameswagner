@@ -8,7 +8,7 @@ permalink: /2003/07/boys_and_girls.html
 <p><img src="/albums/chunkathalon/PICT1303.sized.jpg" width="500" height= "375" /><br />
 both go down here, but in the end Amy, the white knight on the left, was topped</p>
 
-<p>We walked down to the Willamsburg shore yesterday afternoon and had a delirious good time as part of the 2003 Chunkathalon.  By the organizersÂ’ [<a href="http://www.dclxvi.org/chunk/index.html">C.H.U.N.K. 666</a>] own description, the event was "a series of death-defying bicycle contests that purge the group of weaker members while amusing the survivors."  No attitude, no swagger, and as some cute sage said yesterday, "bikes are for fun."</p>
+<p>We walked down to the Willamsburg shore yesterday afternoon and had a delirious good time as part of the 2003 Chunkathalon.  By the organizers’ [<a href="http://www.dclxvi.org/chunk/index.html">C.H.U.N.K. 666</a>] own description, the event was "a series of death-defying bicycle contests that purge the group of weaker members while amusing the survivors."  No attitude, no swagger, and as some cute sage said yesterday, "bikes are for fun."</p>
 
 <p>There are dozens of annotated images in this <a href="https://jameswagner.com/gallery/chunkathalon?&page=1">gallery</a>.</p>
 

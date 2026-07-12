@@ -28,5 +28,5 @@ permalink: /2002/05/coop_boards_on.html
 
 <p>There is a red alert going on now, but it's only in Karl Rove's office. (There is a severe risk of political damage to the Bush administration.)</p>
 
-<p>That's why the Bushies are trying to terrify us. They desperately want to change the subject from the stunning lapses of their ostensibly expert foreign policy team Â— and they cynically want to make it sound as if nothing they do or don't do really matters in the end.</p>
+<p>That's why the Bushies are trying to terrify us. They desperately want to change the subject from the stunning lapses of their ostensibly expert foreign policy team — and they cynically want to make it sound as if nothing they do or don't do really matters in the end.</p>
 </blockquote>

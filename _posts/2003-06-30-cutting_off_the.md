@@ -21,7 +21,7 @@ permalink: /2003/06/cutting_off_the.html
 <p>French wine sales to the United States, once French winemakers' most promising market and now one of their greatest competitors, are going down the drain.</p>
 </blockquote>
 
-<p>Up to now I had actually thought this nonsense would blow away quickly and that we would soon be directing our anger to the right target:  the entire American media and political establishment.  In fact itÂ’s clear we havenÂ’t learned a thing, and the result will not be disaster just for certain French industries.</p>
+<p>Up to now I had actually thought this nonsense would blow away quickly and that we would soon be directing our anger to the right target:  the entire American media and political establishment.  In fact it’s clear we haven’t learned a thing, and the result will not be disaster just for certain French industries.</p>
 
 <p>French wine, and perhaps the French aeronautical industry and many others as well, may never recover from American fear and stupidity, but in the end the real victim will be America and everything that a wise and generous America could have been for itself and for the world.</p>
 

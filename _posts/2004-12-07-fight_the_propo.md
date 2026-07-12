@@ -19,7 +19,7 @@ permalink: /2004/12/fight_the_propo.html
 <p>From the group's site:</p>
 
 <blockquote>
-<p>Many of us are determined to not let this go by unnoticed and without protest;  Join us, plan on taking your camera out for a day of photography that won't ever be forgotten, with a flash mob photo session that will even make the MTA board want to be there with cameras. It'll be one of those Â“Only in New YorkÂ” things you've been hearing about...</p>
+<p>Many of us are determined to not let this go by unnoticed and without protest;  Join us, plan on taking your camera out for a day of photography that won't ever be forgotten, with a flash mob photo session that will even make the MTA board want to be there with cameras. It'll be one of those “Only in New York” things you've been hearing about...</p>
 </blockquote>
 
 <p>Meet December 18th on the main concourse of Grand Central Terminal, and bring your photo apparatus of course.  It shouldn't be hard to spot all the other people with cameras, especially with the even larger crowds expected this time.</p>

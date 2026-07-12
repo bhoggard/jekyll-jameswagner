@@ -16,7 +16,7 @@ permalink: /2003/05/hollywood_white.html
 <p>Or, for a serious look at the consequences of theatrical artifice in government, read Krugman's <a href="http://www.nytimes.com/2003/05/16/opinion/16KRUG.html">column</a>, "Paths Of Glory."</p>
 
 <blockquote>
-<p>The central dogma of American politics right now is that George W. Bush, whatever his other failings, has been an effective leader in the fight against terrorism. But the more you know about the state of the world, the less you believe that dogma. The Iraq war, in particular, did nothing to make America safer Â— in fact, it did the terrorists a favor.</p>
+<p>The central dogma of American politics right now is that George W. Bush, whatever his other failings, has been an effective leader in the fight against terrorism. But the more you know about the state of the world, the less you believe that dogma. The Iraq war, in particular, did nothing to make America safer — in fact, it did the terrorists a favor.</p>
 
 <p>. . . .</p>
 

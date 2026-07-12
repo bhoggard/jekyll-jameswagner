@@ -7,7 +7,7 @@ permalink: /2004/08/gemini_gehry_go.html
 ---
 
 <p><img alt="RuschaOther.jpg" src="/mt_archives/RuschaOther.jpg" width="480" height="364" border="0" /><br />
-Ed Ruscha <i>Other</i> color lithograph  11 1/4Â” x 14 3/4Â”</p>
+Ed Ruscha <i>Other</i> color lithograph  11 1/4” x 14 3/4”</p>
 
 <p>While in Los Angeles last week we stopped at the West Hollywood workshop and galleries of <a href="http://www.absolutearts.com/artsnews/2001/11/05/29324.html">Gemini G.E.L.</a> (Graphic Editions Limited).  Ok, to be honest, the draw had been the building itself, whose interest had been touted by an artist friend of ours;  we didn't know about the galleries, and hadn't really expected to get inside.  In fact, we were really welcomed, and graciously invited to walk about the exhibition spaces on our own.</p>
 

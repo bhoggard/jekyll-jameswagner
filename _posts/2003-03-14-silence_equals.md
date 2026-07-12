@@ -12,7 +12,7 @@ permalink: /2003/03/silence_equals.html
 
 <p>In its letter, the ACLU said that school officials "outed" the gay student, Thomas McLaughlin, to his parents against his wishes and have since told him he must not discuss being gay while at school, forced him to read from the Bible and disciplined him for being open about his sexual orientation.</p>
 
-<p>"My school forced me out of the closet when I should have been allowed to come out to my family on my own terms and when I thought it was the right time. And now the school has been trying to shove me back into it ever since," McLaughlin said. "IÂ’m through with being silenced, and I donÂ’t want this happening to other gay kids at my school."</p>
+<p>"My school forced me out of the closet when I should have been allowed to come out to my family on my own terms and when I thought it was the right time. And now the school has been trying to shove me back into it ever since," McLaughlin said. "I’m through with being silenced, and I don’t want this happening to other gay kids at my school."</p>
 </blockquote>
 
 <p><a href="http://www.aclu.org/LesbianGayRights/LesbianGayRights.cfm?ID=12082&c=106">The story</a>.  It sounds like fiction, but it groans under the burden of its truth, and it reminds us how far we still have to go before we can establish the basic rights of our sexualities, regardless of our ages.  But years ago there would only be silence, and sometimes death.  The story which came out of Arkansas yesterday would never have been heard.  The victim would have had no defense.  Today there is at least hope.</p>

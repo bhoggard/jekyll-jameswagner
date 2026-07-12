@@ -14,5 +14,5 @@ permalink: /2002/05/never_forget.html
 
 <p>. . . .</p>
 
-<p>"They're honoring him now for what he did September 11,Â” said protestor Glenda White. Â“We want him to remember what we went through for seven years.Â”</p>
+<p>"They're honoring him now for what he did September 11,” said protestor Glenda White. “We want him to remember what we went through for seven years.”</p>
 </blockquote>

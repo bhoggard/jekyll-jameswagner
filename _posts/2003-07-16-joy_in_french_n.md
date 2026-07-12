@@ -18,7 +18,7 @@ permalink: /2003/07/joy_in_french_n.html
 
 <p>During Prohibition, the archipelago became a way station for Canadian liquor smuggled into the United States. Virtually every basement was converted into a warehouse for bootleggers, and Al Capone set up shop at the Hotel Robert, where his straw hat still graces a small museum.</p>
 
-<p>Capone came here to solve a problem. The wooden whiskey crates that were to be unloaded near Fire Island made too much noise when they knocked against each other, tipping off the feds. Capone decided to discard the crates for jute sacks and straw, leaving behind 350,000 cases a year here that stimulated an odd housing boom Â— one cabin outside town made completely of crates is still known as "Cutty Sark villa."</p>
+<p>Capone came here to solve a problem. The wooden whiskey crates that were to be unloaded near Fire Island made too much noise when they knocked against each other, tipping off the feds. Capone decided to discard the crates for jute sacks and straw, leaving behind 350,000 cases a year here that stimulated an odd housing boom — one cabin outside town made completely of crates is still known as "Cutty Sark villa."</p>
 
 <p>When the Volstead Act was repealed in 1933, truckers held a mock funeral.</p>
 

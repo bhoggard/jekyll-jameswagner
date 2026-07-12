@@ -13,7 +13,7 @@ Hany Armanious <em>Basic Construction</em> 2007 PVC 19" x 11" x 11" [installatio
 <p>I was already primed to appreciate whatever Armanious might do for this show, having liked very much <a href="/2007/03/hany_armanious_1.html">his work</a> the gallery had shown early this spring at the Armory show.   On  the other hand, I don't think anything could have prepared me for what even the <a href="http://www.foxyproduction.com/exhibition/view/972">press release</a> [required reading here] has to confess looks like "a shocking vista of filth and disarray".</p>
 
 <blockquote>
-<p>In ArmaniousÂ’ provocative work, perverse actions take place upon unexpected materials, resulting in enigmatic objects, scenes and associations. Like a pranksterish alchemist, he transforms the process of casting into a witty and symbolic practice. His detours and digressions through the fictional systems he constructs, paradoxically foster both confusion and engagement.</p>
+<p>In Armanious’ provocative work, perverse actions take place upon unexpected materials, resulting in enigmatic objects, scenes and associations. Like a pranksterish alchemist, he transforms the process of casting into a witty and symbolic practice. His detours and digressions through the fictional systems he constructs, paradoxically foster both confusion and engagement.</p>
 </blockquote>
 
 <p>I loved it.  I only worried that the more casual or less adventurous gallery visitor, staying on the outside of the glass front door, might read the messy darkened space as the doleful site of an abandoned shop, or the only slightly happier scene of an installation somehow gone awry.</p>

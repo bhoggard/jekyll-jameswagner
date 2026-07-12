@@ -24,7 +24,7 @@ permalink: /2003/04/both_sides_feel.html
 <blockquote>
 <p>Lockdown. It's a form of imprisonment.  In their own country. Written by the command of the 1st US Marine Division, it's a curfew in all but name.</p>
 
-<p>If I was an Iraqi and I read that," an Arab woman shouted at me, "I would become a suicide bomber." And all across Baghdad you hear the same thing, from Shia Muslim clerics to Sunni businessmen, that the Americans have come only for oil, and that soon Â– very soon Â– a guerrilla resistance must start. No doubt the Americans will claim that these attacks are "remnants" of Saddam's regime or "criminal elements". But that will not be the case.</p>
+<p>If I was an Iraqi and I read that," an Arab woman shouted at me, "I would become a suicide bomber." And all across Baghdad you hear the same thing, from Shia Muslim clerics to Sunni businessmen, that the Americans have come only for oil, and that soon – very soon – a guerrilla resistance must start. No doubt the Americans will claim that these attacks are "remnants" of Saddam's regime or "criminal elements". But that will not be the case.</p>
 </blockquote>
 
 <p>But the main thrust of Fisk's argument is the observation that the coalition has done virtually nothing to apprehend the leaders of Sadaam Hussein's regime, or its agents of terror, and very little to protect the country's infrastrucure at any level, with the single, all-too-telling exception of the oil sector.</p>

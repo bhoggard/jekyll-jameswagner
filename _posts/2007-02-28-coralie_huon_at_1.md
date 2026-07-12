@@ -19,10 +19,10 @@ Coralie Huon <em>Camping Urbain</em> 2005 mixed media</p>
 
 <p>The more obvious distinction is that here she chose to address the requirements of a very different, and already existing, "lifestyle" than that which would be sheltered  by her maritime utopia.  As potential design clients, the homeless of Paris and other cities of the world are considerably less hypothetical than the future-sleek residents of her "Dunes Océanes".  I don't expect to be in the market for either kind of home in the foreseeable future, but it was the tiny, minimal house kit installation, and the unsettling message of the tape boundaries secured on the carpet, all of which were contained within the walls of a bedroom of this warm, dry and seriously-bourgeois hotel suite that really captured my imagination [unfortunately it was too far dark and crowded to capture an image with my camera].</p>
 
-<p>The visitor can read about this innovative Â“extreme mobilityÂ” house in a press release whose tongue-in-cheek style is not unlike the mock language of marketing also used to "sell" her companion project for a floating community:</p>
+<p>The visitor can read about this innovative “extreme mobility” house in a press release whose tongue-in-cheek style is not unlike the mock language of marketing also used to "sell" her companion project for a floating community:</p>
 
 <blockquote>
-<p>It is ingenious, stylish and compact.  It can be taken away anywhere thanks to its carry-on bag matching.  In a short moment of minutes, it unfolds and folds back again. It is mobile, but at the same time, it is [an approximately 20 sf] Â“podÂ” for the homeless, Â“my houseÂ”, and Â“my own placeÂ”.</p>
+<p>It is ingenious, stylish and compact.  It can be taken away anywhere thanks to its carry-on bag matching.  In a short moment of minutes, it unfolds and folds back again. It is mobile, but at the same time, it is [an approximately 20 sf] “pod” for the homeless, “my house”, and “my own place”.</p>
 
 <p>In her 3 minutes video, she explains on up-beat rock music:</p>
 
@@ -31,11 +31,11 @@ Coralie Huon <em>Camping Urbain</em> 2005 mixed media</p>
    3. Message: How does this communicate?<br />
    4. Demonstration: How one can live with it?</p>
 
-<p>Â“Design for the homeless? This apparently non-sense idea would be a starter of discussions on the homeless issue. Here, the Â“designÂ” can be recognized as a powerful tool. A tool to make this social issue visible, a tool to identify the homeless as a human being with dignity.</p>
+<p>“Design for the homeless? This apparently non-sense idea would be a starter of discussions on the homeless issue. Here, the “design” can be recognized as a powerful tool. A tool to make this social issue visible, a tool to identify the homeless as a human being with dignity.</p>
 
 <p>It is a multi-dimensional project complete with sound, visual, and a three-dimensional prototype. Audience will be participating and experiencing life condition of the homeless. Make them aware of the uncertainty of the existence.</p>
 
-<p>Â“Camping UrbainÂ”, playful and disturbing: not so fun, but not to be dramatized either.</p>
+<p>“Camping Urbain”, playful and disturbing: not so fun, but not to be dramatized either.</p>
 </blockquote>
 
 <p>Ms. Kawase, the gallery owner, told us that the artist had been surprised (amused, dismayed?) to find that visitors to the gallery's exhibition in New York showed little interest in "Camping Urbain" but were much taken by "Dunes Océanes".  This was reportedly the opposite of her experience in Paris, where people are apparently truly disturbed by the increasing visibility of the homeless on the streets.</p>

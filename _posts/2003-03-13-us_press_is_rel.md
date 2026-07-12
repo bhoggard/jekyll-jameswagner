@@ -22,17 +22,17 @@ permalink: /2003/03/us_press_is_rel.html
 
 <p>. . . .</p>
 
-<p>Even Bush couldnÂ’t ignore the absurdity of it all. In a remarkable exchange that somehow managed to avoid being commented upon in news accounts the next day, Bush chided CNN political correspondent John King when the latter overacted his part, too enthusiastically waving his hand when it apparently was, according to the script, his turn anyway.</p>
+<p>Even Bush couldn’t ignore the absurdity of it all. In a remarkable exchange that somehow managed to avoid being commented upon in news accounts the next day, Bush chided CNN political correspondent John King when the latter overacted his part, too enthusiastically waving his hand when it apparently was, according to the script, his turn anyway.</p>
 
 <p>KING: "Mr. President."</p>
 
-<p>BUSH: "WeÂ’ll be there in a minute. King, John King. This is a scripted..."</p>
+<p>BUSH: "We’ll be there in a minute. King, John King. This is a scripted..."</p>
 
 <p>A ripple of nervous laughter shot through the East Room.</p>
 
 <p>. . . .</p>
 
-<p>Reporters argue that they have no choice. TheyÂ’ll say they canÂ’t protest or boycott the staged format, because they risk being stripped of their seat in the press pool. For the same reason, they say they canÂ’t write anything too negative. They canÂ’t write, for instance, "President Bush, looking like a demented retard on the eve of warÂ…" That leaves them with the sole option of "working within the system" and, as they like to say, "trying to take our shots when we can."</p>
+<p>Reporters argue that they have no choice. They’ll say they can’t protest or boycott the staged format, because they risk being stripped of their seat in the press pool. For the same reason, they say they can’t write anything too negative. They can’t write, for instance, "President Bush, looking like a demented retard on the eve of war…" That leaves them with the sole option of "working within the system" and, as they like to say, "trying to take our shots when we can."</p>
 </blockquote>
 
 <p>Like I said, the independent press really is as dead as a dodo.</p>

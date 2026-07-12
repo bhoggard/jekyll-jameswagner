@@ -17,7 +17,7 @@ hanging out in a park and free bike repair station <em>on</em> 7th Avenue at Cha
 <p>Another <a href="http://www.nytimes.com/2007/09/23/nyregion/thecity/23spac.html">piece</a> in the <u>NYTimes</u> reported:</p>
 
 <blockquote>
-<p>The cityÂ’s Transportation Department does not know the total number of parking spaces in the city, but according to Transportation Alternatives, an advocacy group, 45 percent of public land in Manhattan is dedicated to moving and storing cars.</p>
+<p>The city’s Transportation Department does not know the total number of parking spaces in the city, but according to Transportation Alternatives, an advocacy group, 45 percent of public land in Manhattan is dedicated to moving and storing cars.</p>
 </blockquote>
 
 <p>That's a pretty impressive figure, especially since the total area of "public land" would include Central Park and every other square foot of park and sidewalk.</p>

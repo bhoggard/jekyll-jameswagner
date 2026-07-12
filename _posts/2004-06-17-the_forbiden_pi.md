@@ -18,7 +18,7 @@ live "dancers, whores, merrymakers, and priests" outside powerHouse Books  (the 
 
 <p>The <i>tableaux vivant</i> produced in the summer of 2001, with their voluptuous, polychrome sculptural presence, have become forbidden pictures.</p>
 
-<p>Fink has been unable to persuade any magazine to print these remarkable photographs.  <a href="http://www.powerhousebooks.com/index.html">powerHouse Books</a> is now publishing them and they are currently visible at their gallery on  Charlton Street, where they will remain through the last day of the Republican Convention, September 2.  The Gallery calls them, "a provocative political commentary" and "a satirical look at AmericaÂ’s current leaders."</p>
+<p>Fink has been unable to persuade any magazine to print these remarkable photographs.  <a href="http://www.powerhousebooks.com/index.html">powerHouse Books</a> is now publishing them and they are currently visible at their gallery on  Charlton Street, where they will remain through the last day of the Republican Convention, September 2.  The Gallery calls them, "a provocative political commentary" and "a satirical look at America’s current leaders."</p>
 
 <p>The artist tells us a little more.</p>
 

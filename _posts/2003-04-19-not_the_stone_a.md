@@ -22,5 +22,5 @@ permalink: /2003/04/not_the_stone_a.html
 <p>For more on the pulse of Iraq, see <a href="http://www.commondreams.org/views03/0419-01.htm">another</a> commentary in today's <u>Independent</u>, "A DANGEROUS GROUNDSWELL OF RESENTMENT IS BUILDING UP ON THE STREETS OF BAGHDAD."</p>
 
 <blockquote>
-<p>Then came one of those moments that you live through with every nerve of your body vibrating. I saw young men breaking away from the main crowd and running toward a street corner. There was some shouting. Then I spotted American helmets bobbing above the crowd. "Look, buddy, I've got the gun Â– now back off," a voice shouted. An Iraqi man was confronting an American soldier. "Go ahead and shoot me. Go ahead," the man said. A woman shouted into my face: "It's about our pride. Its just about our pride."</p>
+<p>Then came one of those moments that you live through with every nerve of your body vibrating. I saw young men breaking away from the main crowd and running toward a street corner. There was some shouting. Then I spotted American helmets bobbing above the crowd. "Look, buddy, I've got the gun – now back off," a voice shouted. An Iraqi man was confronting an American soldier. "Go ahead and shoot me. Go ahead," the man said. A woman shouted into my face: "It's about our pride. Its just about our pride."</p>
 </blockquote>

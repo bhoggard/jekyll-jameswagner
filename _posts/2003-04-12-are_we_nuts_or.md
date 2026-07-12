@@ -24,9 +24,9 @@ permalink: /2003/04/are_we_nuts_or.html
 <p>To put this in perspective, we could look at the picture in Europe.  Because of differences in workweek hours and vacation time, Americans now labor a full nine weeks more each year than Western Europeans.</p>
 
 <blockquote>
-<p>. . . over the past 30 years, Europeans have made a different choice Â— to live simpler, more balanced lives and work fewer hours. The average Norwegian, for instance, works 29 percent less than the average American Â— 14 weeks per year Â— yet his average income is only 16 percent less. Western Europeans average five to six weeks of paid vacation a year; we average two.</p>
+<p>. . . over the past 30 years, Europeans have made a different choice — to live simpler, more balanced lives and work fewer hours. The average Norwegian, for instance, works 29 percent less than the average American — 14 weeks per year — yet his average income is only 16 percent less. Western Europeans average five to six weeks of paid vacation a year; we average two.</p>
 
-<p>Work and consumption are not necessarily bad. But producing and consuming can become the focus of a person's life Â— at the expense of other values.</p>
+<p>Work and consumption are not necessarily bad. But producing and consuming can become the focus of a person's life — at the expense of other values.</p>
 </blockquote>
 
 <p>And now with fears fanned by a radical nationalist regime since September 11, the freedoms which have always been the most worthy blessings of American society are being traded for an illusory security.  What can we offer ourselves, or anyone outside who might manage to make it through the walls surrounding the new fortress America, but more stuff we never have time to appreciate?  In the end is that all that will remain of the idea of America?</p>

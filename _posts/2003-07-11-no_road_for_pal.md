@@ -10,7 +10,7 @@ permalink: /2003/07/no_road_for_pal.html
 <p>It was forwarded from <a href="http://electronicintifada.net/v2/article1549.shtml">Queers for Peace and Justice</a>, and was written by Jordan Flaherty, a New York activist currently one of the <a href="http://www.palsolidarity.org/">International Solidarity Movement</a> "NOLA <a href="http://www.core-online.org/history/freedom_summer.htm">Freedom Summer</a>" delegates.  The others are Adam Wilson and Thomas Bacon.  They are currently in Palestine working with the ISM, which was formed to non-violently resist the Israeli occupation.</p>
 
 <blockquote>
-<p>July 6, 2003 Â– From Jordan</p>
+<p>July 6, 2003 – From Jordan</p>
 
 <p>Letter from Jenin</p>
 

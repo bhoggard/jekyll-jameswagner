@@ -14,7 +14,7 @@ permalink: /2003/07/smiting_the_rea.html
 <p>To illustrate dramatically the lengths to which Bush and his people will go to protect their inventions, Krugman ends his Op-Ed essay with the news, shockingly not reported anywhere else in the <u>NYTimes</u> today, but easily found elsewhere, that administration officials have disclosed the identity of a C.I.A.  operative, Joseph Wilson's wife.</p>
 
 <blockquote>
-<p>Mr. Wilson is the former ambassador who was sent to Niger by the C.I.A. to investigate reports of attempted Iraqi uranium purchases and who recently went public with his findings. Since then administration allies have sought to discredit him Â— it's unpleasant stuff. But here's the kicker: both the columnist Robert Novak and Time magazine say that administration officials told them that they believed that Mr. Wilson had been chosen through the influence of his wife, whom they identified as a C.I.A. operative.</p>
+<p>Mr. Wilson is the former ambassador who was sent to Niger by the C.I.A. to investigate reports of attempted Iraqi uranium purchases and who recently went public with his findings. Since then administration allies have sought to discredit him — it's unpleasant stuff. But here's the kicker: both the columnist Robert Novak and Time magazine say that administration officials told them that they believed that Mr. Wilson had been chosen through the influence of his wife, whom they identified as a C.I.A. operative.</p>
 
 <p>Think about that: if their characterization of Mr. Wilson's wife is true (he refuses to confirm or deny it), Bush administration officials have exposed the identity of a covert operative. That happens to be a criminal act; it's also definitely unpatriotic.</p>
 

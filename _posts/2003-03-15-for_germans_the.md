@@ -10,7 +10,7 @@ permalink: /2003/03/for_germans_the.html
 <p>After sixty years of virtual neglect in Germany, the story of what its civilians suffered at the hands of the Allies during World War II has now become a common subject of discussion at all levels of society, inspiring serious treatment in literature, theatre, film and television.</p>
 
 <blockquote>
-<p>Ms. John, who witnessed the nighttime firebombing of Dresden by the Royal Air Force on Feb. 13, 1945 Â— an attack that killed about 35,000 people and destroyed one of the most beautiful cities in Europe Â— was doing what many Germans have been doing lately: talking about their own suffering in World War II.</p>
+<p>Ms. John, who witnessed the nighttime firebombing of Dresden by the Royal Air Force on Feb. 13, 1945 — an attack that killed about 35,000 people and destroyed one of the most beautiful cities in Europe — was doing what many Germans have been doing lately: talking about their own suffering in World War II.</p>
 
 <p>For the last few months in fact, television has been showing endless documentaries and discussions of the air war waged by Britain and the United States against Germany in World War II. While this is not exactly a new subject in Germany, there are at least two ways in which the discussion is different from the past.</p>
 

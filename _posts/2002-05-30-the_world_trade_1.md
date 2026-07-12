@@ -8,7 +8,7 @@ permalink: /2002/05/the_world_trade_1.html
 <p>An <a href="http://www.nytimes.com/2002/05/30/opinion/30THU2.html">editorial</a> in today's <u>NYTimes</u> pauses to observe the completion of clearance work at the World Trade Center site, and the portion of the text which addresses the recent past manages to be surprisingly gentle.</p>
 
 <blockquote>
-<p>Most of us have found our own ways to accommodate the meaning of Sept. 11. But for the crews that have been at work on that unimaginable site Â— and at the holding areas where the debris has been sifted and analyzed Â— the one way to deal with the tragedy has been to dismantle it, fragment by fragment, until there was nothing left. Those crews have served as our surrogates.</p>
+<p>Most of us have found our own ways to accommodate the meaning of Sept. 11. But for the crews that have been at work on that unimaginable site — and at the holding areas where the debris has been sifted and analyzed — the one way to deal with the tragedy has been to dismantle it, fragment by fragment, until there was nothing left. Those crews have served as our surrogates.</p>
 
 <p>....</p>
 

@@ -14,5 +14,5 @@ permalink: /2003/02/we_dont_do_nati.html
 <p>We've already failed the test in the eyes of the world.  The Bush regime is offering grand promises and monetary handouts to create and maintain a domestic and a foreign "coalition of the willing," but the world has seen the White House abandon its promises and withhold its subsidies once it has gotten what it wanted, whether the victim has been the Kurds, Afghanistan or New York City.  Turkey and democracy in Iraq will be next.</p>
 
 <blockquote>
-<p>If this all sounds incredibly callous and shortsighted, that's because it is. But then what did you expect? This administration doesn't worry about long-term consequences Â— just look at its fiscal policy. It wants its war; there's not the slightest indication that it's interested in the boring, expensive task of building a just and lasting peace.</p>
+<p>If this all sounds incredibly callous and shortsighted, that's because it is. But then what did you expect? This administration doesn't worry about long-term consequences — just look at its fiscal policy. It wants its war; there's not the slightest indication that it's interested in the boring, expensive task of building a just and lasting peace.</p>
 </blockquote>

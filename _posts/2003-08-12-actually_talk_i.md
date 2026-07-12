@@ -12,7 +12,7 @@ permalink: /2003/08/actually_talk_i.html
 <blockquote>
 <p>In general, the "support our troops" crowd draws the line when that support might actually cost something.</p>
 
-<p>The usually conservative Army Times has run blistering editorials on this subject. Its June 30 blast, titled "Nothing but Lip Service," begins: "In recent months, President Bush and the Republican-controlled Congress have missed no opportunity to heap richly deserved praise on the military. But talk is cheap Â— and getting cheaper by the day, judging from the nickel-and-dime treatment the troops are getting lately." The article goes on to detail a series of promises broken and benefits cut.</p>
+<p>The usually conservative Army Times has run blistering editorials on this subject. Its June 30 blast, titled "Nothing but Lip Service," begins: "In recent months, President Bush and the Republican-controlled Congress have missed no opportunity to heap richly deserved praise on the military. But talk is cheap — and getting cheaper by the day, judging from the nickel-and-dime treatment the troops are getting lately." The article goes on to detail a series of promises broken and benefits cut.</p>
 </blockquote>
 
 <p>Troops in Iraq are still subsisting on M.R.E.'s, "the dreaded meals ready to eat," in Krugman's words, and there are serious shortages of water in the field.</p>
@@ -24,7 +24,7 @@ permalink: /2003/08/actually_talk_i.html
 <p>We're not willing to pay what we must to support our fighting forces, but the greater scandal may be that the money being paid to corporations, in a shift of many tasks traditionally performed by soldiers, is money that is being wasted, and costing lives.</p>
 
 <blockquote>
-<p>According to the Newhouse News Service, "U.S. troops in Iraq suffered through months of unnecessarily poor living conditions because some civilian contractors hired by the Army for logistics support failed to show up." Not surprisingly, civilian contractors Â— and their insurance companies Â— get spooked by war zones. The Financial Times reports that the dismal performance of contractors in Iraq has raised strong concerns about what would happen in a war against a serious opponent, like North Korea.</p>
+<p>According to the Newhouse News Service, "U.S. troops in Iraq suffered through months of unnecessarily poor living conditions because some civilian contractors hired by the Army for logistics support failed to show up." Not surprisingly, civilian contractors — and their insurance companies — get spooked by war zones. The Financial Times reports that the dismal performance of contractors in Iraq has raised strong concerns about what would happen in a war against a serious opponent, like North Korea.</p>
 </blockquote>
 
 <p>Even the enormous and essential task of rebuilding what we have destroyed in Iraq is being compromised in the name of ideology and patronage.</p>

@@ -8,7 +8,7 @@ permalink: /2002/08/disaster_upon_d.html
 <p>Neither Afghanistan nor the world needs this right now, but Afghanistan is about to <a href="http://www.independent.co.uk/story.jsp?story=324155">explode</a>, and with it goes the only (arguable) accomplishment of our junta's "war on terrorism."</p>
 
 <blockquote>
-<p>But the man in the garden was worried. He was not an American. He was one of the "coalition allies", as the Americans like to call the patsies who have trotted after them into the Afghan midden. "The Americans don't know what to do here now," he went on. "Their morale in Afghanistan is going downhill Â– though there's no problem with the generals running things in Tampa. They're still gung-ho. But here the soldiers know things haven't gone right, that things aren't working.</p>
+<p>But the man in the garden was worried. He was not an American. He was one of the "coalition allies", as the Americans like to call the patsies who have trotted after them into the Afghan midden. "The Americans don't know what to do here now," he went on. "Their morale in Afghanistan is going downhill – though there's no problem with the generals running things in Tampa. They're still gung-ho. But here the soldiers know things haven't gone right, that things aren't working.</p>
 
 <p>....</p>
 

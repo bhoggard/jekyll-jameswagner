@@ -20,7 +20,7 @@ permalink: /2003/08/harvey_m_would.html
 <p>When asked if he wishes he had gone to a gay high school, he explains of course that his school <i>was</i> a special school, but he understands that even art can't protect all kids.  "Is [a gay high school] a good idea now, in New York of all places?"  Harvey:</p>
 
 <blockquote>
-<p>"The schoolÂ’s almost twenty years old! They wouldnÂ’t be expanding it if they couldnÂ’t say, 'Shit, this works.' This is not for all gay kids. ItÂ’s for 14-year-old drag queens who get beaten up daily. Gay teenagers have the highest rate of suicide attempts, and because theyÂ’re smart, they very often do it successfully."</p>
+<p>"The school’s almost twenty years old! They wouldn’t be expanding it if they couldn’t say, 'Shit, this works.' This is not for all gay kids. It’s for 14-year-old drag queens who get beaten up daily. Gay teenagers have the highest rate of suicide attempts, and because they’re smart, they very often do it successfully."</p>
 </blockquote>
 
 <p>For a pretty comprehensive outline of the issues at stake, see Michael Bronski's <a href="http://www.bostonphoenix.com/boston/news_features/other_stories/documents/03073221.asp">essay</a> in <u>the</u> <u>Boston</u> <u>Phoenix</u>.  I like his suggestion for an alternative solution to violence against queer kids in school:</p>

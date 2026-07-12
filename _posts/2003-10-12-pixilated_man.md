@@ -24,7 +24,7 @@ Nineteenth-century German ceramic doll<br />
 
 <p>Mr. Noble was consecrated a bishop in the Church of <a href="http://www.salon.com/feature/1998/04/cov_10feature.html">the Beloved Disciple</a> in 1980, a Manhattan church created to reach out to the gay and lesbian community. He and Mr. Clement, who is also a bishop, were in the process of founding another branch of the church in Los Angeles.</p>
 
-<p>Phyllis Magidson, curator of costumes and textiles at the City Museum, recalled Mr. Noble as "a pixilated man Â— as in whimsy and playfulness," and chuckled at the memory of one of his favorite lecture topics. In it, he pooh-poohed the sanctity of the pristine preservation of dolls.</p>
+<p>Phyllis Magidson, curator of costumes and textiles at the City Museum, recalled Mr. Noble as "a pixilated man — as in whimsy and playfulness," and chuckled at the memory of one of his favorite lecture topics. In it, he pooh-poohed the sanctity of the pristine preservation of dolls.</p>
 
 <p>The lecture's title: "<strong>Go Ahead and Re-dress It, Honey; No One Will Ever Know</strong>."</p>
 </blockquote>

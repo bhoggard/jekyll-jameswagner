@@ -6,7 +6,7 @@ permalink: /2003/06/my_sexuality_is.html
 ---
 
 <blockquote>
-<p>"My sexuality is my own sexuality. It doesnÂ’t belong to anybody. Not to my government, not to my brother, my sister, my family. No one."</p>
+<p>"My sexuality is my own sexuality. It doesn’t belong to anybody. Not to my government, not to my brother, my sister, my family. No one."</p>
 </blockquote>
 
 <p>Ahraf Zanati is now safe in Vancouver, but two years ago he was one of 52 men arrested, tortured and imprisoned in Cairo for being on board a Nile riverboat disco patronized by gay and bisexual males.</p>

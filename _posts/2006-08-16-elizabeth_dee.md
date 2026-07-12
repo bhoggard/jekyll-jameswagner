@@ -16,9 +16,9 @@ Fia Backström [large detail of an installation from the artist's continuing pro
 <p>Holland Cotter <a href="http://www.nytimes.com/2006/08/16/arts/design/16dee.html?_r=1&ref=arts&oref=slogin">writes</a> in the <u>NYTimes</u> today:</p>
 
 <blockquote>
-<p>ItÂ’s called Â“Bring the War HomeÂ” and itÂ’s at Elizabeth Dee Gallery. It is one of the best of the many group exhibitions that have crowded the neighborhood this summer.</p>
+<p>It’s called “Bring the War Home” and it’s at Elizabeth Dee Gallery. It is one of the best of the many group exhibitions that have crowded the neighborhood this summer.</p>
 
-<p>Almost all of them were neater, spiffier and more Â“visualÂ” than this one. But none generated more energy or offered as many options for where new art could go. We could really use those options at a time when the art industry is bankroll-happy, and a lot of new work is enervatingly timid. I like to think of Â“Bring the War Home,Â” which closes on Friday, not as the end of an old season but as the start of a new one.</p>
+<p>Almost all of them were neater, spiffier and more “visual” than this one. But none generated more energy or offered as many options for where new art could go. We could really use those options at a time when the art industry is bankroll-happy, and a lot of new work is enervatingly timid. I like to think of “Bring the War Home,” which closes on Friday, not as the end of an old season but as the start of a new one.</p>
 </blockquote>
 
 <p>Gosh, I hope he's right.</p>

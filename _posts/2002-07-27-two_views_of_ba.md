@@ -221,12 +221,12 @@ them to take our 40% funding of the World's Aids fight and put it toward the War
 
 <p>**************<br />
 I read a UPI story today about the demonstrations at the 14th International<br />
-AIDS Conference and how Sec. Tommy Thompson was kept from making his speech. In particular I read with disgust the statement by Milano Mark  organization: Â³He was going to tell lies and we shut him down."  How mature. We donÂ¹t like what someone has to say so we are going to act like children having a temper tantrum and shout them down.  Very productive.  I think the technical term is CENSORSHIP.</p>
+AIDS Conference and how Sec. Tommy Thompson was kept from making his speech. In particular I read with disgust the statement by Milano Mark  organization: "He was going to tell lies and we shut him down."  How mature. We don't like what someone has to say so we are going to act like children having a temper tantrum and shout them down.  Very productive.  I think the technical term is CENSORSHIP.</p>
 
 <p>As someone who is battling with HIV, I find your organization and its<br />
 members totally reprehensible.  You are nothing more than a bunch of<br />
 ignorant anti-American radicals doing your best to destroy America.  Do the<br />
-country a favor and go get a real job.  Those of us with HIV donÂ¹t need you<br />
+country a favor and go get a real job.  Those of us with HIV don't need you<br />
 or ACT UP.</p>
 
 <p>I pray and work daily for the destruction of your organization.</p>

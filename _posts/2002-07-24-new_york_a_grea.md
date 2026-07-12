@@ -14,7 +14,7 @@ permalink: /2002/07/new_york_a_grea.html
 <p>[sounds like so many guys I know, and they're all naturalists themselves in their own special way]  Actually the new genus is a centipede, certainly a disappoinment to most readers, but oddly exciting for those who read further.</p>
 
 <blockquote>
-<p>"I was astonished," Dr. Hoffman said. The odds against it surviving in a densely populated city Â— and, in particular, the constant trampling of millions of Central Park visitors Â— were astronomical, he said.</p>
+<p>"I was astonished," Dr. Hoffman said. The odds against it surviving in a densely populated city — and, in particular, the constant trampling of millions of Central Park visitors — were astronomical, he said.</p>
 
 <p>....</p>
 
@@ -24,7 +24,7 @@ permalink: /2002/07/new_york_a_grea.html
 
 <p>Ms. Johnson said the discovery of Nannarrup hoffmani gives new reason to appreciate the virtues of natural mess in parks.</p>
 
-<p>"If they rake all the leaves, remove all the fallen twigs and branches, new species Â— and the regular guys Â— will not survive," she said. "The whole system will cease to function. We need to appreciate unmanicured nature."</p>
+<p>"If they rake all the leaves, remove all the fallen twigs and branches, new species — and the regular guys — will not survive," she said. "The whole system will cease to function. We need to appreciate unmanicured nature."</p>
 </blockquote>
 
 <p>Could we just as easily be talking about people after all?</p>

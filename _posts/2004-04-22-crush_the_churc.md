@@ -31,4 +31,4 @@ it's a slippery slope</p>
 
 <p>In spite of cries of alarm coming from those who carry its torches, religion is not persecuted in this country.  Reason is persecuted in this country.  Religion is winning.</p>
 
-<p>[image from a French Charles Taze Russell <a href="http://cournonjom.free.fr/photodr04.htm">site</a>, where it is captioned, "Fratricide Â— Autodafé à Paris"]</p>
+<p>[image from a French Charles Taze Russell <a href="http://cournonjom.free.fr/photodr04.htm">site</a>, where it is captioned, "Fratricide — Autodafé à Paris"]</p>

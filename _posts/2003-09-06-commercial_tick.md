@@ -19,7 +19,7 @@ coming soon to a neighborhood near you</p>
 <p>So, have the floodgates now been opened for the "category-killer" suburbanization of Manhattan?  It's already in process, as <a href="http://bloggy.com/mt/archives/001362.html">bloggy</a> points out,  but even the folks at Primedia's "Retail Traffic" site [until May 2003, known as "Shopping Center World"], recognize the <a href="http://retailtrafficmag.com/microsites/magazinearticle.asp?mode=print&magazinearticleid=175103&releaseid=&srid=11533&magazineid=109&siteid=23">significance</a> of the assaults planned for 23rd Street and Lexington Avenue next year.</p>
 
 <blockquote>
-<p>Will the arrival of Home Depot mean that other big boxers such as Target will come to Manhattan, too? The barriers to entry still exist, including a shortage of appropriate spaces, logistics problems and high costs Â— not to mention the intense NIMBYism of Manhattan residents.</p>
+<p>Will the arrival of Home Depot mean that other big boxers such as Target will come to Manhattan, too? The barriers to entry still exist, including a shortage of appropriate spaces, logistics problems and high costs — not to mention the intense NIMBYism of Manhattan residents.</p>
 
 <p>. . . .</p>
 
@@ -27,7 +27,7 @@ coming soon to a neighborhood near you</p>
 
 <p>. . . .</p>
 
-<p>Meanwhile, Target is circling Manhattan, looking for a site Â— literally. Last fall, the trendy discounter hired a barge off Manhattan's Chelsea Piers for a special Christmas shop.</p>
+<p>Meanwhile, Target is circling Manhattan, looking for a site — literally. Last fall, the trendy discounter hired a barge off Manhattan's Chelsea Piers for a special Christmas shop.</p>
 </blockquote>
 
 <p>It's not just about traffic of course, and it's not just about aesthetics, although neither issue is unimportant to New Yorkers.  As barry protested this evening, he didn't flee middle America for New York in order to be pursued by the conformity that drove him out in the first place.</p>

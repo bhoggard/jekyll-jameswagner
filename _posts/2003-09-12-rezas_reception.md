@@ -14,7 +14,7 @@ Reza in Battery Park on September 11</p>
 
 <p>I may have been foolish to have expected a more sizable crowd at what should have been the dramatic conclusion of his extraordinary odyssey around most of the globe.  Reza is sweet, charmingly and fearlessly naïve, totally uninterested in fortune or fame, and his wonderful story has found listeners and readers all over the world for seven years.</p>
 
-<p>But Reza comes from Iran, Reza does not profess any faith and Reza talks only of love and peace.  Reza loves America, but apparently that just wasnÂ’t enough for our attentions on September 11.</p>
+<p>But Reza comes from Iran, Reza does not profess any faith and Reza talks only of love and peace.  Reza loves America, but apparently that just wasn’t enough for our attentions on September 11.</p>
 
 <p><u>The</u> <u>Arizona</u> <u>Republic</u> carried an <a href="http://www.azcentral.com/news/articles/0911reza-ON.html">article</a> yesterday.</p>
 

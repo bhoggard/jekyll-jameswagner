@@ -10,7 +10,7 @@ permalink: /2002/10/take_a_hike_scu.html
 <blockquote>
 <p>WASHINGTON - The sons of the late Minnesota Sen. Paul Wellstone said Vice President Cheney wouldn't be welcome at their father's memorial service last night, sources confirmed.</p>
 
-<p>"The family thought it wouldn't be appropriate. They were concerned about the difference in principles between the two men Â— and believe me it's principles here, not politics," a top Democratic operative told the Daily News.</p>
+<p>"The family thought it wouldn't be appropriate. They were concerned about the difference in principles between the two men — and believe me it's principles here, not politics," a top Democratic operative told the Daily News.</p>
 </blockquote>
 
 <p>At a certain point, we have to admit it and we have to say it, "those people are evil!"</p>

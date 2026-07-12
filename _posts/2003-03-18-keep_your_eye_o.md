@@ -12,23 +12,23 @@ permalink: /2003/03/keep_your_eye_o.html
 <blockquote>
 <p><b>Weasel words to watch for</b></p>
 
-<p>'Inevitable revenge' Â– for the executions of Saddam's Baath party officials which no one actually said were inevitable.</p>
+<p>'Inevitable revenge' – for the executions of Saddam's Baath party officials which no one actually said were inevitable.</p>
 
-<p>'Stubborn' or 'suicidal' Â– to be used when Iraqi forces fight rather than retreat.</p>
+<p>'Stubborn' or 'suicidal' – to be used when Iraqi forces fight rather than retreat.</p>
 
-<p>'Allegedly' Â– for all carnage caused by Western forces.</p>
+<p>'Allegedly' – for all carnage caused by Western forces.</p>
 
-<p>'At last, the damning evidence' Â– used when reporters enter old torture chambers.</p>
+<p>'At last, the damning evidence' – used when reporters enter old torture chambers.</p>
 
-<p>'Officials here are not giving us much access' Â– a clear sign that reporters in Baghdad are confined to their hotels.</p>
+<p>'Officials here are not giving us much access' – a clear sign that reporters in Baghdad are confined to their hotels.</p>
 
-<p>'Life goes on' Â– for any pictures of Iraq's poor making tea.</p>
+<p>'Life goes on' – for any pictures of Iraq's poor making tea.</p>
 
-<p>'Remnants' Â– allegedly 'diehard' Iraqi troops still shooting at the Americans but actually the first signs of a resistance movement dedicated to the 'liberation' of Iraq from its new western occupiers.</p>
+<p>'Remnants' – allegedly 'diehard' Iraqi troops still shooting at the Americans but actually the first signs of a resistance movement dedicated to the 'liberation' of Iraq from its new western occupiers.</p>
 
-<p>'Newly liberated' Â– for territory and cities newly occupied by the Americans or British.</p>
+<p>'Newly liberated' – for territory and cities newly occupied by the Americans or British.</p>
 
-<p>'What went wrong?' Â– to accompany pictures illustrating the growing anarchy in Iraq as if it were not predicted.</p>
+<p>'What went wrong?' – to accompany pictures illustrating the growing anarchy in Iraq as if it were not predicted.</p>
 </blockquote>
 
 <p>But we won't be fooled.  The real war will be on the <a href="http://news.independent.co.uk/digital/features/story.jsp?story=387981">web</a>.</p>

@@ -20,4 +20,4 @@ permalink: /2003/11/save_2_coumbus.html
 
 <p>By Vitruvius, it's the only building worth looking at in the entire plaza, er, circle.  For more on both the modernist building and the political-economic and aesthetic battle, see the <a href="http://www.preserve.org/lmwest/2ccpanel.htm">LANDMARK WEST</a>, <a href="http://www.recentpast.org/types/skyscraper/2columbus/">Recent Past preservation</a> and <a href="http://www.thecityreview.com/hhart.html">City Review</a> sites.</p>
 
-<p>[image is historical photograph, courtesy Ezra Stoller, 1964 Â©ESTO, on Recent Past Preservation site]</p>
+<p>[image is historical photograph, courtesy Ezra Stoller, 1964 ©ESTO, on Recent Past Preservation site]</p>

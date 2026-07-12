@@ -10,7 +10,7 @@ permalink: /2003/09/the_nowinfamous.html
 <p>The text of the news article would only begin to give you an idea of what it was like to be in that room yesterday.  For that kind of an account you could not improve on the wonderful writing of my friend Choire published on The Morning News <a href="http://www.themorningnews.org/archives/new_york_new_york/ronald_reagan_and_reading_proust.php">site</a>, where the event is referred to as "the now-infamous Wolfowitz riots."   [it's located about halfway down the page under "Sunday," but if you hurry there you'll miss some delicious fun with his visits to the rest of the <u>New</u> <u>Yorker</u> Festival projects]</p>
 
 <blockquote>
-<p>1:26 p.m. Outside the New School Auditorium there is a giant yellow New Yorker balloon with the words Â‘Sponsored by Kate Spade.Â’ The wind picks up and the balloon assaults some people. Interns spend the next 30 minutes hilariously attempting to deflate it. A passer-by asks Â‘WhatÂ’s going on here?Â’ The cute Young Republican in front of me in line says Â‘Wolfowitz.Â’ Â‘Oh,Â’ says the passer-by, Â‘WhatÂ’s he doing?Â’ Â‘Spreading evil,Â’ I butt in.</p>
+<p>1:26 p.m. Outside the New School Auditorium there is a giant yellow New Yorker balloon with the words ‘Sponsored by Kate Spade.’ The wind picks up and the balloon assaults some people. Interns spend the next 30 minutes hilariously attempting to deflate it. A passer-by asks ‘What’s going on here?’ The cute Young Republican in front of me in line says ‘Wolfowitz.’ ‘Oh,’ says the passer-by, ‘What’s he doing?’ ‘Spreading evil,’ I butt in.</p>
 </blockquote>
 
 <p>I have a few more thoughts of my own today.</p>

@@ -7,7 +7,7 @@ permalink: /2002/06/we_lose_a_great.html
 
 <p>This news arrived in our home only today, from <a href="http://members.aol.com/wockner/rexwockner.html">Rex Wockner</a>'s list, and for that I find great fault with the queer media.  Unless I have missed a lot, there have been no reports here of the death of <a href="http://hallmemoirs.com/gay_lesbian/144.shtml">Charlotte von Mahlsdorf </a>this past April.</p>
 
-<p>Charlotte von Mahlsdorf lived, entirely openly and openly fully, as a cross-dresser under the twentieth centuryÂ’s two most repressive regimes, the Nazis and the Communists.  She was, in her own words, "<a href="http://www.gruenderzeitmuseum.de/new/htm/charl.htm">my own woman</a>."</p>
+<p>Charlotte von Mahlsdorf lived, entirely openly and openly fully, as a cross-dresser under the twentieth century’s two most repressive regimes, the Nazis and the Communists.  She was, in her own words, "<a href="http://www.gruenderzeitmuseum.de/new/htm/charl.htm">my own woman</a>."</p>
 
 <p>Wockner's notice:</p>
 

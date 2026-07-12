@@ -20,18 +20,18 @@ John Singer Sargent <em>Ethel Smyth</em> 1901 pastel</p>
 <p><a href="http://www.nytimes.com/2007/10/02/arts/music/02wrec.html">Reviewing</a> the afternoon's performance and the opera itself for the <u>NYTimes</u> Bernard Holland seems to have been almost as enthusiastic as I was, about both  the performance and the opera itself, and he appears to agree its oblivion was a big mistake:</p>
 
 <blockquote>
-<p>Â“The WreckersÂ” gets your attention. It charges at the audience with all guns blazing, and tramples the weak and the hesitant in its path with a story of pillaged ships and triangular loves.</p>
+<p>“The Wreckers” gets your attention. It charges at the audience with all guns blazing, and tramples the weak and the hesitant in its path with a story of pillaged ships and triangular loves.</p>
 
 <p>Smyth (1858-1944) was determined to fill as big a physical and emotional space as eight singers and a big chorus and orchestra could manage. Everyone onstage seemed to rage with Ethel Smyth fever, pouring out nonstop fervor in one relentless fortissimo after another.<br />
 . . . .</p>
 
-<p>Â“The WreckersÂ” is not aimless cannon fire; Smyth knew what she was doing. Her orchestra makes winds whistle, waves roll and crash, and fog creep over the rocks in dark minor chords. From the land we hear hornpipes and sea chanteys in the distance. All the elements of a complete oceanography are present and rationally arranged.</p>
+<p>“The Wreckers” is not aimless cannon fire; Smyth knew what she was doing. Her orchestra makes winds whistle, waves roll and crash, and fog creep over the rocks in dark minor chords. From the land we hear hornpipes and sea chanteys in the distance. All the elements of a complete oceanography are present and rationally arranged.</p>
 </blockquote>
 
 <p>But while I thought the work was a real keeper, and I'm dying to see it fully-staged, Holland, apparently viewing it only from the vantage of the succeeding one hundred years (a considerable <em>advantage</em> over poor Smyth) ends a very enthusiastic review of the merits of the piece itself with a bizarre <em>non sequitur</em>:</p>
 
 <blockquote>
-<p>Does Â“The WreckersÂ” get a third chance? At some point, I am sure. It is not a deathless work, and too much exposure might do it more harm than good. Too much value is put on permanence anyway. Â“DisposableÂ” is not a dirty word. People got their moneyÂ’s worth on Sunday and should perhaps let Â“The WreckersÂ” go back to sleep.</p>
+<p>Does “The Wreckers” get a third chance? At some point, I am sure. It is not a deathless work, and too much exposure might do it more harm than good. Too much value is put on permanence anyway. “Disposable” is not a dirty word. People got their money’s worth on Sunday and should perhaps let “The Wreckers” go back to sleep.</p>
 </blockquote>
 
 <p>Only in the American world of opera world is the word  "deathless" always confined to the teeny list which begins with La Boheme, Aida, La Traviata and Carmen.</p>

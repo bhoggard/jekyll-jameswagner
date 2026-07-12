@@ -12,11 +12,11 @@ permalink: /2002/10/domestic_crisis.html
 <p>But we're marching off to war now, or at least the pretense of war, so nothing will be done.  Sane arguments have been blown off the face of the planet.</p>
 
 <blockquote>
-<p>Look at what happens to the health-care dollar as it wends its way from employers to the doctors and hospitals that provide medical services. Private insurers regularly skim off the top 10 percent to 25 percent of premiums for administrative costs, marketing and profits. The remainder is passed along a gantlet of satellite businesses Â— insurance brokers, disease-management and utilization-review companies, lawyers, consultants, billing agencies, information management firms and so on. Their function is often to limit services in one way or another. They, too, take a cut, including enough for their own administrative costs, marketing and profits. As much as half the health-care dollar never reaches doctors and hospitals Â— who themselves face high overhead costs in dealing with multiple insurers.</p>
+<p>Look at what happens to the health-care dollar as it wends its way from employers to the doctors and hospitals that provide medical services. Private insurers regularly skim off the top 10 percent to 25 percent of premiums for administrative costs, marketing and profits. The remainder is passed along a gantlet of satellite businesses — insurance brokers, disease-management and utilization-review companies, lawyers, consultants, billing agencies, information management firms and so on. Their function is often to limit services in one way or another. They, too, take a cut, including enough for their own administrative costs, marketing and profits. As much as half the health-care dollar never reaches doctors and hospitals — who themselves face high overhead costs in dealing with multiple insurers.</p>
 
 <p>....</p>
 
-<p>Many people believe a single-payer system is a good idea, but that we can't afford it. The truth is that we can no longer afford not to have such a system. We now spend more than $5,000 a year on health care for each American Â— more than twice the average of other advanced countries.</p>
+<p>Many people believe a single-payer system is a good idea, but that we can't afford it. The truth is that we can no longer afford not to have such a system. We now spend more than $5,000 a year on health care for each American — more than twice the average of other advanced countries.</p>
 
 <p>....</p>
 

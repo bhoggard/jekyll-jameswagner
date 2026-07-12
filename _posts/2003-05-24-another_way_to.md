@@ -14,7 +14,7 @@ permalink: /2003/05/another_way_to.html
 <p>Schell neither begins nor ends his argument as a pacifist.</p>
 
 <blockquote>
-<p>The book is infused with the Gandhian ethos of nonviolence as theory and practice, and yet Mr. Schell tells us that although he had wondered whether the process of writing this book had turned him into a pacifist, he decides not: "The difficulty of the creed for me was not the root of the word, pax, but its suffix, ist, Â— suggesting that one rule was applicable to all imaginable situations."</p>
+<p>The book is infused with the Gandhian ethos of nonviolence as theory and practice, and yet Mr. Schell tells us that although he had wondered whether the process of writing this book had turned him into a pacifist, he decides not: "The difficulty of the creed for me was not the root of the word, pax, but its suffix, ist, — suggesting that one rule was applicable to all imaginable situations."</p>
 
 <p>But more significantly, he adds, a preoccupation with an unconditional renunciation of violence is not integral to his argument, which is to insist that there exists a growing presence, "fostered by historical events, of an alternative" to war, and he explicates and persuasively links his inquiry with his greatest forebear, William James, and his advocacy of "the moral equivalent of war."</p>
 

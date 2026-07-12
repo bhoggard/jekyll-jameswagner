@@ -35,7 +35,7 @@ the same Keith Cylar who won the respect of civic officials for his tireless wor
 <blockquote>
 <p>A lot of this stuff for me became very emotional but I have not focused on it because I plan to do this work for a long time and I have learned. This is the problem that happened with ACT UP. You cannot last forever on anger. You cannot last forever on the negative side of emotions. And you really have to learn how to love. And you have to go to much more positive spaces ultimately if you are going to do this for a long time.</p>
 
-<p>And part of what happened with ACT UP was its evolution had to do not only with this intense creative thing and very brilliant people who created and populated and ran organizations. They were so competitive and so angry and bitter at the outside world and they needed [to] be because we were literally fighting for our lives. But inside we needed to learn how to love. We needed to learn how to care for each other. We needed to learn that I wasnÂ‚t necessarily your enemy.</p>
+<p>And part of what happened with ACT UP was its evolution had to do not only with this intense creative thing and very brilliant people who created and populated and ran organizations. They were so competitive and so angry and bitter at the outside world and they needed [to] be because we were literally fighting for our lives. But inside we needed to learn how to love. We needed to learn how to care for each other. We needed to learn that I wasn't necessarily your enemy.</p>
 
 <p>BS: There was also the recognition that doing AIDS work meant doing race, class, and gender work.</p>
 

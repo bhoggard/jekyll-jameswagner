@@ -75,9 +75,9 @@ Ellen Takata <em>Sleeper</em> 2005 fabric sculpture, aproximately 20" x 14" x 11
 <p>Excerpts from Maika's intriguing notes on these sculptures:</p>
 
 <blockquote>
-<p>[The show, "Winter Indoors," is named] for an artistÂ’s book by Takata that features the adventures of a sock cat and an ex-samurai in a New England home during the wintertime coupled with haikus . . . .</p>
+<p>[The show, "Winter Indoors," is named] for an artist’s book by Takata that features the adventures of a sock cat and an ex-samurai in a New England home during the wintertime coupled with haikus . . . .</p>
 
-<p>Ellen TakataÂ’s soft sculpture figures are small creatures conjured from scraps of fabric taken from the artistÂ’s own closet.  The ScholarÂ’s Rocks refer to the Chinese meditation tool and status symbol of the literari; other sculptures resemble animals (Â“Octopus on Rock,Â” Â“Fox,Â” SpiderbabyÂ”) or human-ish figures (Â“Aristocrat,Â” Â“Topknot,Â” Â“GhostÂ”). These gently animate things seem to refer to the Shinto belief that nature is littered with small gods; they might be the population of a childÂ’s winter toy chest, or a collection of imaginary companions made real.  A series of eight companion watercolors evoke natural scenes and creatures. The exhibition seems to create a family of slight, somewhat ephemeral beings.</p>
+<p>Ellen Takata’s soft sculpture figures are small creatures conjured from scraps of fabric taken from the artist’s own closet.  The Scholar’s Rocks refer to the Chinese meditation tool and status symbol of the literari; other sculptures resemble animals (“Octopus on Rock,” “Fox,” Spiderbaby”) or human-ish figures (“Aristocrat,” “Topknot,” “Ghost”). These gently animate things seem to refer to the Shinto belief that nature is littered with small gods; they might be the population of a child’s winter toy chest, or a collection of imaginary companions made real.  A series of eight companion watercolors evoke natural scenes and creatures. The exhibition seems to create a family of slight, somewhat ephemeral beings.</p>
 </blockquote>
 
 <p><img alt="dilillo.jpg" src="/mt_archives/dilillo.jpg" width="300" height="223" /><br />

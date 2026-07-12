@@ -8,7 +8,7 @@ permalink: /2008/02/a_dream_of_obam_1.html
 <p><strong>maybe making a world of difference, and one of correspondence as well</strong></p>
 
 <p><img alt="Obama_supporters.jpg" src="/mt_archives/Obama_supporters.jpg" width="600" height="330" /><br />
-<em>If the candidates could not be everywhere on Sunday, their allies could try. Gloria Walsh, center, a retired schoolteacher, paused to campaign for Barack Obama in Harlem, with Cordell Cleare and Mrs. WalshÂ’s granddaughter, Haja Barfield, 3.</em> [<u>NYTimes</u> caption]</p>
+<em>If the candidates could not be everywhere on Sunday, their allies could try. Gloria Walsh, center, a retired schoolteacher, paused to campaign for Barack Obama in Harlem, with Cordell Cleare and Mrs. Walsh’s granddaughter, Haja Barfield, 3.</em> [<u>NYTimes</u> caption]</p>
 
 <p>A lot of us will be voting in primaries tomorrow.   Maybe that calls for a whoopee, maybe not.</p>
 

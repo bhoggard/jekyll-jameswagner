@@ -14,11 +14,11 @@ permalink: /2003/04/another_war.html
 
 <p>. . . .</p>
 
-<p>The latest theory being touted in Washington by the usual unnamed government sources is that the Iraqis have moved their weapons out of the country, very possibly into Syria. This claim appears to have originated with Israeli intelligence Â– which has every motivation for stirring up trouble for its hostile Arab neighborsÂ– and has been bolstered by reports of fighting between Iraqi Special Republican Guard units and US special forces near the Syrian border.</p>
+<p>The latest theory being touted in Washington by the usual unnamed government sources is that the Iraqis have moved their weapons out of the country, very possibly into Syria. This claim appears to have originated with Israeli intelligence – which has every motivation for stirring up trouble for its hostile Arab neighbors– and has been bolstered by reports of fighting between Iraqi Special Republican Guard units and US special forces near the Syrian border.</p>
 
 <p>Disarmament experts do not give the claim much credence. After all, any suspicious convoy or mobile laboratory would almost certainly be spotted by US planes or spy satellites and bombed long before it reached Syria.</p>
 
-<p>But the notion does provide the hawks in Washington with a compelling plot device not unlike the McGuffin factor in Alfred Hitchcock's films Â– a catalyst that may or may not have significance in itself but that gets the suspense going and keeps the story rolling.</p>
+<p>But the notion does provide the hawks in Washington with a compelling plot device not unlike the McGuffin factor in Alfred Hitchcock's films – a catalyst that may or may not have significance in itself but that gets the suspense going and keeps the story rolling.</p>
 
 <p>If the Bush administration should ever seek to turn its military wrath on Damascus, the weapons of mass destruction it is failing to find in Iraq might just provide the excuse once again.</p>
 </blockquote>

@@ -35,7 +35,7 @@ but it never, ever looks like this</p>
 
 <p>Japanese Nanjing (1937-1945)</p>
 
-<p>Japanese Manchukuo (1932Â–1945)</p>
+<p>Japanese Manchukuo (1932–1945)</p>
 
 <p>German eastern Reich (1938-1945)</p>
 

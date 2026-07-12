@@ -10,7 +10,7 @@ permalink: /2003/06/they_care_enoug.html
 <blockquote>
 <p>The bad news is that terrorists were plotting to blow up the Brooklyn Bridge.</p>
 
-<p>But the good news Â— at least according to Mayor Michael Bloomberg Â— is that they cared enough about New York to target it.</p>
+<p>But the good news — at least according to Mayor Michael Bloomberg — is that they cared enough about New York to target it.</p>
 
 <p>"I guess in a perverse way should be pleased," Bloomberg said Thursday. "We are the target because it is the world's second home. We are the target because it's the place where everybody wants to come. Because we give opportunities other people find threatening. ... That's the good news in a bad news scenario."</p>
 </blockquote>

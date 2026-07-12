@@ -10,7 +10,7 @@ permalink: /2002/05/bushie_pans_lit.html
 <blockquote>
 <p>Perhaps Mr. Bush thought the French question was directed at him, or perhaps he thought Mr. Gregory was showing off. Whatever the case, Mr. Bush, his voice dripping with sarcasm, said "Very good, the guy memorizes four words, and he plays like he's intercontinental." (Mr. Gregory offered to go on in French, but that only made things worse.)</p>
 
-<p>"I'm impressed Â— que bueno," said Mr. Bush, using the Spanish phrase for "how wonderful." He added: "Now I'm literate in two languages."</p>
+<p>"I'm impressed — que bueno," said Mr. Bush, using the Spanish phrase for "how wonderful." He added: "Now I'm literate in two languages."</p>
 
 <p>Mr. Gregory seemed a bit abashed, but others noted that, during the trip, Russian, German and French reporters posed questions to Mr. Bush in English, and in their native tongue to other leaders.</p>
 </blockquote>

@@ -10,7 +10,7 @@ permalink: /2002/07/lieberman_suppo.html
 <p>The conservative Democratic believes his presidential running mate, Al Gore, shifted <a href="http://www.nytimes.com/2002/07/29/politics/29LIEB.html">too far </a>to the <b>left</b> [sic] during the 2000 campaign.</p>
 
 <blockquote>
-<p>In recent weeks, Mr. Lieberman has repeatedly expressed concerns that Democratic efforts to seize on allegations of corporate abuse on Wall Street could undo efforts made by some members of the party Â— most of whom are affiliated with the Democratic Leadership Council [formed in the 1980s to elect Republican knock-offs] and refer to themselves as New Democrats Â— to move the Democratic Party to the center, and rebut its image as antibusiness.</p>
+<p>In recent weeks, Mr. Lieberman has repeatedly expressed concerns that Democratic efforts to seize on allegations of corporate abuse on Wall Street could undo efforts made by some members of the party — most of whom are affiliated with the Democratic Leadership Council [formed in the 1980s to elect Republican knock-offs] and refer to themselves as New Democrats — to move the Democratic Party to the center, and rebut its image as antibusiness.</p>
 
 <p>In the interview last night, Mr. Lieberman said that he had felt the same way in 2000, when Mr. Gore presented his campaign as an appeal on behalf of "the people" against "special interests."</p>
 </blockquote>

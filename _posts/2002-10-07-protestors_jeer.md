@@ -12,7 +12,7 @@ permalink: /2002/10/protestors_jeer.html
 
 <p>It was not the crowd that showed up to support Democrat Mike Michaud in his run for the House, it was the crowd unhappy with members of Congress, especially Gephardt.</p>
 
-<p>Â“Gephardt, Gephardt has no spine! He just follows BushÂ’s line,Â” the crowd loudly repeated, holding signs and banging drums, standing a few feet away from the high-ranking Democrat. The age of protesters ranged from college students to middle-aged parents to white-haired seniors.</p>
+<p>“Gephardt, Gephardt has no spine! He just follows Bush’s line,” the crowd loudly repeated, holding signs and banging drums, standing a few feet away from the high-ranking Democrat. The age of protesters ranged from college students to middle-aged parents to white-haired seniors.</p>
 
 <p>The protesters were angry that Gephardt and other congressional leaders signed off on a resolution giving Bush the authority to use military action against Iraq. That resolution is expected to be taken up in Congress this week.</p>
 </blockquote>

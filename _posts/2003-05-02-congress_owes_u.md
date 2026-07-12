@@ -20,7 +20,7 @@ permalink: /2003/05/congress_owes_u.html
 <p>The following is from the print edition and is no longer available on-line.</p>
 
 <blockquote>
-<p>Eighteenth-century Americans Â— who were as worried about sneak assaults from foreign agents (and British sympathizers) as they were about the arrival of enemy gunships off the coastline Â— would have understood that attacks like those of 9/11 fall within the scope of Article IV. The Bush administration itself has repeatedly characterized terrorism as an act of war.</p>
+<p>Eighteenth-century Americans — who were as worried about sneak assaults from foreign agents (and British sympathizers) as they were about the arrival of enemy gunships off the coastline — would have understood that attacks like those of 9/11 fall within the scope of Article IV. The Bush administration itself has repeatedly characterized terrorism as an act of war.</p>
 
 <p>Significantly, Article IV requires the government to protect "each" of the states from invasion.  This means Washington must do so in a way that meets each state's individual needs, and that a particular state must not be left vulnerable just because taxpayers in other states prefer not to contribute additional money needed for its protection.  In the war on terrorism it takes more to defend New York than to defend Nebraska.  New York is a unique terrorist target:  a coastal metropolitan center, a national entry point, the financial and cultural capital, the home to the United Nations and a worldwide American symbol.  The federal government must take into account the city's special security requirements.</p>
 </blockquote>

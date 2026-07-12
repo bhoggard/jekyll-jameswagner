@@ -10,7 +10,7 @@ permalink: /2003/05/white_house_sep.html
 <p>The White House has never been interested in the question, and to this day it has done all that it could to <a href="http://www.msnbc.com/news/910676.asp">silence</a> any person or institution which was.</p>
 
 <blockquote>
-<p>In fact, NEWSWEEK has learned, President BushÂ’s chief lawyer has privately signaled that the White House may seek to invoke executive privilege over key documents relating to the attacks in order to keep them out of the hands of investigators for the National Commission on Terror Attacks Upon the United StatesÂ—the independent panel created by Congress to probe all aspects of 9-11.</p>
+<p>In fact, NEWSWEEK has learned, President Bush’s chief lawyer has privately signaled that the White House may seek to invoke executive privilege over key documents relating to the attacks in order to keep them out of the hands of investigators for the National Commission on Terror Attacks Upon the United States—the independent panel created by Congress to probe all aspects of 9-11.</p>
 </blockquote>
 
 <p>What may be a <a href="http://www.latimes.com/templates/misc/printstory.jsp?slug=la%2Dna%2Dgraham12may12&section=/printstory">coverup</a> with enormous political and national security consequences might finally be about to unravel.</p>

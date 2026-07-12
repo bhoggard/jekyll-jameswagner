@@ -19,7 +19,7 @@ permalink: /2007/09/nytimes_mixing_1.html
 <p>Inside the paper, on page A10, <a href="http://www.nytimes.com/2007/09/12/world/middleeast/12reax.html?_r=1&oref=slogin">the article itself</a> made it clear that the glowing opinion of the account given by the pair <a href="http://select.nytimes.com/2007/09/12/opinion/12dowd.html?n=Top%2fOpinion%2fEditorials%20and%20Op%2dEd%2fOp%2dEd%2fColumnists%2fMaureen%20Dowd">Maureen Dowd</a> calls the "Surge Twins" was actually one held by the very few Iraqis the reporter either bothered to or was able to ask (perhaps in telephone interviews):</p>
 
 <blockquote>
-<p>More than 20 Iraqis of different sects and ethnicities said in interviews across the country that they viewed the report favorably because it Â— or, at least the parts shown on television in Iraq Â— portrayed the situation accurately.</p>
+<p>More than 20 Iraqis of different sects and ethnicities said in interviews across the country that they viewed the report favorably because it — or, at least the parts shown on television in Iraq — portrayed the situation accurately.</p>
 </blockquote>
 
 <p>Does this sound like objective reporting?  Most readers probably never made it to the tenth page, and so were left [deliberately?] with an impression of this historical encounter that had been created by a totally misleading marketing blurb/preview.</p>

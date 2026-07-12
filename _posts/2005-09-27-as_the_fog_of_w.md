@@ -1,5 +1,5 @@
 ---
-title: "Â“Rumors of deaths greatly exaggerated\""
+title: "“Rumors of deaths greatly exaggerated\""
 date: 2005-09-27 13:29:18 -04:00
 categories: [General]
 tags: [Politics]

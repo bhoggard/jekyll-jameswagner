@@ -34,21 +34,21 @@ defense, like charity, used to begin at home</p>
 <blockquote>
 <p>Much of Europe is arguing over a Washington proposal to plant in Poland fewer than a dozen antimissile missiles that might not work, to guard against an Iranian threat that may not exist.</p>
 
-<p>The main party in PolandÂ’s governing coalition is inclined to accept the deal, and the countryÂ’s president, Lech Kaczynski, known in Europe for his fierce conservatism and nationalist talk, has been invited to the White House in July to talk things over with President Bush.</p>
+<p>The main party in Poland’s governing coalition is inclined to accept the deal, and the country’s president, Lech Kaczynski, known in Europe for his fierce conservatism and nationalist talk, has been invited to the White House in July to talk things over with President Bush.</p>
 
-<p>The Czech RepublicÂ’s fragile government coalition, meanwhile, has agreed to negotiate placement of high-powered American tracking radar on its soil despite widespread local opposition. The radar, now in the Marshall Islands, would help guide the antimissile missiles from Poland to hit and destroy their fast-moving targets in outer space.</p>
+<p>The Czech Republic’s fragile government coalition, meanwhile, has agreed to negotiate placement of high-powered American tracking radar on its soil despite widespread local opposition. The radar, now in the Marshall Islands, would help guide the antimissile missiles from Poland to hit and destroy their fast-moving targets in outer space.</p>
 
 <p>The European missile shield would be part of an integrated system that is already taking shape in California and Alaska, where the United States expects to deploy 30 long-range interceptors to guard against missile attack by the end of 2008.</p>
 
-<p>Washington says the Eastern European system could act in time to protect most of Europe and all of the United States and even much of Russia from a nuclear attack by Iran, that is, if Iran ever developed or obtained nuclear weapons and rockets with a range long enough to reach those targets, as well as a desire to fire them. They donÂ’t have those armaments now, but they might by 2015, the Bush administration says.</p>
+<p>Washington says the Eastern European system could act in time to protect most of Europe and all of the United States and even much of Russia from a nuclear attack by Iran, that is, if Iran ever developed or obtained nuclear weapons and rockets with a range long enough to reach those targets, as well as a desire to fire them. They don’t have those armaments now, but they might by 2015, the Bush administration says.</p>
 </blockquote>
 
 <p>But the entire system is in fact a big, very costly  joke.</p>
 
 <blockquote>
-<p>The 10 interceptor missiles that Washington is proposing to put in Poland could hardly stop RussiaÂ’s hundreds of intercontinental ballistic missiles in the event of all-out war.</p>
+<p>The 10 interceptor missiles that Washington is proposing to put in Poland could hardly stop Russia’s hundreds of intercontinental ballistic missiles in the event of all-out war.</p>
 
-<p>The American antimissile missiles will be placed too close to Russia to be of use against ICBMs fired from anywhere west of the Ural Mountains. If they work, though, the antimissile missiles in Alaska and California could stop a Russian ICBM fired in AmericaÂ’s direction from east of the Urals. The fact is that in tests the antimissile missiles donÂ’t work much of the time, and when they do it is under controlled circumstances that are far from typical in an actual attack.</p>
+<p>The American antimissile missiles will be placed too close to Russia to be of use against ICBMs fired from anywhere west of the Ural Mountains. If they work, though, the antimissile missiles in Alaska and California could stop a Russian ICBM fired in America’s direction from east of the Urals. The fact is that in tests the antimissile missiles don’t work much of the time, and when they do it is under controlled circumstances that are far from typical in an actual attack.</p>
 </blockquote>
 
 <p>Is insanity or calculation?  For over six years, on almost everything they've done, the Bushies have absolutely confounded my ability to decide.</p>

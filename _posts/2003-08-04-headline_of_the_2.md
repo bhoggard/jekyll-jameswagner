@@ -16,11 +16,11 @@ permalink: /2003/08/headline_of_the_2.html
 <blockquote>
 <p>The problems with "Gigli" (pronounced JEE-lee, although not by many) did not start with the reviews, but the reviews were scathing. The Washington Post called the movie "enervated, torpid, slack, dreary and, oh yes, nasty, brutish and long."</p>
 
-<p>The Los Angeles Times told readers, "Forget the hype Â— this movie would stink even without its big-ticket stars."</p>
+<p>The Los Angeles Times told readers, "Forget the hype — this movie would stink even without its big-ticket stars."</p>
 
 <p>The New York Times said the movie, though it draws on various other movies, "has a special badness all its own."</p>
 
-<p>The Wall Street Journal called it "the worst movie Â— all right, the worst allegedly major movie Â— of our admittedly young century."</p>
+<p>The Wall Street Journal called it "the worst movie — all right, the worst allegedly major movie — of our admittedly young century."</p>
 </blockquote>
 
 <p>Now if we could only believe Ms. Lopez's and Mr. Affleck's new privacy signaled a trend.</p>

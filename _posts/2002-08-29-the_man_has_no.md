@@ -8,7 +8,7 @@ permalink: /2002/08/the_man_has_no.html
 <p><a href="http://www.nydailynews.com/news/crime_file/story/14635p-13878c.html">He was arrested </a>at 81 for soliciting sex from a professional (actually a police officer in professional disguise), and not for the first time, and he's neither ashamed nor hesitant about talking about it.  He answers the reporter's question, no, he doesn't need viagra.  He's Italian.  He says he doesn't see why he has to sneak around for satisfaction.</p>
 
 <blockquote>
-<p>"I just felt like, you know, having a feeling Â— being close to someone," [Dominick] Salerno told the Daily News when asked about his second arrest for being a john in less than eight months. "It happens."</p>
+<p>"I just felt like, you know, having a feeling — being close to someone," [Dominick] Salerno told the Daily News when asked about his second arrest for being a john in less than eight months. "It happens."</p>
 
 <p>Salerno's rap sheet shows he has been looking for love in all the wrong places since he was 71, when he was first charged with soliciting a prostitute.</p>
 

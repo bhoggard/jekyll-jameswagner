@@ -18,7 +18,7 @@ Antti Laitinen <em>It's My Island</em> 2007 video [large detail of still from in
 <p>The gallery describes the source of the artist's remarkably engaging creativity</p>
 
 <blockquote>
-<p>Antti LaitinenÂ’s work shares some of the absurd seriousness of [the 1957 "Manila Rope" by the Finnish novelist Veijo Meri, a  literary performance of body art]. Just as in MeriÂ’s story, so in LaitinenÂ’s works incongruity between an individualÂ’s performance and circumstances grow into a cultural metaphor. Many of Antti LaitinenÂ’s work [sic] deal directly with fundamental issues of Finnish identity and cultural imagery, they are pictures of masculinity set in a context of nature and culture.</p>
+<p>Antti Laitinen’s work shares some of the absurd seriousness of [the 1957 "Manila Rope" by the Finnish novelist Veijo Meri, a  literary performance of body art]. Just as in Meri’s story, so in Laitinen’s works incongruity between an individual’s performance and circumstances grow into a cultural metaphor. Many of Antti Laitinen’s work [sic] deal directly with fundamental issues of Finnish identity and cultural imagery, they are pictures of masculinity set in a context of nature and culture.</p>
 </blockquote>
 
 <p>As I watched the video and later searched for more of this work and its contexts, I was reminded of the Sisyphean works of Brooklyn artist <a href="http://www.albany.edu/museum/wwwmuseum/work/buell/index.html">Dexter Buell</a>.</p>

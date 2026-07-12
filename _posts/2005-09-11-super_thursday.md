@@ -17,5 +17,5 @@ Mike  Paré <em>Ditch Dance</em> 2005 egg tempera and graphite on paper 22" x 30
 <p>Some enlightenment on the show's title, from the gallery:</p>
 
 <blockquote>
-<p>Expanding beyond the communal, counter-culture themes he explored in his Black Light Folk Festival exhibition in 2003, Paré now focuses his attention on moments of individual spiritual inwardness that made up, and continue to make up, the building blocks of Â“the movement.Â”</p>
+<p>Expanding beyond the communal, counter-culture themes he explored in his Black Light Folk Festival exhibition in 2003, Paré now focuses his attention on moments of individual spiritual inwardness that made up, and continue to make up, the building blocks of “the movement.”</p>
 </blockquote>

@@ -24,7 +24,7 @@ permalink: /2006/04/leave_new_york_1.html
 <blockquote>
 <p>Leave New York</p>
 
-<p>Simply meant to elicit the response, Â“why?Â”</p>
+<p>Simply meant to elicit the response, “why?”</p>
 
 <p>We as artists hope to answer as best we can, through our individual representations, the role our local landscape and art politics play in our daily lives.</p>
 

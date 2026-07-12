@@ -18,7 +18,7 @@ permalink: /2002/11/now_thats_a_rea.html
 
 <p>But then the Volkswagen shift workers in white overalls, installing drivetrains and dashboards on an assembly line behind the orchestra, signal that this is no ordinary night at the opera.</p>
 
-<p>Flushed out of its 19th-century opera house by the calamitous floods of last summer, the Semper Oper of Dresden is staging its latest production in an automobile factory Â— a shimmering glass-and-steel edifice in which the newest VW, a luxury sedan called the Phaeton, is assembled.</p>
+<p>Flushed out of its 19th-century opera house by the calamitous floods of last summer, the Semper Oper of Dresden is staging its latest production in an automobile factory — a shimmering glass-and-steel edifice in which the newest VW, a luxury sedan called the Phaeton, is assembled.</p>
 
 <p>"We didn't choose to do `Carmen' because of the name," said the opera's artistic director, Hans- Joachim Frey, though the poster for the production, with "car" and "men" in different colors, is an obvious wordplay.</p>
 </blockquote>

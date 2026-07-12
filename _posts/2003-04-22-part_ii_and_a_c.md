@@ -10,7 +10,7 @@ permalink: /2003/04/part_ii_and_a_c.html
 <p>This time the confusion of church and state got even more confusing, since recently the reverend one has dramatically elevated his status as enemy of reason, of the Constitution and of freedom from religion to that of enemy of all Americans who are not evangelical Christians.  Muslims have particular reason for outrage.</p>
 
 <blockquote>
-<p>WASHINGTON, April 17 Â— The Pentagon will proceed with a Good Friday religious service by the Rev. Franklin Graham, despite objections from some Muslim groups that he has called Islam "a very evil and wicked religion," officials said today.</p>
+<p>WASHINGTON, April 17 — The Pentagon will proceed with a Good Friday religious service by the Rev. Franklin Graham, despite objections from some Muslim groups that he has called Islam "a very evil and wicked religion," officials said today.</p>
 
 <p>Mr. Graham, a Christian evangelist, was invited to make an appearance at the Pentagon by some Defense Department employees. The son of the Rev. Billy Graham, Mr. Graham has spoken at the Pentagon on previous occasions and gave the invocation at President Bush's inauguration.</p>
 

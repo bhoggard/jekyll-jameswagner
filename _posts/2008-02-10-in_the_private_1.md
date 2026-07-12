@@ -11,7 +11,7 @@ Anna Von Mertens Dawn (the first U.S. sighting of Sputnik October 6, 1957, Fairb
 <p>What a great show!   The <a href="http://www.isefoundation.org/">ISE Cultural Foudnation</a> is currently hosting "<a href="http://www.artcal.net/event/view/7/6157">In the Private Eye</a>", a group exhibition of six artists who, in the words of the press release:</p>
 
 <blockquote>
-<p>. . . adopt an investigative approach to give form to matters that are either inherently obscured or altogether overwritten by time. Aided by modern technology that affords them unlimited access to informationÂ—they seek to unearth truths that illuminate various aspects of our current reality.</p>
+<p>. . . adopt an investigative approach to give form to matters that are either inherently obscured or altogether overwritten by time. Aided by modern technology that affords them unlimited access to information—they seek to unearth truths that illuminate various aspects of our current reality.</p>
 </blockquote>
 
 <p>The curator is <a href="http://www.artslant.com/la/artists/show/9983-yaelle-amir">Yaelle Amir</a>, and the experience of Barry and I with the show, "<a href="/2007/09/quote_unquote_a.html">Quote Unquote</a>", she curated at NURTUREart last fall was probably the big draw for both of us.   We also already knew enough about some of the artists at the ISE installation to bring us south of Houston this past Friday anyway.  We were deeply disappointed we had to miss a performance by Nin Brudermann scheduled for that evening, especially after brushing up against some of its drama during a rehearsal that afternoon.</p>

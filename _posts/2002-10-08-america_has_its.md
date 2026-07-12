@@ -18,13 +18,13 @@ permalink: /2002/10/america_has_its.html
 <p>So it's very sad that it is in this good city, or at least at its borders, that an extraordinary scenario <a href="http://www.nytimes.com/2002/10/08/national/08BIKE.html">unfolded</a> in the last year which I see as a metaphor for our larger society's sheer stupidity and laziness, and not incidently its newly-energized strain of <a href="http://www.xrefer.com/entry/443057">nativism</a>.</p>
 
 <blockquote>
-<p>SAN DIEGO, Oct. 2 Â— In this, the land where the automobile is king, at the busiest human crossroads in the world, the lowly bicycle had a brief moment of glory. For a time, two wheels were faster than four.</p>
+<p>SAN DIEGO, Oct. 2 — In this, the land where the automobile is king, at the busiest human crossroads in the world, the lowly bicycle had a brief moment of glory. For a time, two wheels were faster than four.</p>
 
 <p>This was in the days and months after Sept. 11, when border agents were checking every trunk and lifting every hood, and the inspection lines for cars were three hours long. The pedestrian lines were no shorter, since they had swelled with people who had gotten out of their cars.</p>
 
 <p>But people in the bike lane breezed through. Word got out. A bike rental business bloomed.</p>
 
-<p>It didn't last. Officials of the Immigration and Naturalization Service shut down the outdoor bike lane in midsummer, saying they were afraid that the 3,000 commuters from Mexico using it Â— among them housekeepers, schoolchildren and even some people in wheelchairs Â— were a danger to themselves as they slipped out of the lane to weave in and out of the lines of idling cars.</p>
+<p>It didn't last. Officials of the Immigration and Naturalization Service shut down the outdoor bike lane in midsummer, saying they were afraid that the 3,000 commuters from Mexico using it — among them housekeepers, schoolchildren and even some people in wheelchairs — were a danger to themselves as they slipped out of the lane to weave in and out of the lines of idling cars.</p>
 
 <p>As a result, local lawmakers are boiling, a group of border entrepreneurs are broke, and again it is left to the Mexican workers to suck it up and rise five hours before the workday begins to beat the rush.</p>
 

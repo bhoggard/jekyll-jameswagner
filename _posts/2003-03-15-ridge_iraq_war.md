@@ -8,7 +8,7 @@ permalink: /2003/03/ridge_iraq_war.html
 <p><a href="http://www.nytimes.com/2003/03/14/national/14RIDG.html?pagewanted=print&position=top">This</a> is not a news story.  It's not even an interesting feature story.  We all know this already and it's definitely not entertaining.  In fact, I'm convinced the only reason the White House and the <u>NYTimes</u> got together today on this one was to give me an excuse to post this item.</p>
 
 <blockquote>
-<p>WASHINGTON, March 13 Â— Homeland Security Secretary Tom Ridge joined federal law enforcement officials today in warning that suicide bombings like those that have killed hundreds in Israel are inevitable in the United States and will be difficult to prevent.</p>
+<p>WASHINGTON, March 13 — Homeland Security Secretary Tom Ridge joined federal law enforcement officials today in warning that suicide bombings like those that have killed hundreds in Israel are inevitable in the United States and will be difficult to prevent.</p>
 
 <p>His warning, in a television interview, came as Mr. Ridge and his department stepped up preparations to raise the nation's terrorism alert level to "high risk" out of concern over the possibility of terrorist attacks linked to an invasion of Iraq.</p>
 

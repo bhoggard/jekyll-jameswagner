@@ -14,7 +14,7 @@ permalink: /2002/07/book_activism.html
 
 <p>My habit started when I self-published a spiritual autobiography about my experiences at Union Theological Seminary, only to discover that it was virtually impossible to get bookstores to carry it. That's when I start stealing in reverse (that is, stocking the shelves with my own book).</p>
 
-<p>While some steal for drugs, others for money, some of us Â— and I'm sure that I'm not alone Â— steal from ourselves for a broader readership. <br />
+<p>While some steal for drugs, others for money, some of us — and I'm sure that I'm not alone — steal from ourselves for a broader readership. <br />
   (Rev.) TOM REIBER<br />
 Summit, N.J., July 19, 2002</p>
 </blockquote>

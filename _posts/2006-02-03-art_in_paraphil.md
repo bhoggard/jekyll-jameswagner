@@ -11,7 +11,7 @@ a boy and his fancy dog</p>
 
 <p>Ever so often something reminds us that we really don't know much about fetishes.</p>
 
-<p>I found this fascinating but uncredited image on a <a href="http://www.fritzhaeg.com/salon/events/25supermsalon.html">site</a> I was directed to by an email from <a href="http://www.slavamogutin.com/index_flash.php">Slava Mogutin</a> (alright, I'll admit it, I'm actually not totally unacquainted with the wonderful world of <em>Le fétichisme dans lÂ’amour</em>).</p>
+<p>I found this fascinating but uncredited image on a <a href="http://www.fritzhaeg.com/salon/events/25supermsalon.html">site</a> I was directed to by an email from <a href="http://www.slavamogutin.com/index_flash.php">Slava Mogutin</a> (alright, I'll admit it, I'm actually not totally unacquainted with the wonderful world of <em>Le fétichisme dans l’amour</em>).</p>
 
 <p>Agh, kids!</p>
 

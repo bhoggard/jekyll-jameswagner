@@ -16,10 +16,10 @@ Gavin Green <em>Hoalam Haba</em> 2006 embossed plastic and mirrored vinyl on pan
 <p>Green discussed this series of work in an interview with the director of the gallery, Brook Bartlett.  This is small excerpt from the pages which were available at the desk:</p>
 
 <blockquote>
-<p>The work, if itÂ’s going out into the world, needs to communicate. <br />
+<p>The work, if it’s going out into the world, needs to communicate. <br />
 ....</p>
 
-<p>Taking things (and words or phrases) that one might ignore, or take for granted, and subjecting them to an inquiry - I try to make work that asks questions. But itÂ’s not just asking a question, it's trying to look into subjects with rigor that I get excited about.</p>
+<p>Taking things (and words or phrases) that one might ignore, or take for granted, and subjecting them to an inquiry - I try to make work that asks questions. But it’s not just asking a question, it's trying to look into subjects with rigor that I get excited about.</p>
 
-<p>Asking questions, to me, doesnÂ’t have to imply that you are searching for answers; itÂ’s more about the act of asking the question, because it opens doors to the unexpected - it keeps things alive.Â“</p>
+<p>Asking questions, to me, doesn’t have to imply that you are searching for answers; it’s more about the act of asking the question, because it opens doors to the unexpected - it keeps things alive.“</p>
 </blockquote>

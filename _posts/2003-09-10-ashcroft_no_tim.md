@@ -15,7 +15,7 @@ permalink: /2003/09/ashcroft_no_tim.html
 <p>The delicious sarcasm of the <u>NYTimes</u> article begins with the <a href="http://www.nytimes.com/2003/09/10/nyregion/10ASHC.html?amp;ei=5062&en=65f07410c7515128&partner=GOOGLE&ex=1063857600&pagewanted=print&position=">headline</a>, "<b>Terror Lesson Fading for Some, Ashcroft Says in Manhattan</b>."  It seems we need to be made more frightened than we already are, so he's on it.</p>
 
 <blockquote>
-<p>The attorney general made clear that he believes the Justice Department's antiterrorism initiatives are fully in sync with the moral imperatives of God and country Â— and that those who disagree may have failed to absorb the lessons of Sept. 11.</p>
+<p>The attorney general made clear that he believes the Justice Department's antiterrorism initiatives are fully in sync with the moral imperatives of God and country — and that those who disagree may have failed to absorb the lessons of Sept. 11.</p>
 
 <p>"Just two years have passed," Mr. Ashcroft said, "but already it has become difficult for some Americans to recall the shock, anger, grief and anguish of that day."</p>
 

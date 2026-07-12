@@ -21,7 +21,7 @@ Becky Smith</p>
 <p>No one would ever expect to find Daniel Reich in a corporate office either.</p>
 
 <blockquote>
-<p>Mr. Reich says that for the younger dealers the art business is less about making money than about expressing the values and experiences of his generation. "It's all about being happy about whatever you can be happy about," he said. "My generation grew up in a time when we didn't have heroes. You grew up believing you were being hoodwinked and manipulated Â— and knowing you were, but learning to enjoy it because it came in fun colors or was on MTV.</p>
+<p>Mr. Reich says that for the younger dealers the art business is less about making money than about expressing the values and experiences of his generation. "It's all about being happy about whatever you can be happy about," he said. "My generation grew up in a time when we didn't have heroes. You grew up believing you were being hoodwinked and manipulated — and knowing you were, but learning to enjoy it because it came in fun colors or was on MTV.</p>
 
 <p>"The bottom line," he added, "was that I really wanted to have a gallery, and sometimes you just have to start doing something with whatever you have at your disposal."</p>
 </blockquote>

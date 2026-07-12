@@ -15,7 +15,7 @@ Shane Hope  <em>Infomorphic Animolecular Flowchart Food Chain of Event Horizons 
 [full view]</p>
 
 <p><img alt="Hope_Shane_Folk_Laptop_red.jpg" src="/mt_archives/Hope_Shane_Folk_Laptop_red.jpg" width="400" height="602" /><br />
-Shane Hope <em>Folk Computronium Laptop No. n+2.22Â…, paint and salvage, actual size, 1776</em> [large detail of installation]</p>
+Shane Hope <em>Folk Computronium Laptop No. n+2.22…, paint and salvage, actual size, 1776</em> [large detail of installation]</p>
 
 <p><img alt="Hope_Trent_round_drawing_site.jpg" src="/mt_archives/Hope_Trent_round_drawing_site.jpg" width="400" height="550" /><br />
 Shane Hope <em>Goo(f) Ball No &#960;, dark matter demarcations on lesser dimensional bits of tree, year wheneverafter</em></p>

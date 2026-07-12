@@ -23,7 +23,7 @@ permalink: /2004/01/liberty_up_in_s.html
 
 <p>Mr. Carter has also devoted no fewer than three editor's letters to criticizing the mayor. In the latest, in the February issue of the magazine, Mr. Carter says the mayor is "like a husband who returns home after the honeymoon and announces to his new bride that he has decided that henceforth they will be vegans."</p>
 
-<p>For that same issue now on newsstands, Mr. Carter commissioned an article by Christopher Hitchens in which Mr. Hitchens chronicled his minor crime spree throughout the city Â— feeding pigeons, smoking in a luxury car Â— painting Mr. Bloomberg's New York as something just short of a police state.</p>
+<p>For that same issue now on newsstands, Mr. Carter commissioned an article by Christopher Hitchens in which Mr. Hitchens chronicled his minor crime spree throughout the city — feeding pigeons, smoking in a luxury car — painting Mr. Bloomberg's New York as something just short of a police state.</p>
 </blockquote>
 
 <p>Carter is in good company, but he and his company are wrong.  Lewis Lapham and Rick MacArthur, editor and publisher respectively  of <u>Harpers</u> <u>Magazine</u> together with [perhaps less good company] Christopher Hitchens are among the more illustrious and outspoken sour critics of New York's public smoking ban, and all of them have used their very prominent professional names, visibilty and pulpits to attack it relentlessly either in print, on radio, in public forums, or in any combination of the three.</p>

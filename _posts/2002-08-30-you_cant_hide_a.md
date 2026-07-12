@@ -12,7 +12,7 @@ permalink: /2002/08/you_cant_hide_a.html
 <p>Barry has already posted <a href="http://bloggy.com/mt/archives/2002_08.html#000233">this</a> rather fresh Dubya doozy tonight, but it's just so comically horrible I feel compelled to do what I can to broadcast it farther.</p>
 
 <blockquote>
-<p><b>"There's no cave deep enough for America, or dark enough to hide."</b>Â—George W. Bush, Oklahoma City, Okla., Aug. 29, 2002</p>
+<p><b>"There's no cave deep enough for America, or dark enough to hide."</b>—George W. Bush, Oklahoma City, Okla., Aug. 29, 2002</p>
 </blockquote>
 
 <p>One can only weep.</p>

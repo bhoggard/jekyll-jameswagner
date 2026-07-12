@@ -7,17 +7,17 @@ permalink: /2003/09/my_september_12.html
 
 <p>I had to skip yesterday;  just couldn't take the scenes.  Here's why:</p>
 
-<p>As a nation, weÂ’re swimming in self-pity, weÂ’re shaking in fear, and weÂ’re reveling in revenge.</p>
+<p>As a nation, we’re swimming in self-pity, we’re shaking in fear, and we’re reveling in revenge.</p>
 
 <p>But were being really, really stupid.  Pity, fear and revenge do not make good policy for individuals or nations.</p>
 
-<p>We talk incessantly about what was done to us, but no one is asking why; weÂ’re sure itÂ’ll happen again, but we havenÂ’t done much to prevent that; and we want to beat the shit out of  Â“them,Â” even though Â“theyÂ” didnÂ’t do it.</p>
+<p>We talk incessantly about what was done to us, but no one is asking why; we’re sure it’ll happen again, but we haven’t done much to prevent that; and we want to beat the shit out of  “them,” even though “they” didn’t do it.</p>
 
-<p>I donÂ’t want to hear about September 11.  I want to hear about September 10 and September 12.  We need a serious investigation of how this thing happened, and a serious policy which might prevent it happening again.</p>
+<p>I don’t want to hear about September 11.  I want to hear about September 10 and September 12.  We need a serious investigation of how this thing happened, and a serious policy which might prevent it happening again.</p>
 
 <p>What we are getting is ignorance and violence, an ignorance and a violence which can only produce greater ignorance and violence, as have already seen and as we can expect to see so long as we are committed to it.</p>
 
-<p>The most truly horrifying take on why we are not getting what we really need is the argument that our <i>de facto </i>government is using September 11 for its own political purpose and for its plain money greed.  You donÂ’t have to believe that this administration had any part in or knew in advance about the devastating blows we suffered that day to be able to say it has done everything that it could to profit from it, and that so far its efforts have been very successful.</p>
+<p>The most truly horrifying take on why we are not getting what we really need is the argument that our <i>de facto </i>government is using September 11 for its own political purpose and for its plain money greed.  You don’t have to believe that this administration had any part in or knew in advance about the devastating blows we suffered that day to be able to say it has done everything that it could to profit from it, and that so far its efforts have been very successful.</p>
 
 <p>The first step in our recovery has not yet been taken.  That step will be the removal of this evil regime.</p>
 

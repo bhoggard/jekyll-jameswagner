@@ -18,7 +18,7 @@ permalink: /2007/12/new_new_museum.html
 
 <p><img alt="New_Museum_floor.jpg" src="/mt_archives/New_Museum_floor.jpg" width="600" height="399" /></p>
 
-<p>During the press preview on Thursday Barry pointed out this crack in the floor of one of the galleries.  I said something about the need for expansion joints.  Now I'm not so sure our assumptions were correct.  Maybe we didn't get the press packet the <u>NYTimes</u> got, because their architecture critic, Nicolai Ouroussoff, was able to <a href="http://www.nytimes.com/2007/11/30/arts/design/30newb.html?_r=1&oref=slogin">write</a>, "That effect [a hint of mystery] is reinforced by the rawness of the spaces Â— exposed beams, painted white walls, <em>cracked concrete floors</em> [my italics].</p>
+<p>During the press preview on Thursday Barry pointed out this crack in the floor of one of the galleries.  I said something about the need for expansion joints.  Now I'm not so sure our assumptions were correct.  Maybe we didn't get the press packet the <u>NYTimes</u> got, because their architecture critic, Nicolai Ouroussoff, was able to <a href="http://www.nytimes.com/2007/11/30/arts/design/30newb.html?_r=1&oref=slogin">write</a>, "That effect [a hint of mystery] is reinforced by the rawness of the spaces — exposed beams, painted white walls, <em>cracked concrete floors</em> [my italics].</p>
 
 <p><img alt="New_Museum_stair_window.jpg" src="/mt_archives/New_Museum_stair_window.jpg" width="400" height="602" /></p>
 

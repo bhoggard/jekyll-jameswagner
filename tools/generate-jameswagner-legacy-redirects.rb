@@ -35,14 +35,30 @@ REPO = File.expand_path('..', __dir__)
 OUTPUT_DIR = File.join(REPO, 'mt_archives')
 
 # Entries with a confirmed old-style /mt_archives/NNNNNN.html reference
-# (found linked from within other jameswagner.com posts, and per the user
-# known to be referenced elsewhere on the internet too) but whose numeric
-# HTML file is missing from SOURCE_BACKUP_DIR, so the Dir.glob scan below
-# would otherwise silently skip them. Confirmed published with a working
-# canonical permalink -- add here to force a stub even without a backup
-# file. (2727, 4872, 6576 are NOT included: those numeric IDs belong to
-# unpublished drafts with no canonical target to redirect to.)
-EXTRA_IDS_MISSING_BACKUP_FILE = [5332, 6052].freeze
+# (found linked from within other jameswagner.com posts, from bloggy.com's
+# own posts via a full DB cross-reference, and at least one confirmed
+# external site -- calendar.artcat.com/exhibits/2661.html links to 5664)
+# but whose numeric HTML file is missing from SOURCE_BACKUP_DIR, so the
+# Dir.glob scan below would otherwise silently skip them. Confirmed
+# published with a working canonical permalink -- add here to force a stub
+# even without a backup file. (2727, 4872, 6576 are NOT included: those
+# numeric IDs belong to unpublished drafts with no canonical target to
+# redirect to.)
+EXTRA_IDS_MISSING_BACKUP_FILE = [
+  2504, 2519, 2642, 2672, 2699, 2750, 2838, 2859, 2860, 2900,
+  2906, 2923, 2924, 2927, 2928, 2966, 2981, 2983, 3018, 3030,
+  3071, 3094, 3100, 3126, 3135, 3138, 3143, 3154, 3167, 3217,
+  3223, 3224, 3233, 3250, 3254, 3289, 3332, 3333, 3334, 3343,
+  3365, 3386, 3392, 3422, 3446, 3466, 3513, 3529, 3537, 3548,
+  3638, 3665, 3704, 3714, 3740, 3844, 3895, 3926, 3928, 3960,
+  4006, 4011, 4028, 4072, 4116, 4193, 4303, 4308, 4315, 4351,
+  4601, 4611, 4663, 4680, 4705, 4725, 4765, 4767, 4782, 4821,
+  4835, 4927, 5036, 5127, 5240, 5244, 5255, 5312, 5329, 5331,
+  5332, 5446, 5475, 5545, 5560, 5574, 5647, 5664, 5732, 5745,
+  5764, 5791, 5958, 6016, 6018, 6045, 6052, 6065, 6085, 6086,
+  6167, 6348, 6367, 6431, 6562, 6682, 6786, 6827, 6857, 6898,
+  6904, 6932,
+].freeze
 
 my_cnf = File.read(File.expand_path('~/.my.cnf'))
 db_pass = my_cnf[/password="(.*)"/, 1]

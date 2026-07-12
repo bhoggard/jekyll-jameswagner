@@ -64,16 +64,16 @@ body {
   display: none;
 }
 
-/* ...and reclaim the width it leaves behind. At >= xl, main is `col-xl-9`
-   (75%); with the panel gone we want it to take the full row instead of
-   leaving a quarter of the page blank. `main.col-xl-9` (element + class) is
-   more specific than Bootstrap's own `.col-xl-9` rule, so this wins without
-   needing `!important`. */
+/* ...and cap the content column at a fixed reading width instead of
+   stretching to fill the row the panel left behind. `main.col-xl-9`
+   (element + class) is more specific than Bootstrap's own `.col-xl-9`
+   rule, so this wins without needing `!important`. 700px targets a
+   comfortable reading line length rather than scaling with viewport. */
 @media (min-width: 1200px) {
   main.col-xl-9 {
     flex: 0 0 auto;
     width: 100%;
-    max-width: 100%;
+    max-width: 700px;
   }
 }
 

@@ -25,16 +25,12 @@ Photo by Robert Boyd of Barry Hoggard and James Wagner at Schroeder Romero, in f
 - Curated (with [Barry Hoggard](http://bloggy.com)) an exhibition at [Dam, Stuhltrager](http://www.damstuhltrager.com/) in Williamsburg: *[Dangling Between The Real Thing And The Sign In The Window](http://www.danglingbetween.com/)*, October/November 2006
 - Catalogue interviews for *Dark States* exhibition at [Platform Gallery](http://platformgallery.com/artist_pages/Dark%20States/dark_states.html) in Seattle, December 2005
 - *The Art of Collecting* panel, organized by [Janet Phelps](http://www.janetphelps.com/), at the [Affordable Art Fair](http://www.aafnyc.com/), October 29, 2005
-- Curator of [May 2005](http://www.thebody.com/visualaids/web_gallery/2005/wagner/01.html) Web Gallery for Visual AIDS
+- Curator of [May 2005](https://visualaids.org/gallery/untitled-all-over-the-place-) Web Gallery for Visual AIDS
 
 ## Blog Buzz
 
-- [Metroblogging Pittsburgh: Blogging Can Change The World](http://pittsburgh.metblogs.com/archives/2007/07/blogging_can_change_the_world.phtml)
 - [Todd Gibson](https://fromthefloor.blogspot.com/2005/01/blogs-and-art-market.html) - "Bloggers like Barry Hoggard and James Wagner are market influencers who will have an increasingly important hand in creating and enhancing demand for young, emerging artists."
-- Tyler Green: [1](http://www.artsjournal.com/man/archives20051001.shtml#103190) | [2](http://www.artsjournal.com/man/archives20041101.shtml#91135) | [3](http://www.artsjournal.com/man/archives20040801.shtml#85078)
-- art.blogging.la: [1](http://art.blogging.la/archives/001572.phtml) | [2](http://art.blogging.la/archives/2004/12/one_small_step.phtml)
 - [MTAA](http://www.mteww.com/mtaaRR/news/twhid/on_james_wagner_amp_barry_hoggard.html)
-- Edward Winkleman: [1](https://edwardwinkleman.blogspot.com/2005/09/it-begins.html) | [2](https://edwardwinkleman.blogspot.com/2005/09/perils-of-sloppy-juxtapositions.html) | [3](https://edwardwinkleman.blogspot.com/2005/10/artist-of-week-101705.html)
 
 ## Additional Links
 
